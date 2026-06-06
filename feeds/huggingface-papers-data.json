@@ -3,7 +3,7 @@
     {
       "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
       "authors": "Unknown",
-      "abstract": "Submitted by lilianahotsko 56  University of Waterloo 2",
+      "abstract": "Submitted by lilianahotsko 59  University of Waterloo 2",
       "url": "https://huggingface.co/papers/2606.06492"
     },
     {
@@ -15,7 +15,7 @@
     {
       "title": "TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration",
       "authors": "Unknown",
-      "abstract": "Submitted by starsuzi 36  KAIST AI 3",
+      "abstract": "Submitted by starsuzi 37  KAIST AI 4",
       "url": "https://huggingface.co/papers/2606.04743"
     },
     {
@@ -45,13 +45,13 @@
     {
       "title": "LoomVideo: Unifying Multimodal Inputs into Video Generation and Editing",
       "authors": "Unknown",
-      "abstract": "Submitted by jianzongwu 18  Peking University 30 1",
+      "abstract": "Submitted by jianzongwu 18  Peking University 39 1",
       "url": "https://huggingface.co/papers/2606.06042"
     },
     {
       "title": "Personal AI Agent for Camera Roll VQA",
       "authors": "Unknown",
-      "abstract": "Submitted by thaoshibe 18  · 5 authors 6 1",
+      "abstract": "Submitted by thaoshibe 18  · 5 authors 7 1",
       "url": "https://huggingface.co/papers/2606.05275"
     },
     {
@@ -61,16 +61,16 @@
       "url": "https://huggingface.co/papers/2606.04703"
     },
     {
+      "title": "Dream.exe: Can Video Generation Models Dream Executable Robot Manipulation?",
+      "authors": "Unknown",
+      "abstract": "Submitted by ruizhaocv 15  · 9 authors 20 2",
+      "url": "https://huggingface.co/papers/2606.04811"
+    },
+    {
       "title": "Complexity-Balanced Diffusion Splitting",
       "authors": "Unknown",
       "abstract": "Submitted by NoamIssachar 15  The Hebrew University of Jerusalem 11 1",
       "url": "https://huggingface.co/papers/2606.06477"
-    },
-    {
-      "title": "Dream.exe: Can Video Generation Models Dream Executable Robot Manipulation?",
-      "authors": "Unknown",
-      "abstract": "Submitted by ruizhaocv 14  · 9 authors 20 2",
-      "url": "https://huggingface.co/papers/2606.04811"
     },
     {
       "title": "The Road Ahead in Autonomous Driving: The KITScenes Multimodal Dataset",
@@ -109,15 +109,21 @@
       "url": "https://huggingface.co/papers/2606.03092"
     },
     {
+      "title": "AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding",
+      "authors": "Unknown",
+      "abstract": "Submitted by Skywalker0410 5  Peking University 3 2",
+      "url": "https://huggingface.co/papers/2606.06155"
+    },
+    {
       "title": "World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis",
       "authors": "Unknown",
-      "abstract": "Submitted by taesiri 5  · 12 authors 10",
+      "abstract": "Submitted by taesiri 5  · 12 authors 17",
       "url": "https://huggingface.co/papers/2606.05979"
     },
     {
       "title": "Imagine Before You Predict: Interleaved Latent Visual Reasoning for Video Event Prediction",
       "authors": "Unknown",
-      "abstract": "Submitted by Eurayka 5  OpenGVLab 3 1",
+      "abstract": "Submitted by Eurayka 5  OpenGVLab 4 1",
       "url": "https://huggingface.co/papers/2606.05769"
     },
     {
@@ -127,21 +133,21 @@
       "url": "https://huggingface.co/papers/2605.30159"
     },
     {
-      "title": "AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding",
-      "authors": "Unknown",
-      "abstract": "Submitted by Skywalker0410 4  Peking University 3 2",
-      "url": "https://huggingface.co/papers/2606.06155"
-    },
-    {
       "title": "Towards One-to-Many Temporal Grounding",
       "authors": "Unknown",
-      "abstract": "Submitted by insomnia7 4  ByteDance 1",
+      "abstract": "Submitted by insomnia7 4  ByteDance 2",
       "url": "https://huggingface.co/papers/2606.06294"
+    },
+    {
+      "title": "Latent Reasoning with Normalizing Flows",
+      "authors": "Unknown",
+      "abstract": "Submitted by taesiri 4  · 8 authors 1",
+      "url": "https://huggingface.co/papers/2606.06447"
     },
     {
       "title": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery",
       "authors": "Unknown",
-      "abstract": "Submitted by taesiri 4  · 14 authors 301 1",
+      "abstract": "Submitted by taesiri 4  · 14 authors 302 1",
       "url": "https://huggingface.co/papers/2606.06473"
     },
     {
@@ -149,6 +155,12 @@
       "authors": "Unknown",
       "abstract": "Submitted by taowangcheng 4  · 3 authors 2",
       "url": "https://huggingface.co/papers/2606.04465"
+    },
+    {
+      "title": "Flash-WAM: Modality-Aware Distillation for World Action Models",
+      "authors": "Unknown",
+      "abstract": "Submitted by taesiri 4  · 9 authors",
+      "url": "https://huggingface.co/papers/2606.05254"
     },
     {
       "title": "SEAOTTER: Sensor Embedded Autoencoding with One-Time Transcode for Efficient Reconstruction",
@@ -173,18 +185,6 @@
       "authors": "Unknown",
       "abstract": "Submitted by skyil7 3  Theta One AI 1",
       "url": "https://huggingface.co/papers/2606.05846"
-    },
-    {
-      "title": "Latent Reasoning with Normalizing Flows",
-      "authors": "Unknown",
-      "abstract": "Submitted by taesiri 3  · 8 authors 1",
-      "url": "https://huggingface.co/papers/2606.06447"
-    },
-    {
-      "title": "Flash-WAM: Modality-Aware Distillation for World Action Models",
-      "authors": "Unknown",
-      "abstract": "Submitted by taesiri 3  · 9 authors",
-      "url": "https://huggingface.co/papers/2606.05254"
     },
     {
       "title": "MechVQA: Benchmarking and Enhancing Multimodal LLMs on Comprehensive Mechanical Drawing Understanding",
@@ -279,7 +279,7 @@
     {
       "title": "Is This Edit Correct? A Multi-Dimensional Benchmark for Reasoning-Aware Image Editing",
       "authors": "Unknown",
-      "abstract": "Submitted by Yixuan-Ding-ZJU 1  Zhejiang University 0 1",
+      "abstract": "Submitted by Yixuan-Ding-ZJU 1  Zhejiang University 1 1",
       "url": "https://huggingface.co/papers/2606.05172"
     },
     {
@@ -335,19 +335,19 @@
     {
       "title": "Audio Interaction Model",
       "authors": "Unknown",
-      "abstract": "Submitted by taesiri 101  National University of Singapore 117 2",
+      "abstract": "Submitted by taesiri 101  National University of Singapore 128 2",
       "url": "https://huggingface.co/papers/2606.05121"
     },
     {
       "title": "Cosmos 3: Omnimodal World Models for Physical AI",
       "authors": "Unknown",
-      "abstract": "Submitted by taesiri 85  NVIDIA 9.51k 1",
+      "abstract": "Submitted by taesiri 86  NVIDIA 9.51k 1",
       "url": "https://huggingface.co/papers/2606.02800"
     },
     {
       "title": "OCC-RAG: Optimal Cognitive Core for Faithful Question Answering",
       "authors": "Unknown",
-      "abstract": "Submitted by Vasily 83  OCC 23 6",
+      "abstract": "Submitted by Vasily 84  OCC 23 6",
       "url": "https://huggingface.co/papers/2606.00683"
     },
     {
@@ -369,16 +369,16 @@
       "url": "https://huggingface.co/papers/2606.00408"
     },
     {
+      "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
+      "authors": "Unknown",
+      "abstract": "Submitted by lilianahotsko 59  University of Waterloo 2",
+      "url": "https://huggingface.co/papers/2606.06492"
+    },
+    {
       "title": "Representation Forcing for Bottleneck-Free Unified Multimodal Models",
       "authors": "Unknown",
       "abstract": "Submitted by taesiri 57  ByteDance Seed 2",
       "url": "https://huggingface.co/papers/2605.31604"
-    },
-    {
-      "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
-      "authors": "Unknown",
-      "abstract": "Submitted by lilianahotsko 56  University of Waterloo 2",
-      "url": "https://huggingface.co/papers/2606.06492"
     },
     {
       "title": "SwanVoice: Expressive Long-Form Zero-Shot Speech Synthesis for Both Monologue and Dialogue",
@@ -401,7 +401,7 @@
     {
       "title": "KVarN: Variance-Normalized KV-Cache Quantization Mitigates Error Accumulation in Reasoning Tasks",
       "authors": "Unknown",
-      "abstract": "Submitted by pbicho 51  HUAWEI Computing Systems Lab 293 10",
+      "abstract": "Submitted by pbicho 52  HUAWEI Computing Systems Lab 293 10",
       "url": "https://huggingface.co/papers/2606.03458"
     },
     {
@@ -459,6 +459,12 @@
       "url": "https://huggingface.co/papers/2606.03985"
     },
     {
+      "title": "TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration",
+      "authors": "Unknown",
+      "abstract": "Submitted by starsuzi 37  KAIST AI 4",
+      "url": "https://huggingface.co/papers/2606.04743"
+    },
+    {
       "title": "Reproducing, Analyzing, and Detecting Reward Hacking in Rubric-Based Reinforcement Learning",
       "authors": "Unknown",
       "abstract": "Submitted by larry2210 37  · 6 authors 3 1",
@@ -469,12 +475,6 @@
       "authors": "Unknown",
       "abstract": "Submitted by AaronZ345 37  Zhejiang University 2",
       "url": "https://huggingface.co/papers/2605.30940"
-    },
-    {
-      "title": "TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration",
-      "authors": "Unknown",
-      "abstract": "Submitted by starsuzi 36  KAIST AI 3",
-      "url": "https://huggingface.co/papers/2606.04743"
     },
     {
       "title": "dMoE: dLLMs with Learnable Block Experts",
@@ -531,16 +531,16 @@
       "url": "https://huggingface.co/papers/2605.29343"
     },
     {
+      "title": "OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs",
+      "authors": "Unknown",
+      "abstract": "Submitted by JoeLeelyf 31  Intern Large Models 36 2",
+      "url": "https://huggingface.co/papers/2606.03890"
+    },
+    {
       "title": "Comprehensive Benchmarking of Long-Form Speech Generation in Diverse Scenarios",
       "authors": "Unknown",
       "abstract": "Submitted by AaronZ345 31  Zhejiang University 2",
       "url": "https://huggingface.co/papers/2605.28618"
-    },
-    {
-      "title": "OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs",
-      "authors": "Unknown",
-      "abstract": "Submitted by JoeLeelyf 30  Intern Large Models 36 2",
-      "url": "https://huggingface.co/papers/2606.03890"
     },
     {
       "title": "Qwen-Image-Flash: Beyond Objective Design",
@@ -637,19 +637,19 @@
     {
       "title": "Audio Interaction Model",
       "authors": "Unknown",
-      "abstract": "Submitted by taesiri 101  National University of Singapore 117 2",
+      "abstract": "Submitted by taesiri 101  National University of Singapore 128 2",
       "url": "https://huggingface.co/papers/2606.05121"
     },
     {
       "title": "Cosmos 3: Omnimodal World Models for Physical AI",
       "authors": "Unknown",
-      "abstract": "Submitted by taesiri 85  NVIDIA 9.51k 1",
+      "abstract": "Submitted by taesiri 86  NVIDIA 9.51k 1",
       "url": "https://huggingface.co/papers/2606.02800"
     },
     {
       "title": "OCC-RAG: Optimal Cognitive Core for Faithful Question Answering",
       "authors": "Unknown",
-      "abstract": "Submitted by Vasily 83  OCC 23 6",
+      "abstract": "Submitted by Vasily 84  OCC 23 6",
       "url": "https://huggingface.co/papers/2606.00683"
     },
     {
@@ -671,16 +671,16 @@
       "url": "https://huggingface.co/papers/2606.00408"
     },
     {
+      "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
+      "authors": "Unknown",
+      "abstract": "Submitted by lilianahotsko 59  University of Waterloo 2",
+      "url": "https://huggingface.co/papers/2606.06492"
+    },
+    {
       "title": "Representation Forcing for Bottleneck-Free Unified Multimodal Models",
       "authors": "Unknown",
       "abstract": "Submitted by taesiri 57  ByteDance Seed 2",
       "url": "https://huggingface.co/papers/2605.31604"
-    },
-    {
-      "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
-      "authors": "Unknown",
-      "abstract": "Submitted by lilianahotsko 56  University of Waterloo 2",
-      "url": "https://huggingface.co/papers/2606.06492"
     },
     {
       "title": "SwanVoice: Expressive Long-Form Zero-Shot Speech Synthesis for Both Monologue and Dialogue",
@@ -703,7 +703,7 @@
     {
       "title": "KVarN: Variance-Normalized KV-Cache Quantization Mitigates Error Accumulation in Reasoning Tasks",
       "authors": "Unknown",
-      "abstract": "Submitted by pbicho 51  HUAWEI Computing Systems Lab 293 10",
+      "abstract": "Submitted by pbicho 52  HUAWEI Computing Systems Lab 293 10",
       "url": "https://huggingface.co/papers/2606.03458"
     },
     {
@@ -761,6 +761,12 @@
       "url": "https://huggingface.co/papers/2606.03985"
     },
     {
+      "title": "TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration",
+      "authors": "Unknown",
+      "abstract": "Submitted by starsuzi 37  KAIST AI 4",
+      "url": "https://huggingface.co/papers/2606.04743"
+    },
+    {
       "title": "Reproducing, Analyzing, and Detecting Reward Hacking in Rubric-Based Reinforcement Learning",
       "authors": "Unknown",
       "abstract": "Submitted by larry2210 37  · 6 authors 3 1",
@@ -771,12 +777,6 @@
       "authors": "Unknown",
       "abstract": "Submitted by AaronZ345 37  Zhejiang University 2",
       "url": "https://huggingface.co/papers/2605.30940"
-    },
-    {
-      "title": "TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration",
-      "authors": "Unknown",
-      "abstract": "Submitted by starsuzi 36  KAIST AI 3",
-      "url": "https://huggingface.co/papers/2606.04743"
     },
     {
       "title": "dMoE: dLLMs with Learnable Block Experts",
@@ -833,16 +833,16 @@
       "url": "https://huggingface.co/papers/2605.29343"
     },
     {
+      "title": "OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs",
+      "authors": "Unknown",
+      "abstract": "Submitted by JoeLeelyf 31  Intern Large Models 36 2",
+      "url": "https://huggingface.co/papers/2606.03890"
+    },
+    {
       "title": "Comprehensive Benchmarking of Long-Form Speech Generation in Diverse Scenarios",
       "authors": "Unknown",
       "abstract": "Submitted by AaronZ345 31  Zhejiang University 2",
       "url": "https://huggingface.co/papers/2605.28618"
-    },
-    {
-      "title": "OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs",
-      "authors": "Unknown",
-      "abstract": "Submitted by JoeLeelyf 30  Intern Large Models 36 2",
-      "url": "https://huggingface.co/papers/2606.03890"
     },
     {
       "title": "Qwen-Image-Flash: Beyond Objective Design",
@@ -967,22 +967,16 @@
       "url": "https://huggingface.co/papers/2601.02163"
     },
     {
-      "title": "Efficient Memory Management for Large Language Model Serving with\n  PagedAttention",
-      "authors": "Unknown",
-      "abstract": "Submitted by akhaliq  PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache. 9 authors · Published on Sep 12, 2023 Upvote 58 GitHub ",
-      "url": "https://huggingface.co/papers/2309.06180"
-    },
-    {
       "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
       "authors": "Unknown",
       "abstract": "Submitted by akhaliq  OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks. 24 authors · Publish",
       "url": "https://huggingface.co/papers/2407.16741"
     },
     {
-      "title": "MOSS-TTS Technical Report",
+      "title": "Efficient Memory Management for Large Language Model Serving with\n  PagedAttention",
       "authors": "Unknown",
-      "abstract": "Submitted by fdugyt  MOSS-TTS is a speech generation model using discrete audio tokens and autoregressive modeling with capabilities for voice cloning, pronunciation control, and long-form generation across multiple languages. OpenMOSS · Pu",
-      "url": "https://huggingface.co/papers/2603.18090"
+      "abstract": "Submitted by akhaliq  PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache. 9 authors · Published on Sep 12, 2023 Upvote 58 GitHub ",
+      "url": "https://huggingface.co/papers/2309.06180"
     },
     {
       "title": "Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of\n  Encoders",
@@ -991,16 +985,10 @@
       "url": "https://huggingface.co/papers/2408.15998"
     },
     {
-      "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
+      "title": "MOSS-TTS Technical Report",
       "authors": "Unknown",
-      "abstract": "Submitted by MoeinAbtahi  Memanto presents a universal memory layer for agentic AI that eliminates computational overhead of hybrid semantic graph architectures through a typed semantic memory schema and information-theoretic search engine.",
-      "url": "https://huggingface.co/papers/2604.22085"
-    },
-    {
-      "title": "ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration",
-      "authors": "Unknown",
-      "abstract": "Submitted by RuofengYang  ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers. Shanghai Ji",
-      "url": "https://huggingface.co/papers/2605.03042"
+      "abstract": "Submitted by fdugyt  MOSS-TTS is a speech generation model using discrete audio tokens and autoregressive modeling with capabilities for voice cloning, pronunciation control, and long-form generation across multiple languages. OpenMOSS · Pu",
+      "url": "https://huggingface.co/papers/2603.18090"
     },
     {
       "title": "Very Large-Scale Multi-Agent Simulation in AgentScope",
@@ -1013,6 +1001,18 @@
       "authors": "Unknown",
       "abstract": "Submitted by taesiri  AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deploym",
       "url": "https://huggingface.co/papers/2508.16279"
+    },
+    {
+      "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
+      "authors": "Unknown",
+      "abstract": "Submitted by MoeinAbtahi  Memanto presents a universal memory layer for agentic AI that eliminates computational overhead of hybrid semantic graph architectures through a typed semantic memory schema and information-theoretic search engine.",
+      "url": "https://huggingface.co/papers/2604.22085"
+    },
+    {
+      "title": "ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration",
+      "authors": "Unknown",
+      "abstract": "Submitted by RuofengYang  ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers. Shanghai Ji",
+      "url": "https://huggingface.co/papers/2605.03042"
     },
     {
       "title": "LongCat-Video Technical Report",
@@ -1033,16 +1033,16 @@
       "url": "https://huggingface.co/papers/2606.03458"
     },
     {
-      "title": "Audio Interaction Model",
-      "authors": "Unknown",
-      "abstract": "Submitted by taesiri  A unified streaming audio model is developed that combines offline task execution with real-time audio instruction following through an end-to-end framework supporting multiple audio interaction capabilities. National ",
-      "url": "https://huggingface.co/papers/2606.05121"
-    },
-    {
       "title": "VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild",
       "authors": "Unknown",
       "abstract": "Submitted by Luckyyy  LLM-based agents perform poorly on VibeSearch benchmark, which evaluates multi-turn dialogue search scenarios reflecting real user-agent collaboration rather than traditional single-turn query tasks. rednote-hilab · Pu",
       "url": "https://huggingface.co/papers/2605.27882"
+    },
+    {
+      "title": "SmolDocling: An ultra-compact vision-language model for end-to-end\n  multi-modal document conversion",
+      "authors": "Unknown",
+      "abstract": "Submitted by andito  SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format. IBM Granite · Published on",
+      "url": "https://huggingface.co/papers/2503.11576"
     },
     {
       "title": "COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation",
@@ -1051,16 +1051,16 @@
       "url": "https://huggingface.co/papers/2605.31264"
     },
     {
+      "title": "Audio Interaction Model",
+      "authors": "Unknown",
+      "abstract": "Submitted by taesiri  A unified streaming audio model is developed that combines offline task execution with real-time audio instruction following through an end-to-end framework supporting multiple audio interaction capabilities. National ",
+      "url": "https://huggingface.co/papers/2606.05121"
+    },
+    {
       "title": "PyTorch Distributed: Experiences on Accelerating Data Parallel Training",
       "authors": "Unknown",
       "abstract": "The PyTorch distributed data parallel module optimizes large-scale model training using techniques like gradient bucketing, computation-communication overlap, and selective synchronization to achieve near-linear scalability. 11 authors · Pu",
       "url": "https://huggingface.co/papers/2006.15704"
-    },
-    {
-      "title": "SmolDocling: An ultra-compact vision-language model for end-to-end\n  multi-modal document conversion",
-      "authors": "Unknown",
-      "abstract": "Submitted by andito  SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format. IBM Granite · Published on",
-      "url": "https://huggingface.co/papers/2503.11576"
     },
     {
       "title": "GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)",
@@ -1093,22 +1093,10 @@
       "url": "https://huggingface.co/papers/2602.08968"
     },
     {
-      "title": "LoomVideo: Unifying Multimodal Inputs into Video Generation and Editing",
-      "authors": "Unknown",
-      "abstract": "Submitted by jianzongwu  LoomVideo presents an efficient 5B-parameter unified architecture for video generation and editing that reduces computational overhead through novel conditioning mechanisms and multi-modal alignment techniques. Peki",
-      "url": "https://huggingface.co/papers/2606.06042"
-    },
-    {
       "title": "OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation",
       "authors": "Unknown",
       "abstract": "A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spoken dialogue through a multi-stage post-training technique that integrates speech and text without altering the original model's architecture. 9 authors · Publis",
       "url": "https://huggingface.co/papers/2410.17799"
-    },
-    {
-      "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
-      "authors": "Unknown",
-      "abstract": "Submitted by nielsr  YOLO26 addresses real-time vision challenges through a unified model family with NMS-free inference, improved training strategies, and multi-task capabilities spanning detection, segmentation, and pose estimation. Ultra",
-      "url": "https://huggingface.co/papers/2606.03748"
     },
     {
       "title": "Echo-Infinity: Learning Evolving Memory for Real-Time Infinite Video Generation",
@@ -1121,6 +1109,18 @@
       "authors": "Unknown",
       "abstract": "Submitted by Abyssaledge  MobileGym presents a browser-based mobile environment enabling deterministic evaluation and scalable reinforcement learning through JSON-based state management and parallel execution. 11 authors · Published on May ",
       "url": "https://huggingface.co/papers/2605.26114"
+    },
+    {
+      "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+      "authors": "Unknown",
+      "abstract": "Submitted by nielsr  YOLO26 addresses real-time vision challenges through a unified model family with NMS-free inference, improved training strategies, and multi-task capabilities spanning detection, segmentation, and pose estimation. Ultra",
+      "url": "https://huggingface.co/papers/2606.03748"
+    },
+    {
+      "title": "LoomVideo: Unifying Multimodal Inputs into Video Generation and Editing",
+      "authors": "Unknown",
+      "abstract": "Submitted by jianzongwu  LoomVideo presents an efficient 5B-parameter unified architecture for video generation and editing that reduces computational overhead through novel conditioning mechanisms and multi-modal alignment techniques. Peki",
+      "url": "https://huggingface.co/papers/2606.06042"
     },
     {
       "title": "Scaling Agents via Continual Pre-training",
@@ -1207,7 +1207,7 @@
       "url": "https://huggingface.co/papers/2403.08299"
     }
   ],
-  "lastUpdated": "2026-06-06T09:19:56.893344+00:00",
+  "lastUpdated": "2026-06-06T12:03:32.436821+00:00",
   "totals": {
     "daily": 50,
     "weekly": 50,
