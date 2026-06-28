@@ -3,7 +3,7 @@
     {
       "title": "DanceOPD: On-Policy Generative Field Distillation",
       "authors": "Unknown",
-      "abstract": "Submitted by taesiri 66  ByteDance Seed 2",
+      "abstract": "Submitted by taesiri 67  ByteDance Seed 2",
       "url": "https://huggingface.co/papers/2606.27377"
     },
     {
@@ -13,16 +13,16 @@
       "url": "https://huggingface.co/papers/2606.26025"
     },
     {
+      "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning",
+      "authors": "Unknown",
+      "abstract": "Submitted by Jinyang23 43  · 11 authors 37 1",
+      "url": "https://huggingface.co/papers/2606.26790"
+    },
+    {
       "title": "Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation",
       "authors": "Unknown",
       "abstract": "Submitted by taesiri 41  Qwen 3",
       "url": "https://huggingface.co/papers/2606.26907"
-    },
-    {
-      "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning",
-      "authors": "Unknown",
-      "abstract": "Submitted by Jinyang23 40  · 11 authors 35 1",
-      "url": "https://huggingface.co/papers/2606.26790"
     },
     {
       "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
@@ -33,7 +33,7 @@
     {
       "title": "ViQ: Text-Aligned Visual Quantized Representations at Any Resolution",
       "authors": "Unknown",
-      "abstract": "Submitted by Zuyan 38  Tencent Hunyuan 80 1",
+      "abstract": "Submitted by Zuyan 38  Tencent Hunyuan 97 1",
       "url": "https://huggingface.co/papers/2606.27313"
     },
     {
@@ -45,7 +45,7 @@
     {
       "title": "GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents",
       "authors": "Unknown",
-      "abstract": "Submitted by rebeccazzzz 27  · 7 authors 1 1",
+      "abstract": "Submitted by rebeccazzzz 27  · 7 authors 2 1",
       "url": "https://huggingface.co/papers/2606.24551"
     },
     {
@@ -57,13 +57,13 @@
     {
       "title": "Running the Gauntlet: Re-evaluating the Capabilities of Agents Beyond Familiar Environments",
       "authors": "Unknown",
-      "abstract": "Submitted by RunqiLin 15  University of Oxford 1 2",
+      "abstract": "Submitted by RunqiLin 16  University of Oxford 1 2",
       "url": "https://huggingface.co/papers/2606.14397"
     },
     {
       "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
       "authors": "Unknown",
-      "abstract": "Submitted by jinzhuoran 15  Chinese Academic of Science Institute of Automation 2 2",
+      "abstract": "Submitted by jinzhuoran 15  Chinese Academic of Science Institute of Automation 3 2",
       "url": "https://huggingface.co/papers/2606.26027"
     },
     {
@@ -123,7 +123,7 @@
     {
       "title": "When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models",
       "authors": "Unknown",
-      "abstract": "Submitted by josefchen 3  Kaikaku 1",
+      "abstract": "Submitted by josefchen 3  Kaikaku 2",
       "url": "https://huggingface.co/papers/2606.27288"
     },
     {
@@ -147,7 +147,7 @@
     {
       "title": "EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting",
       "authors": "Unknown",
-      "abstract": "Submitted by ll-13 2  · 6 authors 4 1",
+      "abstract": "Submitted by ll-13 2  · 6 authors 5 1",
       "url": "https://huggingface.co/papers/2606.27277"
     }
   ],
@@ -179,7 +179,7 @@
     {
       "title": "Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models",
       "authors": "Unknown",
-      "abstract": "Submitted by lhhuang 92  Wan-AI 4",
+      "abstract": "Submitted by lhhuang 93  Wan-AI 7",
       "url": "https://huggingface.co/papers/2606.25041"
     },
     {
@@ -203,13 +203,13 @@
     {
       "title": "DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams",
       "authors": "Unknown",
-      "abstract": "Submitted by Coneonewan 72  · 9 authors 77 1",
+      "abstract": "Submitted by Coneonewan 73  · 9 authors 77 1",
       "url": "https://huggingface.co/papers/2606.21337"
     },
     {
       "title": "DanceOPD: On-Policy Generative Field Distillation",
       "authors": "Unknown",
-      "abstract": "Submitted by taesiri 66  ByteDance Seed 2",
+      "abstract": "Submitted by taesiri 67  ByteDance Seed 2",
       "url": "https://huggingface.co/papers/2606.27377"
     },
     {
@@ -267,6 +267,12 @@
       "url": "https://huggingface.co/papers/2606.25763"
     },
     {
+      "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning",
+      "authors": "Unknown",
+      "abstract": "Submitted by Jinyang23 43  · 11 authors 37 1",
+      "url": "https://huggingface.co/papers/2606.26790"
+    },
+    {
       "title": "MemGUI-Agent: An End-to-End Long-Horizon Mobile GUI Agent with Proactive Context Management",
       "authors": "Unknown",
       "abstract": "Submitted by lgy0404 42  kwai 71 1",
@@ -291,12 +297,6 @@
       "url": "https://huggingface.co/papers/2606.25331"
     },
     {
-      "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning",
-      "authors": "Unknown",
-      "abstract": "Submitted by Jinyang23 40  · 11 authors 35 1",
-      "url": "https://huggingface.co/papers/2606.26790"
-    },
-    {
       "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
       "authors": "Unknown",
       "abstract": "Submitted by zjj1233 39  Qwen 3",
@@ -305,7 +305,7 @@
     {
       "title": "ViQ: Text-Aligned Visual Quantized Representations at Any Resolution",
       "authors": "Unknown",
-      "abstract": "Submitted by Zuyan 38  Tencent Hunyuan 80 1",
+      "abstract": "Submitted by Zuyan 38  Tencent Hunyuan 97 1",
       "url": "https://huggingface.co/papers/2606.27313"
     },
     {
@@ -353,7 +353,7 @@
     {
       "title": "GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents",
       "authors": "Unknown",
-      "abstract": "Submitted by rebeccazzzz 27  · 7 authors 1 1",
+      "abstract": "Submitted by rebeccazzzz 27  · 7 authors 2 1",
       "url": "https://huggingface.co/papers/2606.24551"
     },
     {
@@ -377,7 +377,7 @@
     {
       "title": "UnityShots: Memory-Driven Multi-Shot Audio-Video Generation with Boundary-Aware Gating",
       "authors": "Unknown",
-      "abstract": "Submitted by JackAILab 24  Kling Team 33 1",
+      "abstract": "Submitted by JackAILab 24  Kling Team 34 1",
       "url": "https://huggingface.co/papers/2606.21661"
     },
     {
@@ -671,16 +671,16 @@
       "url": "https://huggingface.co/papers/2606.06492"
     },
     {
-      "title": "FastContext: Training Efficient Repository Explorer for Coding Agents",
-      "authors": "Unknown",
-      "abstract": "Submitted by qiushao 93  Microsoft 979 3",
-      "url": "https://huggingface.co/papers/2606.14066"
-    },
-    {
       "title": "Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models",
       "authors": "Unknown",
-      "abstract": "Submitted by lhhuang 92  Wan-AI 4",
+      "abstract": "Submitted by lhhuang 93  Wan-AI 7",
       "url": "https://huggingface.co/papers/2606.25041"
+    },
+    {
+      "title": "FastContext: Training Efficient Repository Explorer for Coding Agents",
+      "authors": "Unknown",
+      "abstract": "Submitted by qiushao 93  Microsoft 986 3",
+      "url": "https://huggingface.co/papers/2606.14066"
     },
     {
       "title": "MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling",
@@ -847,12 +847,6 @@
       "url": "https://huggingface.co/papers/2604.22085"
     },
     {
-      "title": "ViQ: Text-Aligned Visual Quantized Representations at Any Resolution",
-      "authors": "Unknown",
-      "abstract": "Submitted by Zuyan  ViQ presents a visual quantization framework that balances semantic richness and detail preservation in discrete representations, enabling efficient multimodal training with native-resolution inputs. Tencent Hunyuan · Pu",
-      "url": "https://huggingface.co/papers/2606.27313"
-    },
-    {
       "title": "Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise in Infinite, Real-Time Terrain Generation",
       "authors": "Unknown",
       "abstract": "Submitted by xandergos  Terrain Diffusion uses diffusion models and a novel algorithm called InfiniteDiffusion to generate realistic, seamless, and boundless procedural worlds with constant-time random access. 1 authors · Published on Dec 9",
@@ -871,16 +865,22 @@
       "url": "https://huggingface.co/papers/2512.16676"
     },
     {
-      "title": "JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence",
-      "authors": "Unknown",
-      "abstract": "Submitted by iieycx  A vision-language model operates continuously in real-time, making autonomous decisions about when to respond or delegate, enabling interactive systems that perceive and act upon environmental changes without user promp",
-      "url": "https://huggingface.co/papers/2606.14777"
-    },
-    {
       "title": "SmolDocling: An ultra-compact vision-language model for end-to-end\n  multi-modal document conversion",
       "authors": "Unknown",
       "abstract": "Submitted by andito  SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format. IBM Granite · Published on",
       "url": "https://huggingface.co/papers/2503.11576"
+    },
+    {
+      "title": "ViQ: Text-Aligned Visual Quantized Representations at Any Resolution",
+      "authors": "Unknown",
+      "abstract": "Submitted by Zuyan  ViQ presents a visual quantization framework that balances semantic richness and detail preservation in discrete representations, enabling efficient multimodal training with native-resolution inputs. Tencent Hunyuan · Pu",
+      "url": "https://huggingface.co/papers/2606.27313"
+    },
+    {
+      "title": "JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence",
+      "authors": "Unknown",
+      "abstract": "Submitted by iieycx  A vision-language model operates continuously in real-time, making autonomous decisions about when to respond or delegate, enabling interactive systems that perceive and act upon environmental changes without user promp",
+      "url": "https://huggingface.co/papers/2606.14777"
     },
     {
       "title": "LMCache: An Efficient KV Cache Layer for Enterprise-Scale LLM Inference",
@@ -901,16 +901,22 @@
       "url": "https://huggingface.co/papers/2508.04660"
     },
     {
-      "title": "MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision",
-      "authors": "Unknown",
-      "abstract": "Submitted by huohua325  MemSlides presents a hierarchical memory framework for personalized presentation agents that separates long-term user profiles, working memory for session constraints, and tool memory for reusable execution experienc",
-      "url": "https://huggingface.co/papers/2606.17162"
-    },
-    {
       "title": "LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models",
       "authors": "Unknown",
       "abstract": "Submitted by akhaliq  LlamaFactory is a unified framework enabling efficient fine-tuning of large language models across various tasks using a web-based user interface. 5 authors · Published on Mar 20, 2024 Upvote 185 GitHub 72.6k arXiv Pag",
       "url": "https://huggingface.co/papers/2403.13372"
+    },
+    {
+      "title": "PyTorch Distributed: Experiences on Accelerating Data Parallel Training",
+      "authors": "Unknown",
+      "abstract": "The PyTorch distributed data parallel module optimizes large-scale model training using techniques like gradient bucketing, computation-communication overlap, and selective synchronization to achieve near-linear scalability. 11 authors · Pu",
+      "url": "https://huggingface.co/papers/2006.15704"
+    },
+    {
+      "title": "MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision",
+      "authors": "Unknown",
+      "abstract": "Submitted by huohua325  MemSlides presents a hierarchical memory framework for personalized presentation agents that separates long-term user profiles, working memory for session constraints, and tool memory for reusable execution experienc",
+      "url": "https://huggingface.co/papers/2606.17162"
     },
     {
       "title": "OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation",
@@ -979,12 +985,6 @@
       "url": "https://huggingface.co/papers/2606.03748"
     },
     {
-      "title": "FastContext: Training Efficient Repository Explorer for Coding Agents",
-      "authors": "Unknown",
-      "abstract": "Submitted by qiushao  FastContext separates repository exploration from code solving in LLM agents using specialized exploration models that reduce token consumption and improve resolution rates. Microsoft · Published on Jun 12, 2026 Upvote",
-      "url": "https://huggingface.co/papers/2606.14066"
-    },
-    {
       "title": "Cosmos 3: Omnimodal World Models for Physical AI",
       "authors": "Unknown",
       "abstract": "Submitted by taesiri  Cosmos 3 is an omnimodal world model that processes and generates multiple data types through a unified mixture-of-transformers architecture, achieving state-of-the-art performance in various understanding and generati",
@@ -997,10 +997,10 @@
       "url": "https://huggingface.co/papers/2507.03009"
     },
     {
-      "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning",
+      "title": "FastContext: Training Efficient Repository Explorer for Coding Agents",
       "authors": "Unknown",
-      "abstract": "Submitted by Jinyang23  On-policy skill distillation framework extracts dense hindsight supervision from completed trajectories to improve language agent training efficiency and performance. 11 authors · Published on Jun 25, 2026 Upvote 40 ",
-      "url": "https://huggingface.co/papers/2606.26790"
+      "abstract": "Submitted by qiushao  FastContext separates repository exploration from code solving in LLM agents using specialized exploration models that reduce token consumption and improve resolution rates. Microsoft · Published on Jun 12, 2026 Upvote",
+      "url": "https://huggingface.co/papers/2606.14066"
     },
     {
       "title": "Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance",
@@ -1039,25 +1039,25 @@
       "url": "https://huggingface.co/papers/2408.15998"
     },
     {
-      "title": "Agent READMEs: An Empirical Study of Context Files for Agentic Coding",
-      "authors": "Unknown",
-      "abstract": "Submitted by hao-li  Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent conte",
-      "url": "https://huggingface.co/papers/2511.12884"
-    },
-    {
       "title": "OpenRath: Session-Centered Runtime State for Agent Systems",
       "authors": "Unknown",
       "abstract": "Submitted by smallkang2025  OpenRath introduces a PyTorch-like programming model for multi-agent systems using Session as a central runtime abstraction that enables explicit fork, merge, and replay operations while recording comprehensive e",
       "url": "https://huggingface.co/papers/2606.19409"
     },
     {
-      "title": "AgentScope 1.0: A Developer-Centric Framework for Building Agentic\n  Applications",
+      "title": "Agent READMEs: An Empirical Study of Context Files for Agentic Coding",
       "authors": "Unknown",
-      "abstract": "Submitted by taesiri  AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deploym",
-      "url": "https://huggingface.co/papers/2508.16279"
+      "abstract": "Submitted by hao-li  Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent conte",
+      "url": "https://huggingface.co/papers/2511.12884"
+    },
+    {
+      "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning",
+      "authors": "Unknown",
+      "abstract": "Submitted by Jinyang23  On-policy skill distillation framework extracts dense hindsight supervision from completed trajectories to improve language agent training efficiency and performance. 11 authors · Published on Jun 25, 2026 Upvote 43 ",
+      "url": "https://huggingface.co/papers/2606.26790"
     }
   ],
-  "lastUpdated": "2026-06-28T09:54:07.987522+00:00",
+  "lastUpdated": "2026-06-28T12:12:23.812294+00:00",
   "totals": {
     "daily": 25,
     "weekly": 50,
