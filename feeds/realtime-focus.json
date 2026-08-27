@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-08-27T13:58:39.453915+00:00",
+  "savedAt": "2026-08-27T18:00:00.834480+00:00",
   "categories": {
     "finance": {
       "sourceUrl": "https://tophub.today/c/finance",
@@ -152,9 +152,9 @@
               },
               {
                 "rank": "3",
-                "title": "直播丨2026世界机器人大会：王兴兴谈人形机器人产业的下一个十年",
+                "title": "一线发布丨国新办就发挥积极财政政策作用，推动经济社会高质量发展有关情况举行新闻发布会",
                 "extra": "",
-                "url": "https://www.yicai.com/live/103324898.html"
+                "url": "https://www.yicai.com/live/103326755.html"
               },
               {
                 "rank": "4",
@@ -170,33 +170,33 @@
               },
               {
                 "rank": "6",
-                "title": "一线发布丨国新办就发挥积极财政政策作用，推动经济社会高质量发展有关情况举行新闻发布会",
-                "extra": "",
-                "url": "https://www.yicai.com/live/103326755.html"
-              },
-              {
-                "rank": "7",
-                "title": "直击业绩会丨阿里巴巴集团2027财年第一季度业绩说明会",
-                "extra": "",
-                "url": "https://www.yicai.com/live/103325331.html"
-              },
-              {
-                "rank": "8",
-                "title": "直击业绩会丨泡泡玛特2026年第二季度业绩说明会",
-                "extra": "",
-                "url": "https://www.yicai.com/live/103325329.html"
-              },
-              {
-                "rank": "9",
-                "title": "直播丨沉浸式逛展！记者实探2026世界机器人大会",
-                "extra": "",
-                "url": "https://www.yicai.com/live/103322797.html"
-              },
-              {
-                "rank": "10",
                 "title": "直击业绩会｜新华保险2026年中期业绩发布会",
                 "extra": "",
                 "url": "https://www.yicai.com/live/103334744.html"
+              },
+              {
+                "rank": "7",
+                "title": "直击业绩会｜MiniMax稀宇科技2026年半年度业绩电话会议",
+                "extra": "",
+                "url": "https://www.yicai.com/live/103334842.html"
+              },
+              {
+                "rank": "8",
+                "title": "直播丨2026世界机器人大会：王兴兴谈人形机器人产业的下一个十年",
+                "extra": "",
+                "url": "https://www.yicai.com/live/103324898.html"
+              },
+              {
+                "rank": "9",
+                "title": "一线发布丨工业和信息化部介绍全力抓好“十五五”规划实施，加快推进新型工业化有关情况",
+                "extra": "",
+                "url": "https://www.yicai.com/live/103332762.html"
+              },
+              {
+                "rank": "10",
+                "title": "直播丨沉浸式逛展！记者实探2026世界机器人大会",
+                "extra": "",
+                "url": "https://www.yicai.com/live/103322797.html"
               }
             ]
           },
@@ -370,62 +370,62 @@
               {
                 "rank": "1",
                 "title": "英伟达上季营收超预期翻倍大增，本季料首破千亿大关，下财年70%增速指引碾压预期 | 财报见闻",
-                "extra": "19.7万",
+                "extra": "19.9万",
                 "url": "https://wallstreetcn.com/articles/3780378"
               },
               {
                 "rank": "2",
-                "title": "7月PCE通胀略超预期，美股三大指数微跌，存储芯片逆势走强，黄金失守4600美元",
-                "extra": "16.1万",
-                "url": "https://wallstreetcn.com/articles/3780328"
+                "title": "华尔街见闻早餐FM-Radio | 2026年8月27日",
+                "extra": "13.3万",
+                "url": "https://wallstreetcn.com/articles/3780385"
               },
               {
                 "rank": "3",
-                "title": "华尔街见闻早餐FM-Radio | 2026年8月27日",
-                "extra": "13.1万",
-                "url": "https://wallstreetcn.com/articles/3780385"
+                "title": "7月PCE通胀略超预期，美股三大指数微跌，存储芯片逆势走强，黄金失守4600美元",
+                "extra": "10.6万",
+                "url": "https://wallstreetcn.com/articles/3780328"
               },
               {
                 "rank": "4",
                 "title": "智谱新模型“牛来”跑在10万国产卡上，SemiAnalaysis评价“英伟达护城河再受考验”",
-                "extra": "9.7万",
+                "extra": "9.8万",
                 "url": "https://wallstreetcn.com/articles/3780391"
               },
               {
                 "rank": "5",
                 "title": "英伟达电话会：毛利率Q4财季触底，预计明年营收增长70%、CPU收入翻倍增长、内存瓶颈持续",
-                "extra": "9.6万",
+                "extra": "9.7万",
                 "url": "https://wallstreetcn.com/articles/3780381"
               },
               {
                 "rank": "6",
                 "title": "苹果9月10日发布首款折叠iPhone，开启特努斯时代",
-                "extra": "5.6万",
+                "extra": "5.7万",
                 "url": "https://wallstreetcn.com/articles/3780369"
               },
               {
                 "rank": "7",
-                "title": "报道：英伟达129亿美元收购Hugging Face，AI\"中间层\"争夺战全面打响",
-                "extra": "4.3万",
-                "url": "https://wallstreetcn.com/articles/3780408"
+                "title": "AI热情重燃，美股开盘涨跌互现，纳指涨近1%，英伟达绩后大涨6%，油涨金跌",
+                "extra": "5.1万",
+                "url": "https://wallstreetcn.com/articles/3780415"
               },
               {
                 "rank": "8",
-                "title": "英伟达用两个季度的毛利率，买未来两年的确定性",
-                "extra": "4.2万",
-                "url": "https://wallstreetcn.com/articles/3780400"
-              },
-              {
-                "rank": "9",
                 "title": "“大空头”Michael Burry买入英伟达看涨期权“对冲”，同时加码做空",
-                "extra": "4.2万",
+                "extra": "4.7万",
                 "url": "https://wallstreetcn.com/articles/3780433"
               },
               {
+                "rank": "9",
+                "title": "报道：英伟达129亿美元收购Hugging Face，AI\"中间层\"争夺战全面打响",
+                "extra": "4.6万",
+                "url": "https://wallstreetcn.com/articles/3780408"
+              },
+              {
                 "rank": "10",
-                "title": "Salesforce大涨！“软件末日”终结？Q3指引超预期，与Anthropic扩大合作｜财报见闻",
-                "extra": "4.1万",
-                "url": "https://wallstreetcn.com/articles/3780380"
+                "title": "英伟达用两个季度的毛利率，买未来两年的确定性",
+                "extra": "4.4万",
+                "url": "https://wallstreetcn.com/articles/3780400"
               }
             ]
           },
@@ -434,123 +434,123 @@
             "items": [
               {
                 "rank": "1",
+                "title": "马斯克、黄仁勋、奥特曼将齐聚G20，美国拟推动AI监管“松绑”",
+                "extra": "",
+                "url": "https://wallstreetcn.com/articles/3780484"
+              },
+              {
+                "rank": "2",
+                "title": "草原上的“Token工厂”：乌兰察布如何成为中国AI算力的心脏",
+                "extra": "腾讯财经",
+                "url": "https://wallstreetcn.com/articles/3780434"
+              },
+              {
+                "rank": "3",
+                "title": "个人贷款不良冲上3.39%，透视青岛银行中报的「结构性裂痕」",
+                "extra": "",
+                "url": "https://wallstreetcn.com/articles/3780485"
+              },
+              {
+                "rank": "4",
+                "title": "长川科技上半年营收同比增60%，归母净利大增126%，测试机放量成增长主引擎｜财报见闻",
+                "extra": "",
+                "url": "https://wallstreetcn.com/articles/3780479"
+              },
+              {
+                "rank": "5",
+                "title": "港股IPO关键期，星宇股份卷入应届生裁员风波",
+                "extra": "",
+                "url": "https://wallstreetcn.com/articles/3780483"
+              },
+              {
+                "rank": "6",
+                "title": "吞咽不良阵痛，上海银行拨备半年消耗近47个百分点",
+                "extra": "",
+                "url": "https://wallstreetcn.com/articles/3780482"
+              },
+              {
+                "rank": "7",
+                "title": "小鹏给智驾加上“时间记忆”",
+                "extra": "",
+                "url": "https://wallstreetcn.com/articles/3780481"
+              },
+              {
+                "rank": "8",
+                "title": "美债投资者该关注法债了！策略师警告：预算争议再成为焦点，需高度警惕风险在欧洲传导",
+                "extra": "",
+                "url": "https://wallstreetcn.com/articles/3780478"
+              },
+              {
+                "rank": "9",
+                "title": "Rubin全面量产后，PTFE为什么突然成了AI硬件最强材料主线？",
+                "extra": "万周",
+                "url": "https://wallstreetcn.com/member/articles/3780476"
+              },
+              {
+                "rank": "10",
+                "title": "中国利率后续走势波动加大，中国工企利润回落与石化链反转，美国特别选举显示共和党动员压力---0827宏观脱水",
+                "extra": "",
+                "url": "https://wallstreetcn.com/member/articles/3780472"
+              },
+              {
+                "rank": "11",
                 "title": "AI热情重燃，美股开盘涨跌互现，纳指涨近1%，英伟达绩后大涨6%，油涨金跌",
                 "extra": "张雅琦、李佳",
                 "url": "https://wallstreetcn.com/articles/3780415"
               },
               {
-                "rank": "2",
+                "rank": "12",
                 "title": "黑海粮食出口受阻，小麦期货飙升至三年新高",
                 "extra": "",
                 "url": "https://wallstreetcn.com/articles/3780473"
               },
               {
-                "rank": "3",
+                "rank": "13",
                 "title": "AI光环褪色？Alphabet市值三个月蒸发6920亿美元，投资者开始质疑AI前景",
                 "extra": "",
                 "url": "https://wallstreetcn.com/articles/3780474"
               },
               {
-                "rank": "4",
+                "rank": "14",
                 "title": "伊利、蒙牛走出收入低谷，行业拐点正在酝酿",
                 "extra": "",
                 "url": "https://wallstreetcn.com/articles/3780469"
               },
               {
-                "rank": "5",
+                "rank": "15",
                 "title": "黄金\"小众市场\"意味着什么？高盛：每增加0.01%购买量，金价即上涨1.4%",
                 "extra": "",
                 "url": "https://wallstreetcn.com/articles/3780468"
               },
               {
-                "rank": "6",
+                "rank": "16",
                 "title": "打破“SaaS末日论”！Salesforce财报超预期盘前大涨10%，机构大幅上调目标价",
                 "extra": "",
                 "url": "https://wallstreetcn.com/articles/3780466"
               },
               {
-                "rank": "7",
+                "rank": "17",
                 "title": "伊朗阿曼外交斡旋初现成效，霍尔木兹海峡运输量悄然恢复至战前75%水平",
                 "extra": "",
                 "url": "https://wallstreetcn.com/articles/3780465"
               },
               {
-                "rank": "8",
+                "rank": "18",
+                "title": "当科技巨头开始把债务搬到表外，是否正在埋下下一场“次贷危机”的种子？",
+                "extra": "万周",
+                "url": "https://wallstreetcn.com/member/articles/3780225"
+              },
+              {
+                "rank": "19",
                 "title": "英伟达财报点评：除了超预期的业绩，还有哪些更重要的指引和展望？",
                 "extra": "",
                 "url": "https://wallstreetcn.com/member/articles/3780410"
               },
               {
-                "rank": "9",
+                "rank": "20",
                 "title": "德明利上半年营收暴增312%，净利润扭亏为盈超60亿，存储芯片景气周期红利尽收囊中 | 财报见闻",
                 "extra": "",
                 "url": "https://wallstreetcn.com/articles/3780463"
-              },
-              {
-                "rank": "10",
-                "title": "胜宏科技上半年净利润同比增长33.30%，H股上市推动总资产近翻倍 | 财报见闻",
-                "extra": "",
-                "url": "https://wallstreetcn.com/articles/3780462"
-              },
-              {
-                "rank": "11",
-                "title": "B站2026上半年营收增7.6%：广告大涨扛压，游戏同比下滑",
-                "extra": "",
-                "url": "https://wallstreetcn.com/articles/3780461"
-              },
-              {
-                "rank": "12",
-                "title": "锂价回暖叠加产能释放，天齐锂业上半年营收增长153%，净利润暴增近50倍 | 财报见闻",
-                "extra": "",
-                "url": "https://wallstreetcn.com/articles/3780460"
-              },
-              {
-                "rank": "13",
-                "title": "群核科技上半年经调整净利大增211%，AI新应用收入同比增长177%｜财报见闻",
-                "extra": "",
-                "url": "https://wallstreetcn.com/articles/3780457"
-              },
-              {
-                "rank": "14",
-                "title": "理想汽车换代期：纯电撑起销量，利润修复仍待新品兑现",
-                "extra": "",
-                "url": "https://wallstreetcn.com/articles/3780459"
-              },
-              {
-                "rank": "15",
-                "title": "中国厂商如何重塑全球存储格局？大摩：有量就有定价权，2028年将是关键分水岭",
-                "extra": "",
-                "url": "https://wallstreetcn.com/articles/3780458"
-              },
-              {
-                "rank": "16",
-                "title": "美国堪萨斯城联储主席：当前利率可能仍偏宽松，中期选举不会影响10月决策",
-                "extra": "",
-                "url": "https://wallstreetcn.com/articles/3780455"
-              },
-              {
-                "rank": "17",
-                "title": "AI算力浪潮推动，协创数据2026年上半年营收暴增153%，净利润狂飙325% | 财报见闻",
-                "extra": "",
-                "url": "https://wallstreetcn.com/articles/3780456"
-              },
-              {
-                "rank": "18",
-                "title": "沃什杰克逊霍尔首秀在即，美元看涨对冲比例冲上57%",
-                "extra": "",
-                "url": "https://wallstreetcn.com/articles/3780454"
-              },
-              {
-                "rank": "19",
-                "title": "香农芯创上半年营收同比增252%，净利润暴增2207%，存储业务成为新引擎｜财报见闻",
-                "extra": "",
-                "url": "https://wallstreetcn.com/articles/3780452"
-              },
-              {
-                "rank": "20",
-                "title": "创6年来最大跌幅！新兴市场“恐慌指数”回落至25%，韩股杠杆出清释放冷静信号",
-                "extra": "",
-                "url": "https://wallstreetcn.com/articles/3780453"
               }
             ]
           }
@@ -562,98 +562,86 @@
               {
                 "rank": "1",
                 "title": "200万资金5%收益如何实现",
-                "extra": "2545",
+                "extra": "2611",
                 "url": "https://www.jisilu.cn/question/524767"
               },
               {
                 "rank": "2",
-                "title": "只有二百万。随时准备买房",
-                "extra": "3482",
-                "url": "https://www.jisilu.cn/question/524758"
-              },
-              {
-                "rank": "3",
                 "title": "2026-8-27 可转债 调仓",
-                "extra": "2288",
+                "extra": "2662",
                 "url": "https://www.jisilu.cn/question/524768"
               },
               {
-                "rank": "4",
-                "title": "宇树科技的研发费用和库存",
-                "extra": "2536",
-                "url": "https://www.jisilu.cn/question/524760"
-              },
-              {
-                "rank": "5",
+                "rank": "3",
                 "title": "简单但不容易的路",
-                "extra": "1731",
+                "extra": "1766",
                 "url": "https://www.jisilu.cn/question/524764"
               },
               {
-                "rank": "6",
+                "rank": "4",
                 "title": "海螺水泥算不算雷了？",
-                "extra": "1953",
+                "extra": "2009",
                 "url": "https://www.jisilu.cn/question/524761"
               },
               {
-                "rank": "7",
-                "title": "百畅转债：欠债4.2亿、账上仅3,517万，除了下修没别的办法",
-                "extra": "600",
-                "url": "https://www.jisilu.cn/question/524759"
-              },
-              {
-                "rank": "8",
-                "title": "2026年8月27日投资提示：天准科技股东拟减持不超3%股份",
-                "extra": "2263",
-                "url": "https://www.jisilu.cn/question/524757"
-              },
-              {
-                "rank": "9",
-                "title": "八折定增近26亿，是否会下修",
-                "extra": "1209",
-                "url": "https://www.jisilu.cn/question/524773"
-              },
-              {
-                "rank": "10",
-                "title": "现在的转债溢价是真厉害，万讯都强赎了还有将近5个点溢价",
-                "extra": "1470",
-                "url": "https://www.jisilu.cn/question/524772"
-              },
-              {
-                "rank": "11",
+                "rank": "5",
                 "title": "晓鸣转债网格交易投资备忘录",
-                "extra": "890",
+                "extra": "1019",
                 "url": "https://www.jisilu.cn/question/524774"
               },
               {
-                "rank": "12",
+                "rank": "6",
+                "title": "八折定增近26亿，是否会下修",
+                "extra": "1308",
+                "url": "https://www.jisilu.cn/question/524773"
+              },
+              {
+                "rank": "7",
+                "title": "现在的转债溢价是真厉害，万讯都强赎了还有将近5个点溢价",
+                "extra": "1510",
+                "url": "https://www.jisilu.cn/question/524772"
+              },
+              {
+                "rank": "8",
+                "title": "2026年8月28日投资提示：明新转债提议下修",
+                "extra": "622",
+                "url": "https://www.jisilu.cn/question/524789"
+              },
+              {
+                "rank": "9",
+                "title": "st康佳主动退市，现金选择权2.48",
+                "extra": "404",
+                "url": "https://www.jisilu.cn/question/524790"
+              },
+              {
+                "rank": "10",
                 "title": "鸿路转债到期：15.64亿要兑付，钱从哪来？",
-                "extra": "290",
+                "extra": "375",
                 "url": "https://www.jisilu.cn/question/524784"
               },
               {
-                "rank": "13",
+                "rank": "11",
                 "title": "请教下三房的退市现在还概率高吗？",
-                "extra": "181",
+                "extra": "275",
                 "url": "https://www.jisilu.cn/question/524781"
               },
               {
-                "rank": "14",
+                "rank": "12",
                 "title": "接到普利转债的电话",
-                "extra": "472",
+                "extra": "505",
                 "url": "https://www.jisilu.cn/question/524780"
               },
               {
-                "rank": "15",
-                "title": "可转债利息扣税记录怎么查",
-                "extra": "214",
-                "url": "https://www.jisilu.cn/question/524775"
+                "rank": "13",
+                "title": "证券ETF网格交易备忘录",
+                "extra": "451",
+                "url": "https://www.jisilu.cn/question/524791"
               },
               {
-                "rank": "16",
-                "title": "2026年8月28日投资提示：明新转债提议下修",
-                "extra": "82",
-                "url": "https://www.jisilu.cn/question/524789"
+                "rank": "14",
+                "title": "可转债利息扣税记录怎么查",
+                "extra": "236",
+                "url": "https://www.jisilu.cn/question/524775"
               }
             ]
           }
@@ -664,75 +652,75 @@
             "items": [
               {
                 "rank": "1",
-                "title": "营收增长超40% 海外收入过亿 康希诺生物国际化从“布局”走向“兑现”",
-                "extra": "4711",
-                "url": "https://www.gelonghui.com/p/6373742"
+                "title": "半年狂赚60亿！存储“大牛股”净利暴增5200%！",
+                "extra": "8.6万",
+                "url": "https://www.gelonghui.com/p/6375249"
               },
               {
                 "rank": "2",
-                "title": "中金“三合一”过会，又一万亿级券商即将诞生",
-                "extra": "8218",
-                "url": "https://www.gelonghui.com/p/6373524"
+                "title": "公告精选︱德明利：上半年净利润60.17亿元 拟10股转增4股派15元；和达科技：拟不超1.5亿元建设产业基地",
+                "extra": "2.2万",
+                "url": "https://www.gelonghui.com/p/6375228"
               },
               {
                 "rank": "3",
-                "title": "美国上周初请失业金人数意外降至20.3万",
-                "extra": "8363",
-                "url": "https://www.gelonghui.com/p/6373355"
+                "title": "营收增长超40% 海外收入过亿 康希诺生物国际化从“布局”走向“兑现”",
+                "extra": "4.0万",
+                "url": "https://www.gelonghui.com/p/6373742"
               },
               {
                 "rank": "4",
-                "title": "曹操出行2026中报：营收超百亿，国际化业务拓展空间，RoboX战略加速估值回归",
-                "extra": "1.6万",
-                "url": "https://www.gelonghui.com/p/6373181"
+                "title": "中金“三合一”过会，又一万亿级券商即将诞生",
+                "extra": "1.0万",
+                "url": "https://www.gelonghui.com/p/6373524"
               },
               {
                 "rank": "5",
-                "title": "9部门发文促进航空保税维修高质量发展",
-                "extra": "1.5万",
-                "url": "https://www.gelonghui.com/p/6372648"
+                "title": "美国上周初请失业金人数意外降至20.3万",
+                "extra": "2.3万",
+                "url": "https://www.gelonghui.com/p/6373355"
               },
               {
                 "rank": "6",
-                "title": "净利大增2207%！香农芯创半年赚36亿",
-                "extra": "2.0万",
-                "url": "https://www.gelonghui.com/p/6372345"
+                "title": "曹操出行2026中报：营收超百亿，国际化业务拓展空间，RoboX战略加速估值回归",
+                "extra": "2.8万",
+                "url": "https://www.gelonghui.com/p/6373181"
               },
               {
                 "rank": "7",
-                "title": "资金动向 | 北水净买入港股31.8亿港元，加仓小米、腾讯",
-                "extra": "1.1万",
-                "url": "https://www.gelonghui.com/p/6371180"
+                "title": "9部门发文促进航空保税维修高质量发展",
+                "extra": "3.5万",
+                "url": "https://www.gelonghui.com/p/6372648"
               },
               {
                 "rank": "8",
-                "title": "贝斯特港股IPO，上市前大额派息，2026年上半年增收不增利",
-                "extra": "2.1万",
-                "url": "https://www.gelonghui.com/p/6368132"
+                "title": "净利大增2207%！香农芯创半年赚36亿",
+                "extra": "6.9万",
+                "url": "https://www.gelonghui.com/p/6372345"
               },
               {
                 "rank": "9",
-                "title": "“全栈AI第一股”来了，百度9月1日将完成双重上市",
-                "extra": "2.6万",
-                "url": "https://www.gelonghui.com/p/6366818"
+                "title": "资金动向 | 北水净买入港股31.8亿港元，加仓小米、腾讯",
+                "extra": "3.8万",
+                "url": "https://www.gelonghui.com/p/6371180"
               },
               {
                 "rank": "10",
-                "title": "英伟达首次量化供需缺口，提前锁定FY28+70%增长",
-                "extra": "4.3万",
-                "url": "https://www.gelonghui.com/p/6366586"
+                "title": "贝斯特港股IPO，上市前大额派息，2026年上半年增收不增利",
+                "extra": "4.4万",
+                "url": "https://www.gelonghui.com/p/6368132"
               },
               {
                 "rank": "11",
-                "title": "港股收评：高开低走！三大指数集体下跌，AI硬科技逆势爆发",
-                "extra": "3.0万",
-                "url": "https://www.gelonghui.com/p/6366247"
+                "title": "“全栈AI第一股”来了，百度9月1日将完成双重上市",
+                "extra": "4.6万",
+                "url": "https://www.gelonghui.com/p/6366818"
               },
               {
                 "rank": "12",
-                "title": "还能涨！美银力挺SK海力士",
-                "extra": "19.7万",
-                "url": "https://www.gelonghui.com/p/6366208"
+                "title": "英伟达首次量化供需缺口，提前锁定FY28+70%增长",
+                "extra": "6.7万",
+                "url": "https://www.gelonghui.com/p/6366586"
               }
             ]
           }
@@ -1368,9 +1356,9 @@
               },
               {
                 "rank": "4",
-                "title": "东吴证券-计算机行业深度报告：世界模型，从“生成世界”到“控制世界”，物理AI打开工业软件...",
+                "title": "国金证券-医药健康行业：肿瘤mRNA疫苗海外龙头迎来关键突破，赛道景气显著抬升-26082...",
                 "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/10549f729147d5475b5a7fc611459f2a.html"
+                "url": "http://www.hibor.com.cn/data/dd7010b641bb2d70e53369cb67dd1818.html"
               },
               {
                 "rank": "5",
@@ -1380,33 +1368,33 @@
               },
               {
                 "rank": "6",
-                "title": "东方证券-A股风格及行业配置周报：关注周期方向的轮动机会-260826",
-                "extra": "投资策略",
-                "url": "http://www.hibor.com.cn/data/fc4dbb474ab671d4412cac53ac6b3c37.html"
-              },
-              {
-                "rank": "7",
-                "title": "国金证券-医药健康行业：肿瘤mRNA疫苗海外龙头迎来关键突破，赛道景气显著抬升-26082...",
-                "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/dd7010b641bb2d70e53369cb67dd1818.html"
-              },
-              {
-                "rank": "8",
                 "title": "中邮证券-医药生物行业深度报告：从mRNA个性化疫苗临床突破看测序潜在需求提升-26082...",
                 "extra": "行业分析",
                 "url": "http://www.hibor.com.cn/data/747394ec55af5ae14c6bea5365095a1f.html"
               },
               {
-                "rank": "9",
+                "rank": "7",
+                "title": "国金证券-振华股份-603067-铬盐全球龙头：卡位SOFC上游核心资源环节，景气大周期开...",
+                "extra": "公司调研",
+                "url": "http://www.hibor.com.cn/data/405775ebf4befeb7d308bf8e474ab88d.html"
+              },
+              {
+                "rank": "8",
                 "title": "东方证券-计算机行业：AI交付价值显，FDE成焦点-260827",
                 "extra": "行业分析",
                 "url": "http://www.hibor.com.cn/data/8c5eef2fabe148cc1c31494a15c59857.html"
               },
               {
+                "rank": "9",
+                "title": "中邮证券-医药行业AI4S（二）：制药临界点突破前夜，新范式逐渐成型，分子验证需求正崛起-...",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/6108754e163fdf7c16423925f3b84a0f.html"
+              },
+              {
                 "rank": "10",
-                "title": "国金证券-振华股份-603067-铬盐全球龙头：卡位SOFC上游核心资源环节，景气大周期开...",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/405775ebf4befeb7d308bf8e474ab88d.html"
+                "title": "德邦证券-全国算力网建设的战略布局——六网耦合下的算力新基建-260827",
+                "extra": "投资策略",
+                "url": "http://www.hibor.com.cn/data/2e6db32b78325361b1f6de0abad7f5bb.html"
               },
               {
                 "rank": "11",
@@ -1422,9 +1410,9 @@
               },
               {
                 "rank": "13",
-                "title": "开源证券-华亚智能-003043-公司信息更新报告：Q2业绩表现亮眼，半导体景气度已然呈现...",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/6e3e848221634c01d2be7ba1740fc85c.html"
+                "title": "国金证券-餐饮行业：炒菜机器人商业化落地加速，赋能餐饮标准化、数字化升级-260826",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/0f362637453504be2578a2ac306762ed.html"
               },
               {
                 "rank": "14",
@@ -1434,63 +1422,63 @@
               },
               {
                 "rank": "15",
-                "title": "万联证券-人形机器人行业跟踪报告：2026世界机器人大会在京开幕，小鹏机器人业务完成首轮超...",
-                "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/2d3238298aafa7447f4a87bfc8a5603b.html"
-              },
-              {
-                "rank": "16",
                 "title": "汤森路透-人工智能行业：2026年专业服务人工智能报告-260827",
                 "extra": "行业分析",
                 "url": "http://www.hibor.com.cn/data/0fc3e2e87aa02a3906eade0cd3eed8f1.html"
               },
               {
+                "rank": "16",
+                "title": "万联证券-人形机器人行业跟踪报告：2026世界机器人大会在京开幕，小鹏机器人业务完成首轮超...",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/2d3238298aafa7447f4a87bfc8a5603b.html"
+              },
+              {
                 "rank": "17",
-                "title": "国金证券-餐饮行业：炒菜机器人商业化落地加速，赋能餐饮标准化、数字化升级-260826",
-                "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/0f362637453504be2578a2ac306762ed.html"
-              },
-              {
-                "rank": "18",
-                "title": "中邮证券-医药行业AI4S（二）：制药临界点突破前夜，新范式逐渐成型，分子验证需求正崛起-...",
-                "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/6108754e163fdf7c16423925f3b84a0f.html"
-              },
-              {
-                "rank": "19",
-                "title": "中证鹏元资信评估股份有限公司-7月宏观经济观察：内需一揽子政策有望出台-260818",
-                "extra": "宏观经济",
-                "url": "http://www.hibor.com.cn/data/4d3447d21b354267def2c7b76afd61f9.html"
-              },
-              {
-                "rank": "20",
                 "title": "炼丹炉-2026年宠物行业高增长概念洞察-260827",
                 "extra": "行业分析",
                 "url": "http://www.hibor.com.cn/data/d04a4b616f243556a78d316bb5d6c3ad.html"
               },
               {
-                "rank": "21",
-                "title": "东吴证券-东方电气-600875-2026年中报点评：业绩超市场预期，燃机海外订单加速突破...",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/3c3ec507671e41a066550dc9f0fab040.html"
+                "rank": "18",
+                "title": "中证鹏元资信评估股份有限公司-7月宏观经济观察：内需一揽子政策有望出台-260818",
+                "extra": "宏观经济",
+                "url": "http://www.hibor.com.cn/data/4d3447d21b354267def2c7b76afd61f9.html"
               },
               {
-                "rank": "22",
+                "rank": "19",
                 "title": "国信证券-盐湖股份-000792-半年报点评：钾锂成本优势突出，盈利能力显著扩张-2608...",
                 "extra": "公司调研",
                 "url": "http://www.hibor.com.cn/data/ec1ac96f8bc9ab286740ad1d68c9b379.html"
               },
               {
-                "rank": "23",
-                "title": "国金证券-信捷电气-603416-工控主业持续复苏，机器人增长曲线清晰-260826",
+                "rank": "20",
+                "title": "慧博智能投研-慧博研报炼金之研报头条精华：地产专题分析报告，楼市何时筑底？-260827",
+                "extra": "投资策略",
+                "url": "http://www.hibor.com.cn/data/1333405872138b3735eb9b317e4e3f8b.html"
+              },
+              {
+                "rank": "21",
+                "title": "开源证券-频准激光-688826-中小盘首次覆盖报告：精准激光龙头蓄势起航，量子与半导体双...",
                 "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/de0c39dfead4f1f4758160c725e39207.html"
+                "url": "http://www.hibor.com.cn/data/e4ad495135e49170c9c5080779a76020.html"
+              },
+              {
+                "rank": "22",
+                "title": "中国人民大学-人工智能行业：生成式人工智能治理研究报告（2026年）-260827",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/648e76673f0d09012f6e448292764e1f.html"
+              },
+              {
+                "rank": "23",
+                "title": "Agora Energy-中国化工行业脱碳的绿色氢能（英译中）-260827",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/e85d0f76e0bc8a57b3fc5f74bffb5601.html"
               },
               {
                 "rank": "24",
-                "title": "东方证券-银轮股份-002126-液冷突破国内外客户，预计液冷和发电业务将是重要增长点-2...",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/2d0f47945f8bf9d3c90a26cda5eb27cc.html"
+                "title": "北京师范大学智慧学习研究院&中国教育国际交流协会-人工智能行业：智能时代，教师如何“升级”...",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/2792313211eb92fe9bd18daee5335adf.html"
               },
               {
                 "rank": "25",
@@ -1500,153 +1488,153 @@
               },
               {
                 "rank": "26",
-                "title": "太平洋证券-中国电影-600977-影片储备丰富，关注《流量地球3》等贡献业绩弹性-260...",
+                "title": "国金证券-信捷电气-603416-工控主业持续复苏，机器人增长曲线清晰-260826",
                 "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/ee4412dc0fd4910d431833cbf069474f.html"
+                "url": "http://www.hibor.com.cn/data/de0c39dfead4f1f4758160c725e39207.html"
               },
               {
                 "rank": "27",
-                "title": "中国人民大学-人工智能行业：生成式人工智能治理研究报告（2026年）-260827",
+                "title": "德邦证券-机械设备行业：WRC 2026 &人形机器人运动会—国家统筹、央企引领、行业协同...",
                 "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/648e76673f0d09012f6e448292764e1f.html"
+                "url": "http://www.hibor.com.cn/data/7c0f1dee92d977d3d22b1ef1105fe169.html"
               },
               {
                 "rank": "28",
-                "title": "国金证券-振华重工-600320-上半年业绩高增，新签订单持续提升-260826",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/1cf3818b19f07fda339c1b74d0e897b3.html"
-              },
-              {
-                "rank": "29",
-                "title": "Agora Energy-中国化工行业脱碳的绿色氢能（英译中）-260827",
-                "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/e85d0f76e0bc8a57b3fc5f74bffb5601.html"
-              },
-              {
-                "rank": "30",
                 "title": "中原证券-机械行业月报：科技板块震荡反弹，建议周期机械龙头和科技成长兼顾配置-260826",
                 "extra": "行业分析",
                 "url": "http://www.hibor.com.cn/data/510df19bf705a243797cd5e883f28047.html"
               },
               {
-                "rank": "31",
-                "title": "东吴证券-绿联科技-301606-2026年半年报点评：归母净利润同比+57%，线下渠道高...",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/2ebe063f99a9e704dd3d4d84f5ddeea1.html"
+                "rank": "29",
+                "title": "极光大数据-汽车行业：2026年二季度汽车产业发展报告-260826",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/31b20120d0dbed65ef041ee50dc28165.html"
               },
               {
-                "rank": "32",
-                "title": "财通证券-量化｜更适合当下市场的模型更新-260826",
-                "extra": "债券研究",
-                "url": "http://www.hibor.com.cn/data/fe31e4eab178d187c6ffc2dd8035d2e8.html"
-              },
-              {
-                "rank": "33",
-                "title": "国金证券-海天味业-603288-终端动销放缓，业绩保持韧性增长-260826",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/f507cdba7676adbc48f79bdf69dc5211.html"
-              },
-              {
-                "rank": "34",
-                "title": "华鑫证券-洋河股份-002304-公司事件点评报告：继续出清，坚守初心-260827",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/926527fe4f6f89e242bf90732c6382b5.html"
-              },
-              {
-                "rank": "35",
-                "title": "东吴证券-赛英电子-920181-2026年中报点评：受益于规模效应与产品结构优化，202...",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/64c4fc912bb109a417f1f284dcc46a79.html"
-              },
-              {
-                "rank": "36",
-                "title": "东吴证券-恒立液压-601100-2026年中报点评：汇兑扰动不改收入新高，工业丝杠+机器...",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/24a5136682c0a9d418c6f89d2a6b057f.html"
-              },
-              {
-                "rank": "37",
-                "title": "国金证券-通威股份-600438-基本面底部夯实，能耗强标+龙头自律有望加速出清-2608...",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/110a51e12ccea80c65653d0d91a2032b.html"
-              },
-              {
-                "rank": "38",
-                "title": "国金证券-中国海油-600938-坚持增储上产和提质增效，公司油气产量再创历史新高-260...",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/9f1e8ba30c50a9c96b9c25ef78aa2d70.html"
-              },
-              {
-                "rank": "39",
+                "rank": "30",
                 "title": "茉珂&青眼情报-美妆行业：2026以油养肤技术应用标准与皮脂生态修护蓝皮书-260827",
                 "extra": "行业分析",
                 "url": "http://www.hibor.com.cn/data/b80465498d94ba9a96f580eb3c51c4b0.html"
               },
               {
-                "rank": "40",
-                "title": "北京师范大学智慧学习研究院&中国教育国际交流协会-人工智能行业：智能时代，教师如何“升级”...",
+                "rank": "31",
+                "title": "光大证券-高端制造行业海关总署出口月报（2026年1~7月）：消费品单月出口保持复苏，AI...",
                 "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/2792313211eb92fe9bd18daee5335adf.html"
+                "url": "http://www.hibor.com.cn/data/ecf40507a1bc76c63a583ac43f8569ae.html"
               },
               {
-                "rank": "41",
-                "title": "东吴证券-福瑞达-600223-2026年半年报点评：Q2利润降幅明显收窄，化妆品板块表现...",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/d6e0c02d76d5216c771c5f7d7479f1cb.html"
-              },
-              {
-                "rank": "42",
-                "title": "东吴证券-周大生-002867-2026年半年报点评：自营电商收入大幅增长，经营有望触底修...",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/9ebf2f3c649dcda39aa2793014433200.html"
-              },
-              {
-                "rank": "43",
-                "title": "国金证券-债市基本面高频数据跟踪：建材价格底部反弹——2026年8月第3周-260826",
-                "extra": "债券研究",
-                "url": "http://www.hibor.com.cn/data/bb0d23e3495dc2b3084a75ae25c0577b.html"
-              },
-              {
-                "rank": "44",
-                "title": "华西证券-华光新材-688379-业绩超预期，业务结构优化加速利润释放-260826",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/fd7161051cada2d4df30855ce9494e5b.html"
-              },
-              {
-                "rank": "45",
-                "title": "东吴证券-大参林-603233-2026半年报点评：Q2盈利提速，门店扩张重启-26082...",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/32525fd8a8b04207f684cca4c35259b9.html"
-              },
-              {
-                "rank": "46",
+                "rank": "32",
                 "title": "广大大数据研究院&Gamota-2026东南亚手游行业营销趋势报告-260827",
                 "extra": "行业分析",
                 "url": "http://www.hibor.com.cn/data/d21662fa3ffcf15f4894eb746f5f9910.html"
               },
               {
-                "rank": "47",
-                "title": "东吴证券-新锐股份-688257-2026中报点评：业绩符合预告区间，量价齐升驱动盈利跨越...",
+                "rank": "33",
+                "title": "东吴证券-绿联科技-301606-2026年半年报点评：归母净利润同比+57%，线下渠道高...",
                 "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/34fa0e23776cf6f638e947b86fdad533.html"
+                "url": "http://www.hibor.com.cn/data/2ebe063f99a9e704dd3d4d84f5ddeea1.html"
               },
               {
-                "rank": "48",
-                "title": "东方证券-长江证券-000783-2026年中报点评：投资业务释放盈利弹性，大财富协同驱动...",
+                "rank": "34",
+                "title": "东吴证券-赛英电子-920181-2026年中报点评：受益于规模效应与产品结构优化，202...",
                 "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/8e9c4b23edea45cb0f993723235220e5.html"
+                "url": "http://www.hibor.com.cn/data/64c4fc912bb109a417f1f284dcc46a79.html"
               },
               {
-                "rank": "49",
+                "rank": "35",
                 "title": "国金证券-芯碁微装-688630-业绩超预期，先进封装与mSAP卡位突出-260826",
                 "extra": "公司调研",
                 "url": "http://www.hibor.com.cn/data/86188f4f5ee0d3b0939d26a149cb4d08.html"
               },
               {
-                "rank": "50",
-                "title": "东吴证券-固德电材-301680-2026年半年报点评：热防护主业企稳回升，铜铝复合材料放...",
+                "rank": "36",
+                "title": "东吴证券-周大生-002867-2026年半年报点评：自营电商收入大幅增长，经营有望触底修...",
                 "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/bb261f379bb7bf7cb0329c67ecad6ccd.html"
+                "url": "http://www.hibor.com.cn/data/9ebf2f3c649dcda39aa2793014433200.html"
+              },
+              {
+                "rank": "37",
+                "title": "TT123-电商行业：2026年上半年度TikTok Shop调研报告-260827",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/063b8e8a3ef43f8985ec6569ce280a1b.html"
+              },
+              {
+                "rank": "38",
+                "title": "东吴证券-福瑞达-600223-2026年半年报点评：Q2利润降幅明显收窄，化妆品板块表现...",
+                "extra": "公司调研",
+                "url": "http://www.hibor.com.cn/data/d6e0c02d76d5216c771c5f7d7479f1cb.html"
+              },
+              {
+                "rank": "39",
+                "title": "东吴证券-新锐股份-688257-2026中报点评：业绩符合预告区间，量价齐升驱动盈利跨越...",
+                "extra": "公司调研",
+                "url": "http://www.hibor.com.cn/data/34fa0e23776cf6f638e947b86fdad533.html"
+              },
+              {
+                "rank": "40",
+                "title": "中国人民大学-人工智能行业：人工智能安全治理研究报告（2026年）-260827",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/4246677d3b4fe83eb6e30a78a334baa4.html"
+              },
+              {
+                "rank": "41",
+                "title": "九思行研-商业航天行业：2026年中国商业航天发展现状与趋势展望报告-260827",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/8a72610cde3e65c1eedaa7db666bed5d.html"
+              },
+              {
+                "rank": "42",
+                "title": "光大证券-建筑建材及新兴产业行业：公募REITs估值跟踪-260826",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/cbf3a152715c4eafc4278856f392b5f4.html"
+              },
+              {
+                "rank": "43",
+                "title": "东吴证券-北特科技-603009-2026半年报点评：业绩符合市场预期，丝杠产业化稳步推进...",
+                "extra": "公司调研",
+                "url": "http://www.hibor.com.cn/data/c1a52244d838e71e41d7cef53a0ff859.html"
+              },
+              {
+                "rank": "44",
+                "title": "粤开证券-粤开市场日报-260827",
+                "extra": "投资策略",
+                "url": "http://www.hibor.com.cn/data/8246cffd3b91f73615d5f45bdda81abd.html"
+              },
+              {
+                "rank": "45",
+                "title": "安永-银行业对公银行业务的未来：企业融资未来五大构想-260827",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/dc5caec3b44325b10e3e1a1d086a27a4.html"
+              },
+              {
+                "rank": "46",
+                "title": "万联证券-轻工制造行业快评报告：化纤业利润增速扩大，纺织服装业降幅明显收窄-260827",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/5a461c6d6769ab00263385ddd4f57ec0.html"
+              },
+              {
+                "rank": "47",
+                "title": "新世纪评级-商业银行业：商业银行2026年二季度市场表现分析-260827",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/8193da9175e22051b86b9b1892ee4211.html"
+              },
+              {
+                "rank": "48",
+                "title": "东吴证券-天马新材-920971-2026年中报点评：降本增效成效显著，2026H1扣非归...",
+                "extra": "公司调研",
+                "url": "http://www.hibor.com.cn/data/05501bb7bb83d2ba4dd27af485b86f82.html"
+              },
+              {
+                "rank": "49",
+                "title": "东吴证券-同力股份-920599-2026年中报点评：深挖国内非煤市场潜力并拓展有色市场，...",
+                "extra": "公司调研",
+                "url": "http://www.hibor.com.cn/data/e91aff0ed5765e25bce9f3659aa86828.html"
+              },
+              {
+                "rank": "50",
+                "title": "国金证券-铜冠铜箔-301217-半年报点评：AI铜箔放量，高端占比突出-260826",
+                "extra": "公司调研",
+                "url": "http://www.hibor.com.cn/data/4bb1190e1bb51eaf09f5fea340df4eb5.html"
               }
             ]
           }
@@ -1754,21 +1742,21 @@
               },
               {
                 "rank": "7",
+                "title": "浦发银行北京分行助力启明创投发行市场首单定向协议模式科创债",
+                "extra": "",
+                "url": "http://www.zqrb.cn/jrjg/bank/2026-08-27/A1787809820569.html"
+              },
+              {
+                "rank": "8",
                 "title": "中科星图2026年上半年实现营收5.14亿元 商业航天与低空经济板块营收占比超三成",
                 "extra": "",
                 "url": "http://www.zqrb.cn/gscy/gongsi/2026-08-26/A1787674957211.html"
               },
               {
-                "rank": "8",
+                "rank": "9",
                 "title": "霞客环保重大资产重组媒体说明会现场（图片）",
                 "extra": "",
                 "url": "http://www.zqrb.cn/huiyihuodong/2018-11-15/A1542246311492.html"
-              },
-              {
-                "rank": "9",
-                "title": "浦发银行北京分行助力启明创投发行市场首单定向协议模式科创债",
-                "extra": "",
-                "url": "http://www.zqrb.cn/jrjg/bank/2026-08-27/A1787809820569.html"
               },
               {
                 "rank": "10",
@@ -2392,603 +2380,393 @@
             "items": [
               {
                 "rank": "1",
-                "title": "美股开盘：美股三大指数涨跌不一",
-                "extra": "6.5万",
-                "url": "https://stock.10jqka.com.cn/20260827/c679363093.shtml"
+                "title": "章建平再出手！大举买入两只牛股",
+                "extra": "2270",
+                "url": "https://stock.10jqka.com.cn/20260828/c679364795.shtml"
               },
               {
                 "rank": "2",
-                "title": "胜宏科技：上半年净利润28.57亿元 同比增长33.3%",
-                "extra": "4.4万",
-                "url": "https://stock.10jqka.com.cn/20260827/c679359875.shtml"
+                "title": "加拿大对美国铜线和木炭加征50%关税",
+                "extra": "502",
+                "url": "https://stock.10jqka.com.cn/20260828/c679364709.shtml"
               },
               {
                 "rank": "3",
-                "title": "美股云计算公司股价上涨",
-                "extra": "2.4万",
-                "url": "https://stock.10jqka.com.cn/20260827/c679363215.shtml"
+                "title": "Citrini：“美财政部-美联储协议”或为30年期美债上涨创造条件",
+                "extra": "451",
+                "url": "https://stock.10jqka.com.cn/20260828/c679365022.shtml"
               },
               {
                 "rank": "4",
-                "title": "【晚间复盘】英伟达夜爆，量能决明日",
-                "extra": "1.5万",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683582783.shtml"
+                "title": "2026.08.27盘后复盘：算力血洗空头！76家涨停，只盯这一条主线",
+                "extra": "421",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683617107.shtml"
               },
               {
                 "rank": "5",
-                "title": "美国白宫：目前未与伊朗进行任何谈判 所有选项均在考虑之中",
-                "extra": "1.5万",
-                "url": "https://stock.10jqka.com.cn/20260827/c679362308.shtml"
+                "title": "8月27日晚间重要公告集锦",
+                "extra": "326",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683620367.shtml"
               },
               {
                 "rank": "6",
-                "title": "利好突袭！美股集体拉升，两大存储巨头发布重要投资计划",
-                "extra": "1.3万",
-                "url": "https://stock.10jqka.com.cn/20260827/c679356134.shtml"
+                "title": "信维通信上半年扣非净利增长22.05% 拟11亿元控股益阳电子科技加码MLCC布局",
+                "extra": "306",
+                "url": "https://stock.10jqka.com.cn/20260828/c679365025.shtml"
               },
               {
                 "rank": "7",
-                "title": "麦格米特：上半年净利润2.52亿元 同比增长45.21%",
-                "extra": "7561",
-                "url": "https://stock.10jqka.com.cn/20260827/c679360554.shtml"
+                "title": "创业板半年报抢先看！高端制造与创新药引领，新旧动能转换提速",
+                "extra": "256",
+                "url": "https://stock.10jqka.com.cn/20260828/c679364878.shtml"
               },
               {
                 "rank": "8",
-                "title": "天齐锂业：上半年净利润42.42亿元 同比增长4925%",
-                "extra": "5916",
-                "url": "https://stock.10jqka.com.cn/20260827/c679359689.shtml"
+                "title": "国产MLCC“双雄”上半年净利大涨聚焦高端赛道迭代升级",
+                "extra": "253",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683626547.shtml"
               },
               {
                 "rank": "9",
-                "title": "中金公司：换股吸收合并东兴证券、信达证券事项获上交所审核通过",
-                "extra": "5105",
-                "url": "https://stock.10jqka.com.cn/20260827/c679359972.shtml"
+                "title": "星宇股份就解聘107名应届生致歉上半年归母净利润下滑5.26%",
+                "extra": "210",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683626159.shtml"
               },
               {
                 "rank": "10",
-                "title": "中美就年内元首互动保持沟通",
-                "extra": "3109",
-                "url": "https://stock.10jqka.com.cn/20260827/c679346276.shtml"
+                "title": "特朗普政府据悉正与委内瑞拉临时政府就获取该国庞大石油资源的所有权股份进行谈判",
+                "extra": "210",
+                "url": "https://goodsfu.10jqka.com.cn/20260828/c679365057.shtml"
               },
               {
                 "rank": "11",
-                "title": "北大荒：2026年上半年净利润亏损5.37亿元，同比由盈转亏",
-                "extra": "2711",
-                "url": "https://stock.10jqka.com.cn/20260827/c679363303.shtml"
+                "title": "美国财政部拍卖440亿美元七年期国债，得标利率4.512%",
+                "extra": "177",
+                "url": "https://stock.10jqka.com.cn/20260828/c679365056.shtml"
               },
               {
                 "rank": "12",
-                "title": "【持仓分析】宏源期货鸡蛋净空头持仓连续第4日减少！",
-                "extra": "2704",
-                "url": "https://news.10jqka.com.cn/20260827/c679358660.shtml"
+                "title": "美国AI海关上线，光伏新能源企业转口贸易遭遇重大挑战",
+                "extra": "171",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683619234.shtml"
               },
               {
                 "rank": "13",
-                "title": "英力特：控股股东筹划控制权变更，预计停牌不超过2个交易日",
-                "extra": "2564",
-                "url": "https://stock.10jqka.com.cn/20260827/c679363302.shtml"
+                "title": "章建平再出手！大举买入两只牛股",
+                "extra": "166",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683624263.shtml"
               },
               {
                 "rank": "14",
-                "title": "外资扎堆调研股曝光，22股业绩有望持续高增长",
-                "extra": "2465",
-                "url": "https://stock.10jqka.com.cn/20260827/c679360076.shtml"
+                "title": "今天分析绩优老登板块之——证券、互联网金融",
+                "extra": "165",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683618290.shtml"
               },
               {
                 "rank": "15",
-                "title": "风华高科：2026年上半年净利润2.9亿元，同比增长74.01%",
-                "extra": "2450",
-                "url": "https://stock.10jqka.com.cn/20260827/c679356583.shtml"
+                "title": "勿用短期K线定义人形机器人的未来",
+                "extra": "151",
+                "url": "https://field.10jqka.com.cn/20260828/c679364716.shtml"
               },
               {
                 "rank": "16",
-                "title": "信维通信：2026年上半年净利润1.51亿元，同比下降6.99%",
-                "extra": "2362",
-                "url": "https://stock.10jqka.com.cn/20260827/c679359895.shtml"
+                "title": "美海军官员称“罗斯福”号航母将被派往中东",
+                "extra": "144",
+                "url": "https://stock.10jqka.com.cn/20260828/c679365041.shtml"
               },
               {
                 "rank": "17",
-                "title": "今晚，多家公司发布利好公告",
-                "extra": "2348",
-                "url": "https://stock.10jqka.com.cn/20260827/c679362326.shtml"
+                "title": "今晚，英伟达引爆美股！中芯国际，Q2净利环比增长128%",
+                "extra": "133",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683618605.shtml"
               },
               {
                 "rank": "18",
-                "title": "世纪华通：2026年上半年净利润45.03亿元，同比增长69.51%",
-                "extra": "2222",
-                "url": "https://stock.10jqka.com.cn/20260827/c679362775.shtml"
+                "title": "通鼎互联两连涨，高频参与度仍居高位",
+                "extra": "131",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683626498.shtml"
               },
               {
                 "rank": "19",
-                "title": "每股派发1.6元、每10股派发5元……A股“红包雨”来袭！",
-                "extra": "2153",
-                "url": "https://stock.10jqka.com.cn/20260827/c679362740.shtml"
+                "title": "上市34年，A股“彩电大王”主动退市！4年巨亏超200亿元，原党委书记、原副总裁等多位高管今年被查",
+                "extra": "125",
+                "url": "https://stock.10jqka.com.cn/20260828/c679364794.shtml"
               },
               {
                 "rank": "20",
-                "title": "今日晚间重要公告抢先看——半年报人气科技股继续全线爆发！德明利净利润60.17亿元，拟10转4派15元；香农芯创同比增长2207%；云南锗业同比增长235%；麦格米特同比增长45%",
-                "extra": "1953",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683595836.shtml"
+                "title": "润泽科技2026年中期拟派现6.99亿元",
+                "extra": "120",
+                "url": "https://stock.10jqka.com.cn/20260828/c679364717.shtml"
               },
               {
                 "rank": "21",
-                "title": "龙虎榜中榜|医药仍有热度，科技板块还在活跃！",
-                "extra": "1869",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683584965.shtml"
+                "title": "PhysicalIntelligence联创最新对话：美国机器人硬件供应链脱节了！谈数据飞轮、GPT时刻",
+                "extra": "97",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683624353.shtml"
               },
               {
                 "rank": "22",
-                "title": "香农芯创：2026年上半年净利润36.42亿元，同比增长2,207.20%",
-                "extra": "1864",
-                "url": "https://stock.10jqka.com.cn/20260827/c679356566.shtml"
+                "title": "LME期铜收涨30美元",
+                "extra": "95",
+                "url": "https://stock.10jqka.com.cn/20260828/c679365046.shtml"
               },
               {
                 "rank": "23",
-                "title": "沃森生物：2026年度向特定对象发行股票获深交所受理",
-                "extra": "1842",
-                "url": "https://stock.10jqka.com.cn/20260827/c679359898.shtml"
+                "title": "苹果秋季发布会6款新品蓄势待发：iPhone18Pro领衔、iPhoneUltra首秀",
+                "extra": "92",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683625508.shtml"
               },
               {
                 "rank": "24",
-                "title": "滨化股份：2026年上半年净利润3.44亿元，同比增长208.25%",
-                "extra": "1780",
-                "url": "https://stock.10jqka.com.cn/20260827/c679363008.shtml"
+                "title": "行业回暖，002466，上半年净利暴增4925%",
+                "extra": "77",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683624261.shtml"
               },
               {
                 "rank": "25",
-                "title": "信维通信：拟11亿元收购高端MLCC公司益阳电子科技55%股权",
-                "extra": "1773",
-                "url": "https://stock.10jqka.com.cn/20260827/c679360079.shtml"
+                "title": "拓普集团上半年营收逆势增长9.78% 新业务与全球化布局加速落地",
+                "extra": "70",
+                "url": "https://stock.10jqka.com.cn/20260828/c679364916.shtml"
               },
               {
                 "rank": "26",
-                "title": "科华数据：2026年上半年净利润3.96亿元，同比增长62.69%",
-                "extra": "1697",
-                "url": "https://stock.10jqka.com.cn/20260827/c679359916.shtml"
+                "title": "英伟达市值冲上5.4万亿美元，美股存储芯片股大涨，软件巨头飙涨超18%，黄金跌破4580美元#媒体原创#美股#英伟达（编辑：肖航）",
+                "extra": "66",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683622400.shtml"
               },
               {
                 "rank": "27",
-                "title": "英伟达财报引爆目标价上调潮 已有机构喊出10万亿美元的目标估值",
-                "extra": "1663",
-                "url": "https://stock.10jqka.com.cn/20260827/c679362490.shtml"
+                "title": "“汇金系”券商整合迈入新阶段 中金公司“三合一”重组过会",
+                "extra": "65",
+                "url": "https://stock.10jqka.com.cn/20260828/c679364707.shtml"
               },
               {
                 "rank": "28",
-                "title": "中芯国际：2026年上半年净利润44.67亿元，同比增长94.2%",
-                "extra": "1640",
-                "url": "https://stock.10jqka.com.cn/20260827/c679355824.shtml"
+                "title": "英伟达财报好于市场预期黄仁勋：AI迎来拐点！算力已直接等同于企业营收#英伟达#财报#市场#黄仁勋#新闻热点",
+                "extra": "65",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683625673.shtml"
               },
               {
                 "rank": "29",
-                "title": "岩山科技：2026年上半年净利润5950.69万元，同比下降11.33%",
-                "extra": "1541",
-                "url": "https://stock.10jqka.com.cn/20260827/c679359884.shtml"
+                "title": "603778，从高位回落70%！网红牛散“鑫多多”，二季度减仓1900万股",
+                "extra": "64",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683626718.shtml"
               },
               {
                 "rank": "30",
-                "title": "思源电气：对美出口收入占比不超2%",
-                "extra": "1449",
-                "url": "https://stock.10jqka.com.cn/20260827/c679359718.shtml"
+                "title": "卖一辆赚600块、半年亏40亿！新势力该重算规模账了",
+                "extra": "64",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683625621.shtml"
               },
               {
                 "rank": "31",
-                "title": "协创数据：2026年上半年净利润18.38亿元，同比增长325.51%",
-                "extra": "1426",
-                "url": "https://stock.10jqka.com.cn/20260827/c679358505.shtml"
+                "title": "美国据称接近就获得委内瑞拉油田股权达成协议",
+                "extra": "62",
+                "url": "https://stock.10jqka.com.cn/20260828/c679365207.shtml"
               },
               {
                 "rank": "32",
-                "title": "SailPoint美股盘前涨超14%",
-                "extra": "1426",
-                "url": "https://stock.10jqka.com.cn/20260827/c679362940.shtml"
+                "title": "信维通信上半年扣非净利增长22.05%拟11亿元控股益阳电子科技加码MLCC布局",
+                "extra": "52",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683627234.shtml"
               },
               {
                 "rank": "33",
-                "title": "云铝股份：上半年净利润同比增长178% 拟每10股派8.87元",
-                "extra": "1337",
-                "url": "https://stock.10jqka.com.cn/20260827/c679359852.shtml"
+                "title": "塞力医疗三大核心赛道协同发力 AI医疗与创新药布局成果显现",
+                "extra": "45",
+                "url": "https://stock.10jqka.com.cn/20260828/c679364879.shtml"
               },
               {
                 "rank": "34",
-                "title": "三安/华润微/士兰微/斯达披露SiC业务进展",
-                "extra": "1246",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683590273.shtml"
+                "title": "克利夫兰联储行长贝丝·哈马克：美国劳动力市场总体保持平衡且稳定",
+                "extra": "44",
+                "url": "https://stock.10jqka.com.cn/20260828/c679365067.shtml"
               },
               {
                 "rank": "35",
-                "title": "那个新冠疫苗巨头，带着肿瘤疫苗回来了",
-                "extra": "1160",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683572033.shtml"
+                "title": "创业板半年报抢先看！高端制造与创新药引领，新旧动能转换提速",
+                "extra": "37",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683624882.shtml"
               },
               {
                 "rank": "36",
-                "title": "特朗普就美国电网中的外国制造设备宣布“国家紧急状态” 中方表态",
-                "extra": "1083",
-                "url": "https://stock.10jqka.com.cn/20260827/c679346446.shtml"
+                "title": "牛磺酸业务发力，永安药业上半年净利同比增长超247%",
+                "extra": "35",
+                "url": "https://stock.10jqka.com.cn/20260828/c679365030.shtml"
               },
               {
                 "rank": "37",
-                "title": "佛塑科技：2026年上半年净利润9.05亿元，同比增长1608.12%",
-                "extra": "1072",
-                "url": "https://news.10jqka.com.cn/20260827/c679359699.shtml"
+                "title": "【异动解读】NVDA增长与收益ETF8月27日大涨：业绩超预期+AI芯片+平台扩展",
+                "extra": "30",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683627943.shtml"
               },
               {
                 "rank": "38",
-                "title": "木林森：2026年上半年净利润6.62亿元，同比增长330.68%",
-                "extra": "1063",
-                "url": "https://stock.10jqka.com.cn/20260827/c679360121.shtml"
+                "title": "卧安机器人：上半年亏损3830万元 同比转亏",
+                "extra": "26",
+                "url": "https://stock.10jqka.com.cn/20260828/c679364867.shtml"
               },
               {
                 "rank": "39",
-                "title": "储能系统被纳入美国禁令，阳光电源等回应",
-                "extra": "1035",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683575197.shtml"
+                "title": "中金黄金中期净利润同比增超61%",
+                "extra": "23",
+                "url": "https://stock.10jqka.com.cn/20260828/c679364705.shtml"
               },
               {
                 "rank": "40",
-                "title": "刘洪安：滨化锻造芯片“电子刻刀”",
-                "extra": "1027",
-                "url": "https://news.10jqka.com.cn/20260827/c679359180.shtml"
+                "title": "预见杰克逊霍尔“无事发生”？日本央行罕见仅派政策委员参会",
+                "extra": "23",
+                "url": "https://stock.10jqka.com.cn/20260828/c679365205.shtml"
               },
               {
                 "rank": "41",
-                "title": "信维通信上半年扣除汇兑损益后扣非净利增超七成 拟控股MLCC子公司完善高端被动元件版图",
-                "extra": "1027",
-                "url": "https://stock.10jqka.com.cn/20260827/c679362601.shtml"
+                "title": "中芯国际: 中芯国际关于2026年度“提质增效重回报”行动方案的半年度评估报告",
+                "extra": "19",
+                "url": "https://stock.10jqka.com.cn/20260828/c679365059.shtml"
               },
               {
                 "rank": "42",
-                "title": "利欧股份：2026年上半年净利润1.38亿元，同比下降71.07%",
-                "extra": "962",
-                "url": "https://stock.10jqka.com.cn/20260827/c679357016.shtml"
+                "title": "爱柯迪上半年营收同比增长24.42% 新获全生命周期订单超百亿元",
+                "extra": "18",
+                "url": "https://stock.10jqka.com.cn/20260828/c679364882.shtml"
               },
               {
                 "rank": "43",
-                "title": "光模块牛股半年净赚60亿元，尾盘直线涨停，股民直呼“不可思议”",
-                "extra": "958",
-                "url": "https://stock.10jqka.com.cn/20260827/c679362478.shtml"
+                "title": "SK海力士股价预测：40亿美元在美建HBM封装厂，投资换关税准入，股价会因此复苏吗？",
+                "extra": "17",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683627376.shtml"
               },
               {
                 "rank": "44",
-                "title": "润泽科技：2026年上半年净利润12.03亿元，同比增长36.43%",
-                "extra": "911",
-                "url": "https://stock.10jqka.com.cn/20260827/c679358608.shtml"
+                "title": "上市34年，曾霸占客厅的“彩电大王”申请退市！去年亏了近126亿元……",
+                "extra": "16",
+                "url": "https://stock.10jqka.com.cn/20260828/c679364931.shtml"
               },
               {
                 "rank": "45",
-                "title": "研究合并创业板与主板？港交所回应：将持续研究上市机制优化措施",
-                "extra": "900",
-                "url": "https://stock.10jqka.com.cn/20260827/c679355588.shtml"
+                "title": "拓普集团发布上半年业绩，归母净利润10.23亿元，同比下降21.03%",
+                "extra": "15",
+                "url": "https://stock.10jqka.com.cn/20260828/c679365040.shtml"
               },
               {
                 "rank": "46",
-                "title": "章建平新进2只翻倍牛股，位列前十大股东",
-                "extra": "877",
-                "url": "https://stock.10jqka.com.cn/20260827/c679359858.shtml"
+                "title": "自动驾驶入法，中国汽车进入“L3时刻”",
+                "extra": "14",
+                "url": "https://news.10jqka.com.cn/20260828/c679365032.shtml"
               },
               {
                 "rank": "47",
-                "title": "“牛散”章建平，又爆买！",
-                "extra": "856",
-                "url": "https://stock.10jqka.com.cn/20260827/c679362933.shtml"
+                "title": "彩讯股份2026年半年报解读｜企业级AI进入生产系统，规模化落地提速",
+                "extra": "13",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683623315.shtml"
               },
               {
                 "rank": "48",
-                "title": "600103，3连板！生物医药再传新利好，超跌+低PE+高增长股揭晓",
-                "extra": "825",
-                "url": "https://stock.10jqka.com.cn/20260827/c679360132.shtml"
+                "title": "世纪华通2026年上半年净利润同比增长69.51%，多款储备产品加速研发",
+                "extra": "13",
+                "url": "https://stock.10jqka.com.cn/20260828/c679365027.shtml"
               },
               {
                 "rank": "49",
-                "title": "停牌一天！两股，撤销ST！",
-                "extra": "817",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683585871.shtml"
+                "title": "“20cm”一字涨停！2000亿存储牛股，签下超级大单！单笔收入超过去年全年1.5倍",
+                "extra": "12",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683615947.shtml"
               },
               {
                 "rank": "50",
-                "title": "ST京蓝：8月28日停牌一天 8月31日起撤销其他风险警示",
-                "extra": "813",
-                "url": "https://stock.10jqka.com.cn/20260827/c679359575.shtml"
+                "title": "铜陵有色中报归母净利润同比增长超107%",
+                "extra": "11",
+                "url": "https://stock.10jqka.com.cn/20260828/c679364713.shtml"
               },
               {
                 "rank": "51",
-                "title": "麦格米特：总部基地项目延期至2027年12月",
-                "extra": "763",
-                "url": "https://stock.10jqka.com.cn/20260827/c679360273.shtml"
+                "title": "整零协同需做实“三篇文章”",
+                "extra": "11",
+                "url": "https://news.10jqka.com.cn/20260828/c679364708.shtml"
               },
               {
                 "rank": "52",
-                "title": "金安国纪：2026年上半年净利润7.66亿元，同比增长986.66%",
-                "extra": "758",
-                "url": "https://stock.10jqka.com.cn/20260827/c679356691.shtml"
+                "title": "【异动解读】Palantir8月27日大涨：AI软件+业绩带动+评级重申",
+                "extra": "7",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683626261.shtml"
               },
               {
                 "rank": "53",
-                "title": "哔哩哔哩-W：2026年第二季度净利润同比增加55%",
-                "extra": "713",
-                "url": "https://stock.10jqka.com.cn/20260827/c679357691.shtml"
+                "title": "涪陵榨菜上半年实现净利4.09亿元 第二增长曲线初见成效",
+                "extra": "7",
+                "url": "https://stock.10jqka.com.cn/20260828/c679364919.shtml"
               },
               {
                 "rank": "54",
-                "title": "中报密集披露！牛散二季度调仓大曝光，这些赛道获资金扎堆布局",
-                "extra": "683",
-                "url": "https://stock.10jqka.com.cn/20260827/c679355409.shtml"
+                "title": "飞沃科技：上半年营收增长近14%商业航天布局取得实质性突破",
+                "extra": "6",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683620376.shtml"
               },
               {
                 "rank": "55",
-                "title": "乾照光电：和君正德基金减持计划届满，累计减持2.80%",
-                "extra": "666",
-                "url": "https://stock.10jqka.com.cn/20260827/c679359451.shtml"
+                "title": "【异动解读】Ondas8月27日大涨：期权活跃+自主系统",
+                "extra": "4",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683628377.shtml"
               },
               {
                 "rank": "56",
-                "title": "拓普集团：2026年上半年净利润10.23亿元，同比下降21.03%",
-                "extra": "607",
-                "url": "https://stock.10jqka.com.cn/20260827/c679357154.shtml"
+                "title": "蓝科高新2026年半年报：净利增长超153%，战略重组落地加速转型",
+                "extra": "4",
+                "url": "https://stock.10jqka.com.cn/20260828/c679364906.shtml"
               },
               {
                 "rank": "57",
-                "title": "一图看懂：粮食危机炒了这么久，为什么资金最后盯上“种子”？",
-                "extra": "597",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683567113.shtml"
+                "title": "机情问答：小米玄戒O3有哪些升级点？云游戏掌机分析",
+                "extra": "3",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683625752.shtml"
               },
               {
                 "rank": "58",
-                "title": "A股公司，分红成潮！上百家公司拟合计派现近500亿元",
-                "extra": "592",
-                "url": "https://stock.10jqka.com.cn/20260827/c679363009.shtml"
+                "title": "东箭科技：深化“6+1+1”海外战略 稳健笃行蓄势前行",
+                "extra": "2",
+                "url": "https://stock.10jqka.com.cn/20260828/c679364870.shtml"
               },
               {
                 "rank": "59",
-                "title": "3倍牛股，拟10派15元转增4股，今日涨停",
-                "extra": "588",
-                "url": "https://stock.10jqka.com.cn/20260827/c679363057.shtml"
+                "title": "康方生物上半年营收同比增长27.92%亏损收窄",
+                "extra": "2",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683627834.shtml"
               },
               {
                 "rank": "60",
-                "title": "士兰微上半年功率模块装机量稳居国内前三，SiC赛道加速放量",
-                "extra": "553",
-                "url": "https://stock.10jqka.com.cn/20260827/c679359211.shtml"
+                "title": "国联水产上半年营收14.45亿元业绩修复在路上",
+                "extra": "1",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683626539.shtml"
               },
               {
                 "rank": "61",
-                "title": "红旗连锁：永辉超市完成减持计划，累计减持500万股",
-                "extra": "552",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683584893.shtml"
+                "title": "【异动解读】2倍做多SMR每日ETF8月27日大涨：核能AI+板块走强+杠杆放大",
+                "extra": "1",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683625545.shtml"
               },
               {
                 "rank": "62",
-                "title": "中金公司吸收合并东兴证券、信达证券的交易过会",
-                "extra": "547",
-                "url": "https://stock.10jqka.com.cn/20260827/c679360049.shtml"
+                "title": "超卓航科上半年净利润同比增长70.65% 持续向民用领域拓展",
+                "extra": "1",
+                "url": "https://stock.10jqka.com.cn/20260828/c679365042.shtml"
               },
               {
                 "rank": "63",
-                "title": "ST豆神：2026年上半年同比转亏，亏损2439.40万元",
-                "extra": "527",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683586728.shtml"
+                "title": "双良节能2026年上半年营收30.7亿元 经营性现金流同比增18.21%",
+                "extra": "1",
+                "url": "https://stock.10jqka.com.cn/20260828/c679364898.shtml"
               },
               {
                 "rank": "64",
-                "title": "天润工业：2026年上半年净利润2.7亿元，同比增长37.28%",
-                "extra": "487",
-                "url": "https://stock.10jqka.com.cn/20260827/c679362443.shtml"
+                "title": "恒帅股份上半年营收增长22% 电机业务与新能源赛道持续放量",
+                "extra": "0",
+                "url": "https://stock.10jqka.com.cn/20260828/c679364884.shtml"
               },
               {
                 "rank": "65",
-                "title": "鼎捷数智：2026年上半年净利润1.88亿元，同比增长318.50%",
-                "extra": "480",
-                "url": "https://stock.10jqka.com.cn/20260827/c679357232.shtml"
-              },
-              {
-                "rank": "66",
-                "title": "AIDC业务首超IDC，润泽科技展现算力龙头成色",
-                "extra": "477",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683582166.shtml"
-              },
-              {
-                "rank": "67",
-                "title": "香农芯创，净利猛涨超2200%！多家A股，业绩大增10倍",
-                "extra": "469",
-                "url": "https://stock.10jqka.com.cn/20260827/c679360009.shtml"
-              },
-              {
-                "rank": "68",
-                "title": "600103，3连板！生物医药再传新利好，超跌+低PE+高增长股揭晓",
-                "extra": "468",
-                "url": "https://stock.10jqka.com.cn/20260827/c679362600.shtml"
-              },
-              {
-                "rank": "69",
-                "title": "岩山科技：拟向控股子公司神思动量增资2000万元，推进脑机接口产品商业化落地",
-                "extra": "467",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683588616.shtml"
-              },
-              {
-                "rank": "70",
-                "title": "昆仑万维方汉做客央视《对话》：让 AI 推动文化平权，普惠全球",
-                "extra": "453",
-                "url": "https://stock.10jqka.com.cn/20260827/c679359456.shtml"
-              },
-              {
-                "rank": "71",
-                "title": "覆铜板龙头，净利大增986.66%",
-                "extra": "427",
-                "url": "https://stock.10jqka.com.cn/20260827/c679359958.shtml"
-              },
-              {
-                "rank": "72",
-                "title": "美药管局批准治疗转移性胰腺癌的新药",
-                "extra": "423",
-                "url": "https://stock.10jqka.com.cn/20260827/c679362553.shtml"
-              },
-              {
-                "rank": "73",
-                "title": "上半年利润相差不多，市值却差了三倍：光纤“三雄”半年报藏着什么秘密？",
-                "extra": "414",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683592811.shtml"
-              },
-              {
-                "rank": "74",
-                "title": "摩根大通减持洛阳钼业H股持股比例降至5.98%",
-                "extra": "405",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683575787.shtml"
-              },
-              {
-                "rank": "75",
-                "title": "苹果、三星全瓜分！全球最畅销手机前十名已没中国厂商身影",
-                "extra": "401",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683564577.shtml"
-              },
-              {
-                "rank": "76",
-                "title": "英伟达数据中心业务收入翻倍，中国占不到1%",
-                "extra": "398",
-                "url": "https://stock.10jqka.com.cn/20260827/c679352923.shtml"
-              },
-              {
-                "rank": "77",
-                "title": "15.86亿汇兑影响海尔智家利润，剔除后税前利润基本持平",
-                "extra": "397",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683594613.shtml"
-              },
-              {
-                "rank": "78",
-                "title": "“牛散”王新首秀：百亿江特电机精妙布局半导体",
-                "extra": "391",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683589155.shtml"
-              },
-              {
-                "rank": "79",
-                "title": "指数猛涨个股没跟上！A股历史多次重演",
-                "extra": "391",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683581200.shtml"
-              },
-              {
-                "rank": "80",
-                "title": "信维通信：2026年上半年净利润同比下降6.99%",
-                "extra": "377",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683588605.shtml"
-              },
-              {
-                "rank": "81",
-                "title": "【持仓分析】中银期货沪银净空头持仓连续第3日减少！",
-                "extra": "367",
-                "url": "https://news.10jqka.com.cn/20260827/c679358688.shtml"
-              },
-              {
-                "rank": "82",
-                "title": "液冷开始爆发时刻",
-                "extra": "362",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683569507.shtml"
-              },
-              {
-                "rank": "83",
-                "title": "107名应届毕业生被解聘！601799：决策失误、深感愧疚，但不是“劝退”",
-                "extra": "343",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683565793.shtml"
-              },
-              {
-                "rank": "84",
-                "title": "一图读懂中天科技2026半年报",
-                "extra": "342",
-                "url": "https://stock.10jqka.com.cn/20260827/c679359208.shtml"
-              },
-              {
-                "rank": "85",
-                "title": "中国铝业：上半年净利润同比增长67.91% 拟10派2.76元",
-                "extra": "331",
-                "url": "https://stock.10jqka.com.cn/20260827/c679356581.shtml"
-              },
-              {
-                "rank": "86",
-                "title": "万科半年报出炉！重要信号，经营现金流净额转正！",
-                "extra": "330",
-                "url": "https://news.10jqka.com.cn/20260827/c679362955.shtml"
-              },
-              {
-                "rank": "87",
-                "title": "潍柴动力：2026年上半年净利润77.01亿元，同比增长36.46%",
-                "extra": "326",
-                "url": "https://stock.10jqka.com.cn/20260827/c679356917.shtml"
-              },
-              {
-                "rank": "88",
-                "title": "方正科技：陈宏良辞去董事等职务",
-                "extra": "321",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683584491.shtml"
-              },
-              {
-                "rank": "89",
-                "title": "士兰微电子亮相PCIM Asia Shenzhen 2026，全链路算力电源方案赋能AI智算时代",
-                "extra": "320",
-                "url": "https://stock.10jqka.com.cn/20260827/c679359202.shtml"
-              },
-              {
-                "rank": "90",
-                "title": "8.27:神奇制药百花医药双双涨停，深中华与金健米业明天关键一天",
-                "extra": "313",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683581102.shtml"
-              },
-              {
-                "rank": "91",
-                "title": "电投产融：2026年上半年净利润17.63亿元，同比下降10.52%",
-                "extra": "310",
-                "url": "https://stock.10jqka.com.cn/20260827/c679359789.shtml"
-              },
-              {
-                "rank": "92",
-                "title": "长信科技上半年营收48.8亿元净利润同比降47.76%",
-                "extra": "307",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683575800.shtml"
-              },
-              {
-                "rank": "93",
-                "title": "山西证券：首次覆盖雅克科技给予买入评级",
-                "extra": "303",
-                "url": "https://stock.10jqka.com.cn/20260827/c679359812.shtml"
-              },
-              {
-                "rank": "94",
-                "title": "麦格米特2026年半年度报告",
-                "extra": "298",
-                "url": "https://stock.10jqka.com.cn/20260827/c679362356.shtml"
-              },
-              {
-                "rank": "95",
-                "title": "极限反攻！会是一日游吗？A股剧本已写好！",
-                "extra": "289",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_683595048.shtml"
-              },
-              {
-                "rank": "96",
-                "title": "数字政通：2026年上半年净利润亏损572.8万元",
-                "extra": "288",
-                "url": "https://stock.10jqka.com.cn/20260827/c679359860.shtml"
-              },
-              {
-                "rank": "97",
-                "title": "华尔街巨头胜利前夜“分赃不均”，美联储门前内讧",
-                "extra": "287",
-                "url": "https://news.10jqka.com.cn/20260827/c679357945.shtml"
-              },
-              {
-                "rank": "98",
-                "title": "驰援西藏吉隆，阿里巴巴追加1000万元捐款",
-                "extra": "286",
-                "url": "https://field.10jqka.com.cn/20260827/c679360646.shtml"
-              },
-              {
-                "rank": "99",
-                "title": "天海防务：2026年上半年净利润1.83亿元，同比增长45.46%",
-                "extra": "281",
-                "url": "https://stock.10jqka.com.cn/20260827/c679357611.shtml"
-              },
-              {
-                "rank": "100",
-                "title": "科华数据：拟调整智能制造基地募投项目结构",
-                "extra": "277",
-                "url": "https://stock.10jqka.com.cn/20260827/c679359950.shtml"
+                "title": "香飘飘二代接班！90后“奶茶姐姐”被推选为副董事长，面临三大难题",
+                "extra": "0",
+                "url": "https://stock.10jqka.com.cn/20260828/c679364684.shtml"
               }
             ]
           },
@@ -3118,7 +2896,7 @@
               },
               {
                 "rank": "",
-                "title": "美股三大指数走势分化 英伟达股价大涨超6%",
+                "title": "美股三大指数走高 纳指涨超1% 英伟达涨逾9%",
                 "extra": "",
                 "url": "https://finance.eastmoney.com/a/202608273856849540.html"
               },
@@ -3268,39 +3046,39 @@
               },
               {
                 "rank": "3",
-                "title": "国产游戏，坐上了科隆C位",
-                "extra": "",
-                "url": "https://www.36kr.com/p/3956400723869056"
-              },
-              {
-                "rank": "4",
                 "title": "AI跑得太快，比尔·盖茨建议开征“token税”",
                 "extra": "",
                 "url": "https://www.36kr.com/p/3957170906135687"
               },
               {
-                "rank": "5",
+                "rank": "4",
                 "title": "智谱“牛来”模型算力谜底：全部国产卡承载，价格仅为Opus 4.8的1/40",
                 "extra": "",
                 "url": "https://www.36kr.com/p/3956946155355267"
               },
               {
-                "rank": "6",
+                "rank": "5",
                 "title": "他亲手造出o1和o3，却突然宣布：人类可以永远退休了",
                 "extra": "",
                 "url": "https://www.36kr.com/p/3957013321268355"
               },
               {
-                "rank": "7",
+                "rank": "6",
                 "title": "千问智谱连夜开源，都比DeepSeek便宜，国产大模型价格猛卷",
                 "extra": "",
                 "url": "https://www.36kr.com/p/3956555141430402"
               },
               {
-                "rank": "8",
+                "rank": "7",
                 "title": "性萧条、爱萧条，还有什么不萧条？",
                 "extra": "",
                 "url": "https://www.36kr.com/p/3957138380946563"
+              },
+              {
+                "rank": "8",
+                "title": "研究证实：6种和“延长寿命”相关的运动",
+                "extra": "",
+                "url": "https://www.36kr.com/p/3936583693778054"
               }
             ]
           },
@@ -3496,123 +3274,123 @@
             "items": [
               {
                 "rank": "1",
+                "title": "派评 | 近期值得关注的 App",
+                "extra": "少数派编辑部",
+                "url": "https://sspai.com/post/113795"
+              },
+              {
+                "rank": "2",
+                "title": "AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……",
+                "extra": "dong4j",
+                "url": "https://sspai.com/post/113563"
+              },
+              {
+                "rank": "3",
                 "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
                 "extra": "isayyeah",
                 "url": "https://sspai.com/post/113002"
               },
               {
-                "rank": "2",
+                "rank": "4",
                 "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
                 "extra": "听歌的水獭",
                 "url": "https://sspai.com/post/113675"
               },
               {
-                "rank": "3",
+                "rank": "5",
                 "title": "本周看什么 | 最近值得一看的 10 部作品",
                 "extra": "少数派编辑部",
                 "url": "https://sspai.com/post/113693"
               },
               {
-                "rank": "4",
+                "rank": "6",
                 "title": "TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验",
                 "extra": "KingTsui",
                 "url": "https://sspai.com/post/113586"
               },
               {
-                "rank": "5",
+                "rank": "7",
                 "title": "新玩意 249｜少数派的编辑们最近买了啥？",
                 "extra": "少数派编辑部",
                 "url": "https://sspai.com/post/113650"
               },
               {
-                "rank": "6",
+                "rank": "8",
                 "title": "十年阅读历程，这是我的阅读工具推荐",
                 "extra": "ElijahLee",
                 "url": "https://sspai.com/post/113567"
               },
               {
-                "rank": "7",
+                "rank": "9",
                 "title": "iOS 27 测试版近期动向，还有 Apple 产品新消息",
                 "extra": "Vanilla",
                 "url": "https://sspai.com/post/113618"
               },
               {
-                "rank": "8",
+                "rank": "10",
                 "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
                 "extra": "Matrix机器人",
                 "url": "https://sspai.com/post/113593"
               },
               {
-                "rank": "9",
+                "rank": "11",
                 "title": "派评 | 近期值得关注的 App",
                 "extra": "少数派编辑部",
                 "url": "https://sspai.com/post/113544"
               },
               {
-                "rank": "10",
+                "rank": "12",
                 "title": "分享我知识管理 12 年来最重要的经验：INL 结构",
                 "extra": "羊清乐",
                 "url": "https://sspai.com/post/113368"
               },
               {
-                "rank": "11",
+                "rank": "13",
                 "title": "「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测",
                 "extra": "WangMT",
                 "url": "https://sspai.com/post/113497"
               },
               {
-                "rank": "12",
+                "rank": "14",
                 "title": "成年人包里的唯一一支笔：模块笔入门导购",
                 "extra": "北鸮",
                 "url": "https://sspai.com/post/113445"
               },
               {
-                "rank": "13",
+                "rank": "15",
                 "title": "浏览器扩展合集： 我们为你找到了这 6 款实用、 有趣的「新玩意」",
                 "extra": "克莱德",
                 "url": "https://sspai.com/post/113495"
               },
               {
-                "rank": "14",
+                "rank": "16",
                 "title": "本周看什么 | 最近值得一看的 9 部作品",
                 "extra": "少数派编辑部",
                 "url": "https://sspai.com/post/113459"
               },
               {
-                "rank": "15",
+                "rank": "17",
                 "title": "你初高中时的书单里，总有本「东野圭吾」吧？",
                 "extra": "潘誉晗",
                 "url": "https://sspai.com/post/113416"
               },
               {
-                "rank": "16",
+                "rank": "18",
                 "title": "不用改签名，给 Mac 微信聊天记录「搬个家」",
                 "extra": "wclebb",
                 "url": "https://sspai.com/post/113225"
               },
               {
-                "rank": "17",
+                "rank": "19",
                 "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
                 "extra": "Linery",
                 "url": "https://sspai.com/post/113219"
               },
               {
-                "rank": "18",
+                "rank": "20",
                 "title": "社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包",
                 "extra": "Matrix机器人",
                 "url": "https://sspai.com/post/113304"
-              },
-              {
-                "rank": "19",
-                "title": "派评 | 近期值得关注的 App",
-                "extra": "少数派编辑部",
-                "url": "https://sspai.com/post/113283"
-              },
-              {
-                "rank": "20",
-                "title": "我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面",
-                "extra": "Belcheck",
-                "url": "https://sspai.com/post/113158"
               }
             ]
           },
@@ -3688,75 +3466,75 @@
             "items": [
               {
                 "rank": "1",
-                "title": "特努斯首秀开启 iPhone 18 Pro / Ultra 系列新篇章，苹果发布会官宣定档 9 月 10 日",
-                "extra": "385评",
-                "url": "https://m.ithome.com/html/994787.htm"
-              },
-              {
-                "rank": "2",
                 "title": "被曝安排硕士打螺丝：星宇股份就批量劝退应届生致歉，将向 107 位同学发放求职生活补贴",
-                "extra": "218评",
+                "extra": "226评",
                 "url": "https://m.ithome.com/html/994810.htm"
               },
               {
-                "rank": "3",
+                "rank": "2",
                 "title": "古尔曼解读苹果 iPhone 18 Pro / Max 邀请函：可变光圈、新天蓝色",
-                "extra": "149评",
+                "extra": "152评",
                 "url": "https://m.ithome.com/html/994909.htm"
+              },
+              {
+                "rank": "3",
+                "title": "红色版时隔 4 年回归？苹果首款折叠手机 iPhone Ultra 渲染图再曝",
+                "extra": "139评",
+                "url": "https://m.ithome.com/html/994808.htm"
               },
               {
                 "rank": "4",
                 "title": "小米澎湃 OS 4 新特性：双持小米手机可跨设备接听来电、接收验证码",
-                "extra": "207评",
+                "extra": "214评",
                 "url": "https://m.ithome.com/html/994944.htm"
               },
               {
                 "rank": "5",
-                "title": "红色版时隔 4 年回归？苹果首款折叠手机 iPhone Ultra 渲染图再曝",
-                "extra": "126评",
-                "url": "https://m.ithome.com/html/994808.htm"
-              },
-              {
-                "rank": "6",
                 "title": "立省 1000 元：苹果为 M4 版 Mac mini 用户未发货订单免费升级 M6 版本",
-                "extra": "79评",
+                "extra": "91评",
                 "url": "https://m.ithome.com/html/994991.htm"
               },
               {
-                "rank": "7",
-                "title": "苹果回应更新至 iOS / macOS 27 后“聚焦搜索”重建索引需要好几天：时长取决于设备中保存的数据量",
-                "extra": "51评",
-                "url": "https://m.ithome.com/html/994779.htm"
-              },
-              {
-                "rank": "8",
+                "rank": "6",
                 "title": "2699 元起，小米首款 NAS 产品 Xiaomi 智能存储开售",
-                "extra": "138评",
+                "extra": "144评",
                 "url": "https://m.ithome.com/html/994826.htm"
               },
               {
-                "rank": "9",
-                "title": "Ox Alpha 现身：智谱开源 GLM-5.3-Flash 原生多模态模型，限时折扣价为 GLM-5.3 的 1/20",
-                "extra": "150评",
-                "url": "https://m.ithome.com/html/994765.htm"
+                "rank": "7",
+                "title": "小米王乐回应澎湃 OS 4 Beta 版微信误封问题，称没使用过模拟点击类三方 App 就没有风险",
+                "extra": "137评",
+                "url": "https://m.ithome.com/html/995037.htm"
               },
               {
-                "rank": "10",
-                "title": "成都高新减灾研究所发第四份声明：首报预警震级偏差大表示道歉，但该预警不是误报",
-                "extra": "110评",
-                "url": "https://m.ithome.com/html/994777.htm"
-              },
-              {
-                "rank": "11",
+                "rank": "8",
                 "title": "小米官宣：诚邀 500 位米粉北京相见，共赴一场科技盛会",
-                "extra": "118评",
+                "extra": "120评",
                 "url": "https://m.ithome.com/html/994891.htm"
               },
               {
+                "rank": "9",
+                "title": "批量劝退应届生的车灯公司星宇股份 2026 上半年净利润 6.69 亿元，应付职工薪酬同比下降 45.9%",
+                "extra": "74评",
+                "url": "https://m.ithome.com/html/994958.htm"
+              },
+              {
+                "rank": "10",
+                "title": "彭博社：苹果首款折叠手机 iPhone Ultra 首年出货量预估超 1000 万台",
+                "extra": "177评",
+                "url": "https://m.ithome.com/html/994957.htm"
+              },
+              {
+                "rank": "11",
+                "title": "（更新：删除 Xiaomi MIX Flip 2）小米澎湃 HyperOS 4 Beta 版即日起开启新一批推送，覆盖 Xiaomi 17 Max、15 Ultra 等机型",
+                "extra": "148评",
+                "url": "https://m.ithome.com/html/995164.htm"
+              },
+              {
                 "rank": "12",
-                "title": "小米王乐回应澎湃 OS 4 Beta 版微信误封问题，称没使用过模拟点击类三方 App 就没有风险",
-                "extra": "127评",
-                "url": "https://m.ithome.com/html/995037.htm"
+                "title": "6999 元起，苹果全新 Mac Studio 与 Mac mini 今日接受预购",
+                "extra": "97评",
+                "url": "https://m.ithome.com/html/994832.htm"
               }
             ]
           }
@@ -3773,15 +3551,15 @@
               },
               {
                 "rank": "2",
-                "title": "腾讯汤道生深度复盘WorkBuddy、元宝以及AI竞争：和AI一起长跑的这两年",
-                "extra": "深流研究所",
-                "url": "https://www.woshipm.com/?p=6454755"
-              },
-              {
-                "rank": "3",
                 "title": "Anthropic 官方指南：AI Native 开发手册",
                 "extra": "赛博禅心",
                 "url": "https://www.woshipm.com/?p=6454739"
+              },
+              {
+                "rank": "3",
+                "title": "腾讯汤道生深度复盘WorkBuddy、元宝以及AI竞争：和AI一起长跑的这两年",
+                "extra": "深流研究所",
+                "url": "https://www.woshipm.com/?p=6454755"
               },
               {
                 "rank": "4",
@@ -3809,15 +3587,15 @@
               },
               {
                 "rank": "8",
-                "title": "豆包工作一手实测，这下真是飞一般的感觉了。",
-                "extra": "阿真Irene",
-                "url": "https://www.woshipm.com/?p=6454753"
-              },
-              {
-                "rank": "9",
                 "title": "AI越强，我们为什么反而越忙？",
                 "extra": "快刀青衣",
                 "url": "https://www.woshipm.com/?p=6454509"
+              },
+              {
+                "rank": "9",
+                "title": "豆包工作一手实测，这下真是飞一般的感觉了。",
+                "extra": "阿真Irene",
+                "url": "https://www.woshipm.com/?p=6454753"
               },
               {
                 "rank": "10",
@@ -3839,141 +3617,141 @@
               },
               {
                 "rank": "13",
-                "title": "从互联网之王到48亿贱卖：雅虎的悲剧，是一个关于“谁说了算”的故事",
-                "extra": "李明Bright",
-                "url": "https://www.woshipm.com/?p=6454496"
-              },
-              {
-                "rank": "14",
-                "title": "Claude Code 与 Grok Bot 被拆开后：AI Agent 真正难复制的是什么？",
-                "extra": "Elec Sheep",
-                "url": "https://www.woshipm.com/?p=6454678"
-              },
-              {
-                "rank": "15",
-                "title": "AI衣柜Alta：从电影概念到1亿套穿搭，它想成为你的私人造型师",
-                "extra": "张艾拉",
-                "url": "https://www.woshipm.com/?p=6453443"
-              },
-              {
-                "rank": "16",
-                "title": "BROKEN提示词案例",
-                "extra": "Blues",
-                "url": "https://www.woshipm.com/?p=6454493"
-              },
-              {
-                "rank": "17",
-                "title": "AI在助贷落地的真实体感：不是深度融合，而是俄罗斯方块般咬合",
-                "extra": "Sean",
-                "url": "https://www.woshipm.com/?p=6454992"
-              },
-              {
-                "rank": "18",
-                "title": "产品做加法是本能，做减法才是本事",
-                "extra": "万物复苏",
-                "url": "https://www.woshipm.com/?p=6455130"
-              },
-              {
-                "rank": "19",
-                "title": "腾讯、阿里、字节齐发办公Agent，为什么说数据底座才是终局？",
-                "extra": "Q-齐先生",
-                "url": "https://www.woshipm.com/?p=6455021"
-              },
-              {
-                "rank": "20",
                 "title": "藏在赵一鸣地图里的 \"下沉市场渗透算法\"：不是选址，是截流",
                 "extra": "桑木拓",
                 "url": "https://www.woshipm.com/?p=6455238"
               },
               {
-                "rank": "21",
-                "title": "“漂亮饭”为什么成了社交货币？口红效应2.0来了",
-                "extra": "品牌猿",
-                "url": "https://www.woshipm.com/?p=6454520"
+                "rank": "14",
+                "title": "从互联网之王到48亿贱卖：雅虎的悲剧，是一个关于“谁说了算”的故事",
+                "extra": "李明Bright",
+                "url": "https://www.woshipm.com/?p=6454496"
               },
               {
-                "rank": "22",
-                "title": "轮到豆包工作了",
-                "extra": "听筒Tech",
-                "url": "https://www.woshipm.com/?p=6454938"
+                "rank": "15",
+                "title": "Claude Code 与 Grok Bot 被拆开后：AI Agent 真正难复制的是什么？",
+                "extra": "Elec Sheep",
+                "url": "https://www.woshipm.com/?p=6454678"
               },
               {
-                "rank": "23",
-                "title": "AI时代，产品经理人才筛选决策逻辑揭密，注意这些新要求！",
-                "extra": "起点课堂",
-                "url": "https://www.woshipm.com/?p=6452774"
+                "rank": "16",
+                "title": "AI衣柜Alta：从电影概念到1亿套穿搭，它想成为你的私人造型师",
+                "extra": "张艾拉",
+                "url": "https://www.woshipm.com/?p=6453443"
               },
               {
-                "rank": "24",
+                "rank": "17",
                 "title": "京东物流李亚曼：当AI进入物流全链路，产品经理要重新定义自己的价值",
                 "extra": "人人都是产品经理",
                 "url": "https://www.woshipm.com/?p=6455237"
               },
               {
-                "rank": "25",
-                "title": "用WorkBuddy的VOC Skill，10分钟把500条评论变成万字洞察报告",
-                "extra": "Bulus lan",
-                "url": "https://www.woshipm.com/?p=6449946"
+                "rank": "18",
+                "title": "BROKEN提示词案例",
+                "extra": "Blues",
+                "url": "https://www.woshipm.com/?p=6454493"
               },
               {
-                "rank": "26",
+                "rank": "19",
                 "title": "对谈前剪映负责人KiKi：「All in One」是个伪命题，创业别用AI新瓶装旧酒",
                 "extra": "Z Finance",
                 "url": "https://www.woshipm.com/?p=6455456"
               },
               {
-                "rank": "27",
-                "title": "千问办公为何还没上牌桌？产品、收费与获客的三重短板",
-                "extra": "运营官张沐",
-                "url": "https://www.woshipm.com/?p=6454944"
+                "rank": "20",
+                "title": "产品做加法是本能，做减法才是本事",
+                "extra": "万物复苏",
+                "url": "https://www.woshipm.com/?p=6455130"
               },
               {
-                "rank": "28",
+                "rank": "21",
+                "title": "AI在助贷落地的真实体感：不是深度融合，而是俄罗斯方块般咬合",
+                "extra": "Sean",
+                "url": "https://www.woshipm.com/?p=6454992"
+              },
+              {
+                "rank": "22",
+                "title": "“漂亮饭”为什么成了社交货币？口红效应2.0来了",
+                "extra": "品牌猿",
+                "url": "https://www.woshipm.com/?p=6454520"
+              },
+              {
+                "rank": "23",
+                "title": "腾讯、阿里、字节齐发办公Agent，为什么说数据底座才是终局？",
+                "extra": "Q-齐先生",
+                "url": "https://www.woshipm.com/?p=6455021"
+              },
+              {
+                "rank": "24",
                 "title": "诺基亚：从2500亿到72亿，全球手机之王如何被时代抛弃",
                 "extra": "李明Bright",
                 "url": "https://www.woshipm.com/?p=6455167"
               },
               {
-                "rank": "29",
-                "title": "“杀糕局”爆火背后：年轻人的社交和消费正在被重新定义",
-                "extra": "锌刻度",
-                "url": "https://www.woshipm.com/?p=6455109"
+                "rank": "25",
+                "title": "轮到豆包工作了",
+                "extra": "听筒Tech",
+                "url": "https://www.woshipm.com/?p=6454938"
               },
               {
-                "rank": "30",
+                "rank": "26",
+                "title": "AI时代，产品经理人才筛选决策逻辑揭密，注意这些新要求！",
+                "extra": "起点课堂",
+                "url": "https://www.woshipm.com/?p=6452774"
+              },
+              {
+                "rank": "27",
                 "title": "智谱 5.3-flash 成了新的斩杀线",
                 "extra": "赛博禅心",
                 "url": "https://www.woshipm.com/?p=6455220"
               },
               {
-                "rank": "31",
+                "rank": "28",
+                "title": "用WorkBuddy的VOC Skill，10分钟把500条评论变成万字洞察报告",
+                "extra": "Bulus lan",
+                "url": "https://www.woshipm.com/?p=6449946"
+              },
+              {
+                "rank": "29",
                 "title": "单人手搓9款AI产品、多次获得苹果推荐，上海这家一人初创公司藏不住了？",
                 "extra": "扬帆出海",
                 "url": "https://www.woshipm.com/?p=6455170"
               },
               {
-                "rank": "32",
+                "rank": "30",
+                "title": "千问办公为何还没上牌桌？产品、收费与获客的三重短板",
+                "extra": "运营官张沐",
+                "url": "https://www.woshipm.com/?p=6454944"
+              },
+              {
+                "rank": "31",
                 "title": "腾讯阿里字节在 AI 办公打起来了，产品经理该慌还是该乐？",
                 "extra": "柳星聊产品",
                 "url": "https://www.woshipm.com/?p=6455165"
               },
               {
-                "rank": "33",
-                "title": "如何洞察用户？9个视角19个提示词",
-                "extra": "品牌猿",
-                "url": "https://www.woshipm.com/?p=6454136"
-              },
-              {
-                "rank": "34",
+                "rank": "32",
                 "title": "在AI突飞猛进时代下，作为不是AI领域的研发者应该怎么处理与AI的关系",
                 "extra": "Eureka",
                 "url": "https://www.woshipm.com/?p=6455244"
               },
               {
+                "rank": "33",
+                "title": "“杀糕局”爆火背后：年轻人的社交和消费正在被重新定义",
+                "extra": "锌刻度",
+                "url": "https://www.woshipm.com/?p=6455109"
+              },
+              {
+                "rank": "34",
+                "title": "如何洞察用户？9个视角19个提示词",
+                "extra": "品牌猿",
+                "url": "https://www.woshipm.com/?p=6454136"
+              },
+              {
                 "rank": "35",
-                "title": "DeepSeek一张涨价单，繁荣了一条产业链？",
-                "extra": "师天浩",
-                "url": "https://www.woshipm.com/?p=6454940"
+                "title": "WorkBuddy、豆包工作、千问办公的入口之争",
+                "extra": "叶小钗",
+                "url": "https://www.woshipm.com/?p=6455160"
               },
               {
                 "rank": "36",
@@ -3983,27 +3761,27 @@
               },
               {
                 "rank": "37",
-                "title": "县城里，靠直播谋生的人",
-                "extra": "脑极体",
-                "url": "https://www.woshipm.com/?p=6454627"
+                "title": "DeepSeek一张涨价单，繁荣了一条产业链？",
+                "extra": "师天浩",
+                "url": "https://www.woshipm.com/?p=6454940"
               },
               {
                 "rank": "38",
-                "title": "全栈AI，其实是个陷阱？",
-                "extra": "字母榜",
-                "url": "https://www.woshipm.com/?p=6454750"
-              },
-              {
-                "rank": "39",
                 "title": "从分销商到生态构建者：卡地纳健康公司的商业模式分析",
                 "extra": "无敌水手",
                 "url": "https://www.woshipm.com/?p=6266477"
               },
               {
+                "rank": "39",
+                "title": "全栈AI，其实是个陷阱？",
+                "extra": "字母榜",
+                "url": "https://www.woshipm.com/?p=6454750"
+              },
+              {
                 "rank": "40",
-                "title": "给B端产品加上AI聊天框之后，用户为什么还要回到Excel？",
-                "extra": "牛马体验家",
-                "url": "https://www.woshipm.com/?p=6453718"
+                "title": "县城里，靠直播谋生的人",
+                "extra": "脑极体",
+                "url": "https://www.woshipm.com/?p=6454627"
               },
               {
                 "rank": "41",
@@ -4013,51 +3791,51 @@
               },
               {
                 "rank": "42",
+                "title": "给B端产品加上AI聊天框之后，用户为什么还要回到Excel？",
+                "extra": "牛马体验家",
+                "url": "https://www.woshipm.com/?p=6453718"
+              },
+              {
+                "rank": "43",
                 "title": "为什么80%的企业AI项目都失败了——以零售行业预测场景为例",
                 "extra": "闯爷",
                 "url": "https://www.woshipm.com/?p=6453166"
               },
               {
-                "rank": "43",
+                "rank": "44",
                 "title": "靠AI重做“老登”生意，一年估值120亿美元",
                 "extra": "硅基观察Pro",
                 "url": "https://www.woshipm.com/?p=6453856"
               },
               {
-                "rank": "44",
+                "rank": "45",
                 "title": "AI互联网日报：抖音筹备免费短剧/Apple地图引入广告/百度转为双重主要上市",
                 "extra": "Rose",
                 "url": "https://www.woshipm.com/?p=6455389"
               },
               {
-                "rank": "45",
-                "title": "WorkBuddy、豆包工作、千问办公的入口之争",
-                "extra": "叶小钗",
-                "url": "https://www.woshipm.com/?p=6455160"
-              },
-              {
                 "rank": "46",
-                "title": "盒马向右，侯毅向左",
-                "extra": "慢放",
-                "url": "https://www.woshipm.com/?p=6454500"
-              },
-              {
-                "rank": "47",
                 "title": "Token到底该谁买单？企业，还是员工？",
                 "extra": "产品方法论集散地",
                 "url": "https://www.woshipm.com/?p=6454458"
               },
               {
-                "rank": "48",
-                "title": "豆包工作评测：从问答助手到数字打工人",
-                "extra": "Rose",
-                "url": "https://www.woshipm.com/?p=6453952"
+                "rank": "47",
+                "title": "盒马向右，侯毅向左",
+                "extra": "慢放",
+                "url": "https://www.woshipm.com/?p=6454500"
               },
               {
-                "rank": "49",
+                "rank": "48",
                 "title": "给猫狗把脉，宠物“中式养生”是智商税吗？",
                 "extra": "惊蛰研究所",
                 "url": "https://www.woshipm.com/?p=6455163"
+              },
+              {
+                "rank": "49",
+                "title": "豆包工作评测：从问答助手到数字打工人",
+                "extra": "Rose",
+                "url": "https://www.woshipm.com/?p=6453952"
               },
               {
                 "rank": "50",
@@ -4067,21 +3845,21 @@
               },
               {
                 "rank": "51",
-                "title": "AI直播运营：如何把AI嵌入直播前、中、后三个环节？",
-                "extra": "Anson郑",
-                "url": "https://www.woshipm.com/?p=6448701"
-              },
-              {
-                "rank": "52",
                 "title": "3万字长文带你WorkBuddy 从入门到精通",
                 "extra": "AI星球",
                 "url": "https://www.woshipm.com/?p=6445745"
               },
               {
+                "rank": "52",
+                "title": "AI直播运营：如何把AI嵌入直播前、中、后三个环节？",
+                "extra": "Anson郑",
+                "url": "https://www.woshipm.com/?p=6448701"
+              },
+              {
                 "rank": "53",
-                "title": "HappyHorse与Wan3.0赛马，谁是阿里版Seedance？",
+                "title": "DeepSeek不是“老大”了？一张图拉开40倍Token成本差，“视力”却输给豆包？",
                 "extra": "Tech星球",
-                "url": "https://www.woshipm.com/?p=6454693"
+                "url": "https://www.woshipm.com/?p=6454269"
               },
               {
                 "rank": "54",
@@ -4091,75 +3869,75 @@
               },
               {
                 "rank": "55",
-                "title": "WorkBuddy新版「资料库」上线，实测惊艳到了",
-                "extra": "产品笔记",
-                "url": "https://www.woshipm.com/?p=6446112"
+                "title": "HappyHorse与Wan3.0赛马，谁是阿里版Seedance？",
+                "extra": "Tech星球",
+                "url": "https://www.woshipm.com/?p=6454693"
               },
               {
                 "rank": "56",
-                "title": "硅谷AI大逃杀：Anthropic如何吸干OpenAI的“超级大脑”？",
-                "extra": "霞光社",
-                "url": "https://www.woshipm.com/?p=6455185"
-              },
-              {
-                "rank": "57",
                 "title": "万相 Wan3.0 评测：文档直转 30 秒视频，阿里这次把”稳定”做成了卖点",
                 "extra": "AI星球",
                 "url": "https://www.woshipm.com/?p=6453472"
               },
               {
+                "rank": "57",
+                "title": "WorkBuddy新版「资料库」上线，实测惊艳到了",
+                "extra": "产品笔记",
+                "url": "https://www.woshipm.com/?p=6446112"
+              },
+              {
                 "rank": "58",
-                "title": "DeepSeek不是“老大”了？一张图拉开40倍Token成本差，“视力”却输给豆包？",
-                "extra": "Tech星球",
-                "url": "https://www.woshipm.com/?p=6454269"
+                "title": "硅谷AI大逃杀：Anthropic如何吸干OpenAI的“超级大脑”？",
+                "extra": "霞光社",
+                "url": "https://www.woshipm.com/?p=6455185"
               },
               {
                 "rank": "59",
-                "title": "从散落病例到可控记忆：AI PM如何设计宠物照护 Agent",
-                "extra": "Molly",
-                "url": "https://www.woshipm.com/?p=6452376"
-              },
-              {
-                "rank": "60",
-                "title": "秋一奶茶当日下午2点断冰：产品经理如何用「本体」来设计保供？",
-                "extra": "数商思语行",
-                "url": "https://www.woshipm.com/?p=6454422"
-              },
-              {
-                "rank": "61",
-                "title": "16000字超详细 Seedance 2.5 官方提示词指南及提示词模板",
-                "extra": "小互AI",
-                "url": "https://www.woshipm.com/?p=6439817"
-              },
-              {
-                "rank": "62",
                 "title": "今天10分钟搓了一个小创意，5分钟发布到小红书「小工具」",
                 "extra": "产品笔记",
                 "url": "https://www.woshipm.com/?p=6432615"
               },
               {
+                "rank": "60",
+                "title": "从散落病例到可控记忆：AI PM如何设计宠物照护 Agent",
+                "extra": "Molly",
+                "url": "https://www.woshipm.com/?p=6452376"
+              },
+              {
+                "rank": "61",
+                "title": "秋一奶茶当日下午2点断冰：产品经理如何用「本体」来设计保供？",
+                "extra": "数商思语行",
+                "url": "https://www.woshipm.com/?p=6454422"
+              },
+              {
+                "rank": "62",
+                "title": "16000字超详细 Seedance 2.5 官方提示词指南及提示词模板",
+                "extra": "小互AI",
+                "url": "https://www.woshipm.com/?p=6439817"
+              },
+              {
                 "rank": "63",
+                "title": "4步搭PPT Agent ：把PPT从3天压到1天",
+                "extra": "设绘闲人",
+                "url": "https://www.woshipm.com/?p=6441980"
+              },
+              {
+                "rank": "64",
                 "title": "消失8年的QQ宠物，回来了",
                 "extra": "刺猬公社",
                 "url": "https://www.woshipm.com/?p=6454156"
               },
               {
-                "rank": "64",
+                "rank": "65",
                 "title": "ppt-master skill 实战：用 Claude/Codex 30 分钟做出精美的 PPT",
                 "extra": "Paullin",
                 "url": "https://www.woshipm.com/?p=6426884"
               },
               {
-                "rank": "65",
+                "rank": "66",
                 "title": "当 AI 对话超过 20 轮后，我们需要一张「对话地图」",
                 "extra": "AI 思录",
                 "url": "https://www.woshipm.com/?p=6452908"
-              },
-              {
-                "rank": "66",
-                "title": "4步搭PPT Agent ：把PPT从3天压到1天",
-                "extra": "设绘闲人",
-                "url": "https://www.woshipm.com/?p=6441980"
               },
               {
                 "rank": "67",
@@ -4169,9 +3947,9 @@
               },
               {
                 "rank": "68",
-                "title": "联名之王瑞幸，为什么栽在了一对“素人情侣”手上？",
-                "extra": "新博弈",
-                "url": "https://www.woshipm.com/?p=6452758"
+                "title": "Pura X View 阔直板来了｜阔直板及折叠屏应用 UI 适配典型场景与通用开发指南",
+                "extra": "华为开发者联盟",
+                "url": "https://www.woshipm.com/?p=6453984"
               },
               {
                 "rank": "69",
@@ -4187,51 +3965,51 @@
               },
               {
                 "rank": "71",
-                "title": "Pura X View 阔直板来了｜阔直板及折叠屏应用 UI 适配典型场景与通用开发指南",
-                "extra": "华为开发者联盟",
-                "url": "https://www.woshipm.com/?p=6453984"
-              },
-              {
-                "rank": "72",
-                "title": "万字拆解CMS：AI短剧+教育内容生成系统",
-                "extra": "小普",
-                "url": "https://www.woshipm.com/?p=6452874"
-              },
-              {
-                "rank": "73",
-                "title": "AI编程更挣钱，为什么大厂全冲去做AI办公",
-                "extra": "数智前线",
-                "url": "https://www.woshipm.com/?p=6454251"
-              },
-              {
-                "rank": "74",
-                "title": "无论是Workboddy、千问办公还是TraeWork，收费=没戏！！！",
-                "extra": "运营官张沐",
-                "url": "https://www.woshipm.com/?p=6452074"
-              },
-              {
-                "rank": "75",
                 "title": "小红书做AI，到底着不着急？",
                 "extra": "唐辰同学",
                 "url": "https://www.woshipm.com/?p=6453808"
               },
               {
-                "rank": "76",
+                "rank": "72",
+                "title": "无论是Workboddy、千问办公还是TraeWork，收费=没戏！！！",
+                "extra": "运营官张沐",
+                "url": "https://www.woshipm.com/?p=6452074"
+              },
+              {
+                "rank": "73",
+                "title": "联名之王瑞幸，为什么栽在了一对“素人情侣”手上？",
+                "extra": "新博弈",
+                "url": "https://www.woshipm.com/?p=6452758"
+              },
+              {
+                "rank": "74",
                 "title": "需求调研报告：高职高考背真题单词微信小程序",
                 "extra": "我是Berwin",
                 "url": "https://www.woshipm.com/?p=6447888"
               },
               {
+                "rank": "75",
+                "title": "万字拆解CMS：AI短剧+教育内容生成系统",
+                "extra": "小普",
+                "url": "https://www.woshipm.com/?p=6452874"
+              },
+              {
+                "rank": "76",
+                "title": "DeepSeek里长出了个“鲸鱼娘”",
+                "extra": "字母榜",
+                "url": "https://www.woshipm.com/?p=6451688"
+              },
+              {
                 "rank": "77",
-                "title": "我用 WorkBuddy + Obsidian：搭了一套懒人版个人知识库",
-                "extra": "叶小钗",
-                "url": "https://www.woshipm.com/?p=6453242"
+                "title": "AI编程更挣钱，为什么大厂全冲去做AI办公",
+                "extra": "数智前线",
+                "url": "https://www.woshipm.com/?p=6454251"
               },
               {
                 "rank": "78",
-                "title": "银行金科子公司未来五年：告别总行输血，靠产品、机制与生态求生",
-                "extra": "ruiqianyun",
-                "url": "https://www.woshipm.com/?p=6453904"
+                "title": "一文讲透AI的三大核心要素之一：算力",
+                "extra": "向上的小霍",
+                "url": "https://www.woshipm.com/?p=6334333"
               },
               {
                 "rank": "79",
@@ -4247,123 +4025,123 @@
               },
               {
                 "rank": "81",
-                "title": "这个 AI “外星朋友”有 120万月活，75% 的用户是 26-40岁女性",
-                "extra": "张艾拉",
-                "url": "https://www.woshipm.com/?p=6453425"
+                "title": "我用 WorkBuddy + Obsidian：搭了一套懒人版个人知识库",
+                "extra": "叶小钗",
+                "url": "https://www.woshipm.com/?p=6453242"
               },
               {
                 "rank": "82",
-                "title": "DeepSeek里长出了个“鲸鱼娘”",
-                "extra": "字母榜",
-                "url": "https://www.woshipm.com/?p=6451688"
+                "title": "银行金科子公司未来五年：告别总行输血，靠产品、机制与生态求生",
+                "extra": "ruiqianyun",
+                "url": "https://www.woshipm.com/?p=6453904"
               },
               {
                 "rank": "83",
-                "title": "赛马终结者豆包，开始让agent“独立办公”",
-                "extra": "字母榜",
-                "url": "https://www.woshipm.com/?p=6454246"
-              },
-              {
-                "rank": "84",
-                "title": "一文讲透AI的三大核心要素之一：算力",
-                "extra": "向上的小霍",
-                "url": "https://www.woshipm.com/?p=6334333"
-              },
-              {
-                "rank": "85",
                 "title": "为什么你在很多方面还不如AI？——从三种职场习惯说起",
                 "extra": "张亮-leo",
                 "url": "https://www.woshipm.com/?p=6452560"
               },
               {
-                "rank": "86",
-                "title": "奥特曼最新采访：AI还没有到iPhone时刻，不缺技术缺交互",
-                "extra": "字母榜",
-                "url": "https://www.woshipm.com/?p=6453828"
+                "rank": "84",
+                "title": "这个 AI “外星朋友”有 120万月活，75% 的用户是 26-40岁女性",
+                "extra": "张艾拉",
+                "url": "https://www.woshipm.com/?p=6453425"
               },
               {
-                "rank": "87",
-                "title": "“豆包工作”集结出战，AI办公进入体系化对决？",
-                "extra": "AI价值官",
-                "url": "https://www.woshipm.com/?p=6453929"
-              },
-              {
-                "rank": "88",
-                "title": "千问办公硬刚WorkBuddy，5轮对比测评后，结果有点意外",
-                "extra": "产品笔记",
-                "url": "https://www.woshipm.com/?p=6436882"
-              },
-              {
-                "rank": "89",
-                "title": "AI办公到底该选哪个？先问自己这三个问题",
-                "extra": "柳星聊产品",
-                "url": "https://www.woshipm.com/?p=6454404"
-              },
-              {
-                "rank": "90",
-                "title": "90%传统行业，都该被PM思维改造1次（与AI无关）",
-                "extra": "Day",
-                "url": "https://www.woshipm.com/?p=6453498"
-              },
-              {
-                "rank": "91",
-                "title": "AI互联网日报：小米端侧AI硬件亮相/字节整合TRAE与扣子/华为三折叠发布会定档/京东校园寄递再扩容",
-                "extra": "AI星球",
-                "url": "https://www.woshipm.com/?p=6453928"
-              },
-              {
-                "rank": "92",
-                "title": "Jellyfish测评：一站式AI生成短剧的生产工具，从剧本输入到AI 视频生成全搞定",
-                "extra": "AI星球",
-                "url": "https://www.woshipm.com/?p=6362694"
-              },
-              {
-                "rank": "93",
+                "rank": "85",
                 "title": "Codex 远程控制连不上？我用 3 条命令 + 1 个启动器彻底解决了",
                 "extra": "菜根老谭",
                 "url": "https://www.woshipm.com/?p=6448704"
               },
               {
-                "rank": "94",
-                "title": "被智谱封号的会员，有多少是被冤枉的？",
-                "extra": "锌消费研究中心",
-                "url": "https://www.woshipm.com/?p=6454262"
+                "rank": "86",
+                "title": "赛马终结者豆包，开始让agent“独立办公”",
+                "extra": "字母榜",
+                "url": "https://www.woshipm.com/?p=6454246"
               },
               {
-                "rank": "95",
-                "title": "Huashu-Excel正式发布！可能、也许、大概是最好用的Excel数据处理和分析skill",
-                "extra": "花叔",
-                "url": "https://www.woshipm.com/?p=6453768"
-              },
-              {
-                "rank": "96",
-                "title": "传统产品经理已死？AI 时代，产品经理该往哪里走？",
-                "extra": "起点课堂",
-                "url": "https://www.woshipm.com/?p=6452775"
-              },
-              {
-                "rank": "97",
-                "title": "对话 Anthropic 产品负责人：不懂评测的 AI 产品负责人，只是在假装做产品",
-                "extra": "Z Finance",
-                "url": "https://www.woshipm.com/?p=6452857"
-              },
-              {
-                "rank": "98",
-                "title": "把社交 App 做成 AI 人生模拟器，19天100万用户",
-                "extra": "张艾拉",
-                "url": "https://www.woshipm.com/?p=6453423"
-              },
-              {
-                "rank": "99",
+                "rank": "87",
                 "title": "产品经理，你的领导不是人，是一股势力！",
                 "extra": "咔嗒库栗",
                 "url": "https://www.woshipm.com/?p=6333618"
               },
               {
-                "rank": "100",
+                "rank": "88",
+                "title": "AI办公到底该选哪个？先问自己这三个问题",
+                "extra": "柳星聊产品",
+                "url": "https://www.woshipm.com/?p=6454404"
+              },
+              {
+                "rank": "89",
+                "title": "千问办公硬刚WorkBuddy，5轮对比测评后，结果有点意外",
+                "extra": "产品笔记",
+                "url": "https://www.woshipm.com/?p=6436882"
+              },
+              {
+                "rank": "90",
+                "title": "奥特曼最新采访：AI还没有到iPhone时刻，不缺技术缺交互",
+                "extra": "字母榜",
+                "url": "https://www.woshipm.com/?p=6453828"
+              },
+              {
+                "rank": "91",
+                "title": "“豆包工作”集结出战，AI办公进入体系化对决？",
+                "extra": "AI价值官",
+                "url": "https://www.woshipm.com/?p=6453929"
+              },
+              {
+                "rank": "92",
+                "title": "被智谱封号的会员，有多少是被冤枉的？",
+                "extra": "锌消费研究中心",
+                "url": "https://www.woshipm.com/?p=6454262"
+              },
+              {
+                "rank": "93",
+                "title": "Jellyfish测评：一站式AI生成短剧的生产工具，从剧本输入到AI 视频生成全搞定",
+                "extra": "AI星球",
+                "url": "https://www.woshipm.com/?p=6362694"
+              },
+              {
+                "rank": "94",
+                "title": "实测WorkBuddy打通公众号！文章自动进草稿箱！",
+                "extra": "晓庄同学",
+                "url": "https://www.woshipm.com/?p=6448280"
+              },
+              {
+                "rank": "95",
+                "title": "90%传统行业，都该被PM思维改造1次（与AI无关）",
+                "extra": "Day",
+                "url": "https://www.woshipm.com/?p=6453498"
+              },
+              {
+                "rank": "96",
+                "title": "Huashu-Excel正式发布！可能、也许、大概是最好用的Excel数据处理和分析skill",
+                "extra": "花叔",
+                "url": "https://www.woshipm.com/?p=6453768"
+              },
+              {
+                "rank": "97",
+                "title": "AI互联网日报：小米端侧AI硬件亮相/字节整合TRAE与扣子/华为三折叠发布会定档/京东校园寄递再扩容",
+                "extra": "AI星球",
+                "url": "https://www.woshipm.com/?p=6453928"
+              },
+              {
+                "rank": "98",
                 "title": "收藏！转型 AI 产品经理可执行进阶路径图",
                 "extra": "起点课堂",
                 "url": "https://www.woshipm.com/?p=6446926"
+              },
+              {
+                "rank": "99",
+                "title": "Web组件加载PDF时，如何禁止用户点击PDF中的某些链接？",
+                "extra": "华为开发者联盟",
+                "url": "https://www.woshipm.com/?p=6334532"
+              },
+              {
+                "rank": "100",
+                "title": "抖音运营：从了解推流机制开始",
+                "extra": "铭航创想",
+                "url": "https://www.woshipm.com/?p=6328838"
               }
             ]
           },
