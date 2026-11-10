@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-11-10T15:19:37.121128+00:00",
+  "savedAt": "2026-11-10T18:22:23.124336+00:00",
   "categories": {
     "finance": {
       "sourceUrl": "https://tophub.today/c/finance",
@@ -16,15 +16,15 @@
               },
               {
                 "rank": "2",
-                "title": "美国中期选举结果出炉，恒生科技指数连涨四天｜市场观察",
-                "extra": "",
-                "url": "https://www.yicai.com/news/103425292.html"
-              },
-              {
-                "rank": "3",
                 "title": "A股停牌提示：7股今日停牌",
                 "extra": "",
                 "url": "https://www.yicai.com/news/103433381.html"
+              },
+              {
+                "rank": "3",
+                "title": "美国中期选举结果出炉，恒生科技指数连涨四天｜市场观察",
+                "extra": "",
+                "url": "https://www.yicai.com/news/103425292.html"
               },
               {
                 "rank": "4",
@@ -170,33 +170,33 @@
               },
               {
                 "rank": "6",
-                "title": "直播丨2026年世界城市日城市可持续发展全球大会大放送DAY1",
-                "extra": "",
-                "url": "https://www.yicai.com/live/103420226.html"
-              },
-              {
-                "rank": "7",
                 "title": "直播丨2026 Shanghai Global Asset Management Forum",
                 "extra": "",
                 "url": "https://www.yicai.com/live/103427343.html"
               },
               {
-                "rank": "8",
+                "rank": "7",
                 "title": "直播｜算力再强也怕“断水”？被低估的AI隐形命门",
                 "extra": "",
                 "url": "https://www.yicai.com/live/103428281.html"
               },
               {
-                "rank": "9",
-                "title": "一线发布丨国家发展改革委奋进“十五五”系列新闻发布会",
+                "rank": "8",
+                "title": "直播丨2026年世界城市日城市可持续发展全球大会大放送DAY1",
                 "extra": "",
-                "url": "https://www.yicai.com/live/103421527.html"
+                "url": "https://www.yicai.com/live/103420226.html"
+              },
+              {
+                "rank": "9",
+                "title": "一线发布丨国家发展改革委就夯实发展支撑有关情况举行新闻发布会",
+                "extra": "",
+                "url": "https://www.yicai.com/live/103423837.html"
               },
               {
                 "rank": "10",
-                "title": "直播丨香港金融科技周2026：金融AI的规模化落地与商业化路径——从“数字员工”到盈利新引擎",
+                "title": "直播丨从制造到智造，科技如何改变城市",
                 "extra": "",
-                "url": "https://www.yicai.com/live/103410956.html"
+                "url": "https://www.yicai.com/live/103425429.html"
               }
             ]
           },
@@ -400,61 +400,61 @@
               {
                 "rank": "1",
                 "title": "纳指期货跳水！沃勒释放美联储“最鹰信号”：若通胀居高不下，12月应加息50基点，需收回此前“三次预防性降息”",
-                "extra": "20.8万",
+                "extra": "23.2万",
                 "url": "https://wallstreetcn.com/articles/3785652"
               },
               {
                 "rank": "2",
                 "title": "美伊和谈信号重创原油，黄仁勋风波未阻AI交易回暖，纳指涨近3%，英伟达逆市跌超4%",
-                "extra": "14.1万",
+                "extra": "14.2万",
                 "url": "https://wallstreetcn.com/articles/3785518"
               },
               {
                 "rank": "3",
                 "title": "华尔街见闻早餐FM-Radio | 2026年11月10日",
-                "extra": "11.6万",
+                "extra": "11.7万",
                 "url": "https://wallstreetcn.com/articles/3785609"
               },
               {
                 "rank": "4",
                 "title": "美国10月核心CPI环比上涨0.3%超预期，12月加息50基点预期骤然升温",
-                "extra": "9.3万",
+                "extra": "11.2万",
                 "url": "https://wallstreetcn.com/articles/3785664"
               },
               {
                 "rank": "5",
                 "title": "Anthropic招股文件刚发就撤！693亿美元融资细节意外泄露，英伟达、微软、台积电等集体押注260亿",
-                "extra": "9.2万",
+                "extra": "9.4万",
                 "url": "https://wallstreetcn.com/articles/3785616"
               },
               {
                 "rank": "6",
                 "title": "冲击美国科技IPO融资纪录！Anthropic最高募资904亿美元、完全稀释估值1.4万亿美元",
-                "extra": "8.3万",
+                "extra": "9.3万",
                 "url": "https://wallstreetcn.com/articles/3785657"
               },
               {
                 "rank": "7",
+                "title": "美通胀数据超预期，美债收益率跳升，美股走低，黄金跳水，布油自8月首破90美元",
+                "extra": "8.4万",
+                "url": "https://wallstreetcn.com/articles/3785613"
+              },
+              {
+                "rank": "8",
                 "title": "美伊核谈判重大进展？据称就伊朗铀浓缩丰度达成一致，特朗普称出现结束战事积极势头",
                 "extra": "8.2万",
                 "url": "https://wallstreetcn.com/articles/3785603"
               },
               {
-                "rank": "8",
-                "title": "美通胀数据超预期，美股期货短线下挫、纳指盘前跌近1%，黄金跳水，布油自8月首破90美元",
-                "extra": "7.7万",
-                "url": "https://wallstreetcn.com/articles/3785613"
-              },
-              {
                 "rank": "9",
                 "title": "美联储12月会加息吗？今晚CPI一锤定音！",
-                "extra": "7.2万",
+                "extra": "7.6万",
                 "url": "https://wallstreetcn.com/articles/3785630"
               },
               {
                 "rank": "10",
                 "title": "Anthropic发布最强双旗舰模型：千个智能体30小时证明费马大定理、API降价两成",
-                "extra": "6.8万",
+                "extra": "7.0万",
                 "url": "https://wallstreetcn.com/articles/3785599"
               }
             ]
@@ -464,123 +464,123 @@
             "items": [
               {
                 "rank": "1",
+                "title": "失色的车市“银十”里，合资新能源为何增长69%？",
+                "extra": "",
+                "url": "https://wallstreetcn.com/articles/3785552"
+              },
+              {
+                "rank": "2",
+                "title": "禾赛激光雷达出货增65%，机器人新业务仍在投入期",
+                "extra": "",
+                "url": "https://wallstreetcn.com/articles/3785553"
+              },
+              {
+                "rank": "3",
+                "title": "美通胀数据超预期，美债收益率跳升，美股走低，黄金跳水，布油自8月首破90美元",
+                "extra": "杨宸、董静、张雅琦",
+                "url": "https://wallstreetcn.com/articles/3785613"
+              },
+              {
+                "rank": "4",
                 "title": "美国10月核心CPI环比上涨0.3%超预期，12月加息50基点预期骤然升温",
                 "extra": "杨宸、卜淑情",
                 "url": "https://wallstreetcn.com/articles/3785664"
               },
               {
-                "rank": "2",
-                "title": "美通胀数据超预期，美股期货短线下挫、纳指盘前跌近1%，黄金跳水，布油自8月首破90美元",
-                "extra": "董静、张雅琦",
-                "url": "https://wallstreetcn.com/articles/3785613"
-              },
-              {
-                "rank": "3",
+                "rank": "5",
                 "title": "长安马自达营销换将，电动化进入渠道调整期",
                 "extra": "",
                 "url": "https://wallstreetcn.com/articles/3785663"
               },
               {
-                "rank": "4",
+                "rank": "6",
                 "title": "美国人民不是在反对AI，他们只是想睡个整觉",
                 "extra": "C次元",
                 "url": "https://wallstreetcn.com/articles/3785662"
               },
               {
-                "rank": "5",
+                "rank": "7",
                 "title": "冲击美国科技IPO融资纪录！Anthropic最高募资904亿美元、完全稀释估值1.4万亿美元",
                 "extra": "",
                 "url": "https://wallstreetcn.com/articles/3785657"
               },
               {
-                "rank": "6",
+                "rank": "8",
                 "title": "阿里巴巴：拟分拆平头哥在港股独立上市",
                 "extra": "",
                 "url": "https://wallstreetcn.com/articles/3785661"
               },
               {
-                "rank": "7",
+                "rank": "9",
                 "title": "中国10月PPI超预期而CPI回落，中国10月出口高增高技术支撑外需，港股明年或具备均值回归空间---1110宏观脱水",
                 "extra": "",
                 "url": "https://wallstreetcn.com/member/articles/3785660"
               },
               {
-                "rank": "8",
+                "rank": "10",
                 "title": "金融条件替美联储，万亿TGA回落难解流动性隐忧？",
                 "extra": "",
                 "url": "https://wallstreetcn.com/member/articles/3785496"
               },
               {
-                "rank": "9",
+                "rank": "11",
                 "title": "私募巨头KKR利润爆金币 市场却吓得直往后躲",
                 "extra": "",
                 "url": "https://wallstreetcn.com/member/articles/3785605"
               },
               {
-                "rank": "10",
+                "rank": "12",
                 "title": "当美国无法建设数据中心，会对 AI 产生怎样的冲击",
                 "extra": "极客公园",
                 "url": "https://wallstreetcn.com/articles/3785658"
               },
               {
-                "rank": "11",
+                "rank": "13",
                 "title": "公募又“卷”新赛道了，继Agent之后，下一个ETF Skill时代来临",
                 "extra": "资事堂·粒籽",
                 "url": "https://wallstreetcn.com/articles/3785659"
               },
               {
-                "rank": "12",
+                "rank": "14",
                 "title": "培风客：美股尚无明确见底信号，美债明年或迎阶段性反弹，镍值得关注【大鹏说8】",
                 "extra": "",
                 "url": "https://wallstreetcn.com/premium/articles/3785619?layout=wscn-layout"
               },
               {
-                "rank": "13",
+                "rank": "15",
                 "title": "日本2nm，悬了！",
                 "extra": "半导体行业观察",
                 "url": "https://wallstreetcn.com/articles/3785656"
               },
               {
-                "rank": "14",
+                "rank": "16",
                 "title": "第三批互惠便利资金“火线入市”，至少10家券商官宣买入股票",
                 "extra": "资事堂·粒籽",
                 "url": "https://wallstreetcn.com/articles/3785655"
               },
               {
-                "rank": "15",
+                "rank": "17",
                 "title": "见闻历11.11大促最后4天！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”",
                 "extra": "华尔街见闻",
                 "url": "https://wallstreetcn.com/articles/3782813"
               },
               {
-                "rank": "16",
+                "rank": "18",
                 "title": "Hitcard还不是“A股卡牌第一股”",
                 "extra": "",
                 "url": "https://wallstreetcn.com/articles/3785654"
               },
               {
-                "rank": "17",
+                "rank": "19",
                 "title": "纳指期货跳水！沃勒释放美联储“最鹰信号”：若通胀居高不下，12月应加息50基点，需收回此前“三次预防性降息”",
                 "extra": "",
                 "url": "https://wallstreetcn.com/articles/3785652"
               },
               {
-                "rank": "18",
+                "rank": "20",
                 "title": "联想发布混合词元工厂，2027年将建成1.5万P算力集群",
                 "extra": "",
                 "url": "https://wallstreetcn.com/articles/3785653"
-              },
-              {
-                "rank": "19",
-                "title": "黄仁勋若离职，谁能接管英伟达？AMD苏姿丰纳入媒体候选",
-                "extra": "",
-                "url": "https://wallstreetcn.com/articles/3785650"
-              },
-              {
-                "rank": "20",
-                "title": "从投研、短剧到知识检索，拆完这几个Agent，我才知道AI落地卡在哪",
-                "extra": "",
-                "url": "https://wallstreetcn.com/articles/3785651"
               }
             ]
           }
@@ -592,85 +592,85 @@
               {
                 "rank": "1",
                 "title": "现在回看，还是一身冷汗",
-                "extra": "3826",
+                "extra": "3969",
                 "url": "https://www.jisilu.cn/question/526673"
               },
               {
                 "rank": "2",
                 "title": "2026-11-10 可转债 调仓",
-                "extra": "2134",
+                "extra": "2332",
                 "url": "https://www.jisilu.cn/question/526675"
               },
               {
                 "rank": "3",
                 "title": "今天10日晚，如果闻泰等不到公告，明天是否可以买入正股，等12.86出？",
-                "extra": "1014",
+                "extra": "1249",
                 "url": "https://www.jisilu.cn/question/526692"
               },
               {
                 "rank": "4",
                 "title": "证券公司也开始筛韭菜客户了吗",
-                "extra": "1078",
+                "extra": "1294",
                 "url": "https://www.jisilu.cn/question/526691"
               },
               {
                 "rank": "5",
                 "title": "闻泰与安世荷兰的交锋回顾",
-                "extra": "1400",
+                "extra": "1511",
                 "url": "https://www.jisilu.cn/question/526674"
               },
               {
                 "rank": "6",
                 "title": "寻找属于我的tenbagger系列之四：英矽智能",
-                "extra": "1029",
+                "extra": "1107",
                 "url": "https://www.jisilu.cn/question/526677"
               },
               {
                 "rank": "7",
                 "title": "老生常谈的强赎130计数问题又来了！",
-                "extra": "618",
+                "extra": "738",
                 "url": "https://www.jisilu.cn/question/526684"
               },
               {
                 "rank": "8",
-                "title": "我申购159607，发现是折价的，各位大佬，请教一下，怎样处理最好？谢谢",
-                "extra": "1197",
-                "url": "https://www.jisilu.cn/question/526683"
+                "title": "闻泰如果拉到回售价以上，还会下修吗？",
+                "extra": "489",
+                "url": "https://www.jisilu.cn/question/526689"
               },
               {
                 "rank": "9",
-                "title": "闻泰如果拉到回售价以上，还会下修吗？",
-                "extra": "413",
-                "url": "https://www.jisilu.cn/question/526689"
+                "title": "我申购159607，发现是折价的，各位大佬，请教一下，怎样处理最好？谢谢",
+                "extra": "1295",
+                "url": "https://www.jisilu.cn/question/526683"
               },
               {
                 "rank": "10",
                 "title": "记录一下这次期权抄底做多的过程",
-                "extra": "521",
+                "extra": "709",
                 "url": "https://www.jisilu.cn/question/526688"
               },
               {
                 "rank": "11",
                 "title": "2026年11月11日投资提示：*ST三房控股股东所持全部股份将被司法拍卖",
-                "extra": "471",
+                "extra": "760",
                 "url": "https://www.jisilu.cn/question/526696"
               },
               {
                 "rank": "12",
                 "title": "银行PB阶梯策略分享",
-                "extra": "354",
+                "extra": "430",
                 "url": "https://www.jisilu.cn/question/526681"
               },
               {
                 "rank": "13",
                 "title": "盈富基金 HK 02800的分红税收和管理费有人懂吗？请指教",
-                "extra": "158",
+                "extra": "239",
                 "url": "https://www.jisilu.cn/question/526694"
               },
               {
                 "rank": "14",
                 "title": "吐槽一下某证券公司对红利除息的做法.",
-                "extra": "268",
+                "extra": "348",
                 "url": "https://www.jisilu.cn/question/526685"
               }
             ]
@@ -683,73 +683,73 @@
               {
                 "rank": "1",
                 "title": "美国10月CPI超预期，12月加息预期拉满！",
-                "extra": "3459",
+                "extra": "6995",
                 "url": "https://www.gelonghui.com/p/7374045"
               },
               {
                 "rank": "2",
                 "title": "公告精选︱广州酒家：拟15.51亿元建设利口福园区提容项目；福莱新材：柔性传感器项目收入占公司整体收入比重极低",
-                "extra": "1.1万",
+                "extra": "2.2万",
                 "url": "https://www.gelonghui.com/p/7373995"
               },
               {
                 "rank": "3",
                 "title": "通信电子，正在跌出黄金坑",
-                "extra": "2.2万",
+                "extra": "3.8万",
                 "url": "https://www.gelonghui.com/p/7373864"
               },
               {
                 "rank": "4",
                 "title": "美股盘前要点｜CPI数据重磅来袭！美联储理事沃勒“放鹰”，英伟达遭股东集体诉讼",
-                "extra": "2.9万",
+                "extra": "5.3万",
                 "url": "https://www.gelonghui.com/p/7373823"
               },
               {
                 "rank": "5",
                 "title": "端侧AI突然暴走！资金到底在抢什么？",
-                "extra": "9100",
+                "extra": "1.1万",
                 "url": "https://www.gelonghui.com/p/7373811"
               },
               {
                 "rank": "6",
                 "title": "跌声未落，诉讼又至！黄仁勋CEO之位悬了？",
-                "extra": "1.1万",
+                "extra": "1.7万",
                 "url": "https://www.gelonghui.com/p/7373763"
               },
               {
                 "rank": "7",
                 "title": "资金动向 | 北水净卖出港股27.39亿港元，加仓阿里巴巴、中芯国际",
-                "extra": "1.4万",
+                "extra": "2.8万",
                 "url": "https://www.gelonghui.com/p/7373587"
               },
               {
                 "rank": "8",
                 "title": "如果内塔尼亚胡下台，能否拯救全球AI科技？",
-                "extra": "5.7万",
+                "extra": "10.7万",
                 "url": "https://www.gelonghui.com/p/7373324"
               },
               {
                 "rank": "9",
                 "title": "沃勒鹰声刺破市场，纳指期货、金银直线跳水！",
-                "extra": "2.1万",
+                "extra": "3.6万",
                 "url": "https://www.gelonghui.com/p/7373165"
               },
               {
                 "rank": "10",
                 "title": "超聚变IPO即将上会，专注于服务器领域，2026年上半年收入373亿元",
-                "extra": "1.7万",
+                "extra": "2.2万",
                 "url": "https://www.gelonghui.com/p/7372669"
               },
               {
                 "rank": "11",
                 "title": "煜鼎增材冲击科创板IPO，聚焦金属增材制造领域，三年营收卡在4亿元关口",
-                "extra": "4.0万",
+                "extra": "5.8万",
                 "url": "https://www.gelonghui.com/p/7372569"
               },
               {
                 "rank": "12",
                 "title": "日本2nm，悬了！",
-                "extra": "5827",
+                "extra": "6101",
                 "url": "https://www.gelonghui.com/p/7372431"
               }
             ]
@@ -761,603 +761,603 @@
             "items": [
               {
                 "rank": "1",
+                "title": "美国10月CPI环比涨0.4%超预期，美元指数升破102美股期货跳水",
+                "extra": "市场资讯",
+                "url": "https://finance.jrj.com.cn/2026/11/10225059094073.shtml"
+              },
+              {
+                "rank": "2",
+                "title": "华通集团拟9.65亿元向青啤集团转让青岛食品29.24%股份，控股股东将变更",
+                "extra": "市场资讯",
+                "url": "https://finance.jrj.com.cn/2026/11/10224759094040.shtml"
+              },
+              {
+                "rank": "3",
                 "title": "鸿蒙装机量被曝突破9900万台，华为预计11月下旬终端用户数破1亿",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10224759094039.shtml"
               },
               {
-                "rank": "2",
-                "title": "天亿马与华为签署合作协议，将共建智算中心算力底座",
-                "extra": "市场资讯",
-                "url": "https://finance.jrj.com.cn/2026/11/10224659094041.shtml"
-              },
-              {
-                "rank": "3",
+                "rank": "4",
                 "title": "粤高速A拟14.37亿元收购粤港澳大湾区两处高速资产各25%股权，完成后将全资控股广珠段公司",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10224159094004.shtml"
               },
               {
-                "rank": "4",
+                "rank": "5",
                 "title": "汉嘉数智拟1.73亿元转让伏泰科技16%股份，持股将降至35%，交易构成重大资产重组",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10223859094006.shtml"
               },
               {
-                "rank": "5",
+                "rank": "6",
                 "title": "美国10月CPI环比超预期，市场开始押注美联储12月加息50个基点",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10223659094007.shtml"
               },
               {
-                "rank": "6",
+                "rank": "7",
                 "title": "宝马新世代i3取消小订，11月27日广州车展上市",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10223259093983.shtml"
               },
               {
-                "rank": "7",
+                "rank": "8",
                 "title": "昂跑三季度净销售额9.31亿瑞郎，净利润同比增36.9%",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10223159093984.shtml"
               },
               {
-                "rank": "8",
+                "rank": "9",
                 "title": "长虹佳华私有化建议失效，四川长虹称不会产生重大影响",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10221959093935.shtml"
               },
               {
-                "rank": "9",
+                "rank": "10",
                 "title": "江波龙已回购A股2290604股，回购总金额8亿元，第三季度拟每10股派现21.8元（含税）",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10221859093940.shtml"
               },
               {
-                "rank": "10",
+                "rank": "11",
                 "title": "宜科股份创业板IPO获受理，拟募资约11.98亿元",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10221759093936.shtml"
               },
               {
-                "rank": "11",
+                "rank": "12",
                 "title": "美国10月CPI全面超预期！美联储12月加息几成定局 50个基点选项浮出水面",
                 "extra": "智通财经",
                 "url": "https://stock.jrj.com.cn/2026/11/10215659093841.shtml"
               },
               {
-                "rank": "12",
+                "rank": "13",
                 "title": "87股获券商买入评级，风语筑、密尔克卫、纳微科技等3股被首次关注，6股机构预测目标价对应上涨空间超20%",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10211859093422.shtml"
               },
               {
-                "rank": "13",
+                "rank": "14",
                 "title": "11月10日IPO审核动态：龙行天下、思锐智能等3家企业审核进展更新",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10211359093381.shtml"
               },
               {
-                "rank": "14",
+                "rank": "15",
+                "title": "11月9日港股权益变动情况：3家公司4宗披露，好仓净增持2家、净减持0家",
+                "extra": "市场资讯",
+                "url": "https://finance.jrj.com.cn/2026/11/10211159093380.shtml"
+              },
+              {
+                "rank": "16",
                 "title": "今日晚间重要公告抢先看——久日新材拟联合投资人收购光引发剂企业IGM 100%股权；ST龙大涉嫌信披违法违规遭证监会立案；索通发展实控人前妻诉请分割2371.87万股，对应市值约3.97亿元",
                 "extra": "",
                 "url": "https://stock.jrj.com.cn/2026/11/10210059092856.shtml"
               },
               {
-                "rank": "15",
+                "rank": "17",
                 "title": "通信电子，正在跌出黄金坑",
                 "extra": "格隆汇",
                 "url": "https://stock.jrj.com.cn/2026/11/10205959092847.shtml"
               },
               {
-                "rank": "16",
+                "rank": "18",
                 "title": "{11月10日A股公告异常波动一览：金杯汽车、文投控股、华培动力等}",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10204759092523.shtml"
               },
               {
-                "rank": "17",
+                "rank": "19",
                 "title": "阿里巴巴：拟分拆平头哥赴港独立上市 已于9月11日秘密递交上市申请",
                 "extra": "",
                 "url": "https://stock.jrj.com.cn/2026/11/10204059092433.shtml"
               },
               {
-                "rank": "18",
+                "rank": "20",
                 "title": "11月10日A股公告投资合作一览：华利集团、广州酒家、杰瑞股份等",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10202759092042.shtml"
               },
               {
-                "rank": "19",
+                "rank": "21",
                 "title": "11月10日A股公告并购重组一览：粤高速A、青岛港、皖能电力等",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10202359092041.shtml"
               },
               {
-                "rank": "20",
+                "rank": "22",
                 "title": "Anthropic拟通过IPO募资644亿美元 估值或达1万亿美元",
                 "extra": "格隆汇",
                 "url": "https://stock.jrj.com.cn/2026/11/10200659091550.shtml"
               },
               {
-                "rank": "21",
+                "rank": "23",
                 "title": "久违了！情绪破局龙 闽发铝业豪取7连板，登顶11月近期最强妖股 前三季度仅赚268万，撑起近28亿市值暴涨",
                 "extra": "",
                 "url": "https://stock.jrj.com.cn/2026/11/10200359091534.shtml"
               },
               {
-                "rank": "22",
+                "rank": "24",
                 "title": "又有11股新增质押！名单来了",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10194159090965.shtml"
               },
               {
-                "rank": "23",
+                "rank": "25",
+                "title": "11月10日锂电行业信息汇总：电池级碳酸锂跌至9.13万元/吨，宁德时代雅安14亿锂盐项目环评拟批复影响几何？",
+                "extra": "市场资讯",
+                "url": "https://finance.jrj.com.cn/2026/11/10192159090451.shtml"
+              },
+              {
+                "rank": "26",
                 "title": "美联储研究敲响警钟：疫情后油价对核心通胀传导效应增强，2027年通胀或达2.8%",
                 "extra": "智通财经",
                 "url": "https://stock.jrj.com.cn/2026/11/10190359089932.shtml"
               },
               {
-                "rank": "24",
+                "rank": "27",
                 "title": "不盯盘也能买卖！银行喊你这样投资黄金",
                 "extra": "中国商报",
                 "url": "https://stock.jrj.com.cn/2026/11/10185759089705.shtml"
               },
               {
-                "rank": "25",
+                "rank": "28",
                 "title": "索通发展：实控人前妻诉请分2371.87万股 按今日收盘价计对应市值约3.97亿元",
                 "extra": "",
                 "url": "https://stock.jrj.com.cn/2026/11/10185159089655.shtml"
               },
               {
-                "rank": "26",
+                "rank": "29",
                 "title": "台积电10月合并营收同比增长59.7%，先进芯片需求持续强劲",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10181559088763.shtml"
               },
               {
-                "rank": "27",
+                "rank": "30",
                 "title": "涨停复盘：情绪回暖，闽发铝业7连板！机器人批量连板，福莱新材17天8板，襄阳轴承14天7板，锋龙股份、华培动力、日盈电子等晋级2连板！",
                 "extra": "",
                 "url": "https://stock.jrj.com.cn/2026/11/10180359088244.shtml"
               },
               {
-                "rank": "28",
+                "rank": "31",
                 "title": "日本2nm，悬了！",
                 "extra": "格隆汇",
                 "url": "https://stock.jrj.com.cn/2026/11/10174759087640.shtml"
               },
               {
-                "rank": "29",
+                "rank": "32",
                 "title": "CME FedWatch：美联储12月加息25个基点的概率升至95.6%",
                 "extra": "",
                 "url": "https://stock.jrj.com.cn/2026/11/10174559087559.shtml"
               },
               {
-                "rank": "30",
+                "rank": "33",
                 "title": "11月10日北向资金追踪：中际旭创、宁德时代、新易盛成交额居前，分别为33.31亿元、31.81亿元、25.68亿元",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10174159087937.shtml"
               },
               {
-                "rank": "31",
+                "rank": "34",
                 "title": "11月10日共50股连涨5天，盛美上海、沪硅产业、先导基电、兆威机电、航天电器等上榜",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10171659086892.shtml"
               },
               {
-                "rank": "32",
+                "rank": "35",
                 "title": "纳斯达克指数期货瞬间跳水 美联储理事沃勒放鹰",
                 "extra": "",
                 "url": "https://stock.jrj.com.cn/2026/11/10170659086376.shtml"
               },
               {
-                "rank": "33",
+                "rank": "36",
                 "title": "特朗普淡化伊朗战争升级风险！欧洲气价应声回落 但冬季供应短缺危机仍未解除",
                 "extra": "智通财经",
                 "url": "https://stock.jrj.com.cn/2026/11/10165959086055.shtml"
               },
               {
-                "rank": "34",
+                "rank": "37",
                 "title": "11月10日港股收盘个股涨跌分析：彼岸控股领涨，荣晖控股领跌",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10164759085783.shtml"
               },
               {
-                "rank": "35",
+                "rank": "38",
                 "title": "11月10日港股成交额TOP60出炉，阿里巴巴-W、腾讯控股、智谱、小米集团-W、中芯国际等居前",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10164659085786.shtml"
               },
               {
-                "rank": "36",
+                "rank": "39",
                 "title": "AI牛市存疑，全球股市迎来剧烈风格切换，资金大举涌入防御板块",
                 "extra": "",
                 "url": "https://stock.jrj.com.cn/2026/11/10162959085166.shtml"
               },
               {
-                "rank": "37",
+                "rank": "40",
                 "title": "资金大举流入机器人概念！盘后资金榜出炉",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10162959085409.shtml"
               },
               {
-                "rank": "38",
+                "rank": "41",
                 "title": "沙特油轮在美军协调下通过霍尔木兹 布油跌向90美元关口",
                 "extra": "智通财经",
                 "url": "https://stock.jrj.com.cn/2026/11/10162959085164.shtml"
               },
               {
-                "rank": "39",
+                "rank": "42",
                 "title": "蚂蚁灵波开源触觉基础模型LingBot-Touch，真机测试任务成功率最高提升26个百分点",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10162359085147.shtml"
               },
               {
-                "rank": "40",
+                "rank": "43",
                 "title": "中证协完成104家券商股权摸底，披露行业股权底数与四大治理堵点",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10162059085070.shtml"
               },
               {
-                "rank": "41",
+                "rank": "44",
                 "title": "11月10日80股放量拉升，泰德股份、纬达光电、腾达科技、日丰股份、经纬恒润等上榜",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10161859085079.shtml"
               },
               {
-                "rank": "42",
+                "rank": "45",
                 "title": "日本央行内部“鹰声”越来越响！12月加息或已箭在弦上",
                 "extra": "",
                 "url": "https://stock.jrj.com.cn/2026/11/10161859084851.shtml"
               },
               {
-                "rank": "43",
+                "rank": "46",
                 "title": "从比特币挖矿转向AI算力，三大矿商遭杰富瑞下调目标价：签约容易，交付才是关键",
                 "extra": "智通财经",
                 "url": "https://stock.jrj.com.cn/2026/11/10161659084844.shtml"
               },
               {
-                "rank": "44",
+                "rank": "47",
                 "title": "港股收评：恒生科技指数涨1.08％ 中际旭创涨近9%，剑桥科技涨超6%",
                 "extra": "",
                 "url": "https://hk.jrj.com.cn/2026/11/10161559084832.shtml"
               },
               {
-                "rank": "45",
+                "rank": "48",
                 "title": "11月10日11股创历史新高，5只大涨逾5%，包括冰山冷热、光洋股份、福莱新材、乐鑫科技、福赛科技等",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10160859084817.shtml"
               },
               {
-                "rank": "46",
+                "rank": "49",
                 "title": "11月10日涨跌停分析：95股涨停0股跌停，汽车零部件、光学光电子表现活跃，闽发铝业晋级7连板",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10160159084527.shtml"
               },
               {
-                "rank": "47",
+                "rank": "50",
                 "title": "四大期指均空方占优，中证1000股指期货净空单27777手 | 11月10日期指日报",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10160059084585.shtml"
               },
               {
-                "rank": "48",
+                "rank": "51",
                 "title": "AMD(AMD.US)飙涨13%创半年最佳，“大空头”伯里却泼冷水：英伟达新闻催化的反弹，未必是新一轮行情",
                 "extra": "智通财经",
                 "url": "https://stock.jrj.com.cn/2026/11/10160059084503.shtml"
               },
               {
-                "rank": "49",
+                "rank": "52",
                 "title": "19股遭主力净流出超2亿元！云南锗业居首",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10155859084300.shtml"
               },
               {
-                "rank": "50",
+                "rank": "53",
                 "title": "20股获主力净流入超3亿元！新易盛居首",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10155559084258.shtml"
               },
               {
-                "rank": "51",
+                "rank": "54",
                 "title": "午后异动！大面积涨停！阶段低点已过去？",
                 "extra": "期货日报",
                 "url": "https://stock.jrj.com.cn/2026/11/10154959084024.shtml"
               },
               {
-                "rank": "52",
+                "rank": "55",
                 "title": "11月10日3股成交额超过百亿，包括中际旭创、新易盛、东山精密",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10154259083938.shtml"
               },
               {
-                "rank": "53",
+                "rank": "56",
                 "title": "AI新云板块迎来关键一役：CoreWeave(CRWV.US)即将公布财报，富国银行仍看多",
                 "extra": "智通财经",
                 "url": "https://stock.jrj.com.cn/2026/11/10154059083912.shtml"
               },
               {
-                "rank": "54",
+                "rank": "57",
                 "title": "11月目前最强妖股！闽发铝业拿下7连板，累计涨近95%！扣非亏损却靠机器人概念爆炒",
                 "extra": "",
                 "url": "https://stock.jrj.com.cn/2026/11/10153659083698.shtml"
               },
               {
-                "rank": "55",
+                "rank": "58",
                 "title": "大摩：SpaceX正度过新云高峰迈向机器人与太空基建，维持“增持”评级，目标价300美元",
                 "extra": "",
                 "url": "https://stock.jrj.com.cn/2026/11/10152859083453.shtml"
               },
               {
-                "rank": "56",
+                "rank": "59",
                 "title": "期货收盘：燃油跌6.70%，LPG跌6.56%，纯苯跌5.99%，19涨41跌",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10152859083671.shtml"
               },
               {
-                "rank": "57",
+                "rank": "60",
                 "title": "一手扩算力，一手抢频谱！巴克莱看好SpaceX(SPCX.US)收购T-Mobile：地面网络与星链优势互补",
                 "extra": "智通财经",
                 "url": "https://stock.jrj.com.cn/2026/11/10152559083418.shtml"
               },
               {
-                "rank": "58",
+                "rank": "61",
                 "title": "午后直线封板！赛道集体涨停",
                 "extra": "格隆汇",
                 "url": "https://stock.jrj.com.cn/2026/11/10152359083414.shtml"
               },
               {
-                "rank": "59",
+                "rank": "62",
                 "title": "11月10日换手率排行：N钶锐以81.67%居首，紧随其后的是贝特利、通则康威、肯特股份",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10151859083388.shtml"
               },
               {
-                "rank": "60",
+                "rank": "63",
                 "title": "亚玛顿控股股东拟6.8亿元转让20%股份，骑形网络将成控股股东",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10151559083387.shtml"
               },
               {
-                "rank": "61",
+                "rank": "64",
                 "title": "A股收评：市场人气继续回暖，三大指数集体上涨 全市场超4200只个股上涨，95只个股涨停",
                 "extra": "",
                 "url": "https://stock.jrj.com.cn/2026/11/10150659082935.shtml"
               },
               {
-                "rank": "62",
+                "rank": "65",
                 "title": "大利好！1500亿，中国诚通加码硬科技！",
                 "extra": "私募排排网",
                 "url": "https://stock.jrj.com.cn/2026/11/10150459082917.shtml"
               },
               {
-                "rank": "63",
+                "rank": "66",
                 "title": "黄金，震荡！中国金币集团，紧急提醒",
                 "extra": "中国商报",
                 "url": "https://stock.jrj.com.cn/2026/11/10150159082900.shtml"
               },
               {
-                "rank": "64",
+                "rank": "67",
                 "title": "高盛深圳调研之后，勾勒出中国AI基建投资主线：高功率电源、ASIC液冷以及800V直流供电",
                 "extra": "智通财经",
                 "url": "https://stock.jrj.com.cn/2026/11/10145659082685.shtml"
               },
               {
-                "rank": "65",
+                "rank": "68",
                 "title": "瑞银：AI基建撑起全球增长半边天 云厂商明年资本开支达1.75万亿美元",
                 "extra": "智通财经",
                 "url": "https://stock.jrj.com.cn/2026/11/10145659082677.shtml"
               },
               {
-                "rank": "66",
+                "rank": "69",
                 "title": "施罗德：对美国经济前景保持乐观 AI板块股价波动属短期扰动",
                 "extra": "智通财经",
                 "url": "https://stock.jrj.com.cn/2026/11/10145559082669.shtml"
               },
               {
-                "rank": "67",
+                "rank": "70",
                 "title": "花旗：美国啤酒销量2026年仍未触底，无醇啤酒成唯一确定长跑道",
                 "extra": "智通财经",
                 "url": "https://stock.jrj.com.cn/2026/11/10145459082665.shtml"
               },
               {
-                "rank": "68",
+                "rank": "71",
                 "title": "台积电(TSM.US)10月营收飙60%：AI需求仍旺，却难挡市场对“监管+融资成本”的担忧",
                 "extra": "智通财经",
                 "url": "https://stock.jrj.com.cn/2026/11/10145459082659.shtml"
               },
               {
-                "rank": "69",
+                "rank": "72",
                 "title": "日本突传大消息！事关未来加息步伐 日本央行释放强烈鹰派信号",
                 "extra": "FX168全球投资",
                 "url": "https://stock.jrj.com.cn/2026/11/10145059082648.shtml"
               },
               {
-                "rank": "70",
+                "rank": "73",
                 "title": "花旗：全球资金撤离“增长”拥抱“价值”，KOSPI与日经酝酿逼空行情",
                 "extra": "智通财经",
                 "url": "https://stock.jrj.com.cn/2026/11/10144759082428.shtml"
               },
               {
-                "rank": "71",
+                "rank": "74",
                 "title": "宇树科技跻身A股第三高价股，近一个月已反弹超85%！特斯拉擎天柱再传商业化进展！人形机器人掀涨停潮 天奇股份、华培动力等涨停",
                 "extra": "",
                 "url": "https://stock.jrj.com.cn/2026/11/10144559082370.shtml"
               },
               {
-                "rank": "72",
+                "rank": "75",
                 "title": "算力租赁概念震荡反弹 中青宝涨超15%",
                 "extra": "",
                 "url": "https://stock.jrj.com.cn/2026/11/10144159082346.shtml"
               },
               {
-                "rank": "73",
+                "rank": "76",
                 "title": "海安集团第三季度营收6.86亿元增27.33%，归母净利增11.43%",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10142759081874.shtml"
               },
               {
-                "rank": "74",
+                "rank": "77",
                 "title": "马斯克称特斯拉人形机器人擎天柱预计2027年底左右开始交付，交付形式可能是租而非卖",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10142659081876.shtml"
               },
               {
-                "rank": "75",
+                "rank": "78",
                 "title": "美股资金“换车”不撤离，CPI成轮动试金石",
                 "extra": "",
                 "url": "https://stock.jrj.com.cn/2026/11/10142259081841.shtml"
               },
               {
-                "rank": "76",
+                "rank": "79",
                 "title": "力合微前三季度营收同比增长13.82%，非电网业务营收增长24.26%",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10141959081807.shtml"
               },
               {
-                "rank": "77",
+                "rank": "80",
                 "title": "美10月CPI今晚出炉：同比数据罕见缺席，核心通胀暗藏“水分”？",
                 "extra": "",
                 "url": "https://stock.jrj.com.cn/2026/11/10141759081601.shtml"
               },
               {
-                "rank": "78",
+                "rank": "81",
                 "title": "离谱！东方基金骚操作不断，爆款债基拟提管理费，还有债基风控被击穿",
                 "extra": "",
                 "url": "https://stock.jrj.com.cn/2026/11/10140259081337.shtml"
               },
               {
-                "rank": "79",
+                "rank": "82",
                 "title": "诺和诺德旗下诺和泰慢性肾脏病适应症专利期限补偿获批，保护期延长5年",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10140159081363.shtml"
               },
               {
-                "rank": "80",
+                "rank": "83",
                 "title": "主力资金出逃！云南锗业净流出6.26亿元居首，前20名单来了",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10140159081358.shtml"
               },
               {
-                "rank": "81",
+                "rank": "84",
                 "title": "主力狂买！新易盛获净流入13.64亿元，前20名单来了",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10140059081364.shtml"
               },
               {
-                "rank": "82",
+                "rank": "85",
                 "title": "9天7板飙涨超七成！阳光照明成新晋妖股 1%激光通信股权+生肖玄学双催化",
                 "extra": "",
                 "url": "https://stock.jrj.com.cn/2026/11/10135059081105.shtml"
               },
               {
-                "rank": "83",
+                "rank": "86",
                 "title": "群核科技放量飙升30%，发布联名3D空间相机",
                 "extra": "格隆汇",
                 "url": "https://stock.jrj.com.cn/2026/11/10134759080904.shtml"
               },
               {
-                "rank": "84",
+                "rank": "87",
                 "title": "美媒爆猎头或已开始物色英伟达CEO潜在人选",
                 "extra": "格隆汇",
                 "url": "https://stock.jrj.com.cn/2026/11/10134459080891.shtml"
               },
               {
-                "rank": "85",
+                "rank": "88",
                 "title": "头部私募241只产品净值不足1元，博润银泰多策略6号累计净值仅0.2846",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10133559080883.shtml"
               },
               {
-                "rank": "86",
+                "rank": "89",
                 "title": "葵花籽油期货将于11月12日上市，证监会同意期货和期权注册",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10133459080662.shtml"
               },
               {
-                "rank": "87",
+                "rank": "90",
                 "title": "OpenAI产品团队成员称，个人Agent产品Dot可读取绑定邮箱验证码代用户登录",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10133259080661.shtml"
               },
               {
-                "rank": "88",
+                "rank": "91",
                 "title": "“东方”系概念股掀涨停潮！日出东方、东方新能携手3连板领涨，大东方6天4板！名称标签炒作还能火多久？",
                 "extra": "",
                 "url": "https://stock.jrj.com.cn/2026/11/10133159080548.shtml"
               },
               {
-                "rank": "89",
+                "rank": "92",
                 "title": "霍尔木兹海峡10月LNG油轮过境量31艘，创美伊冲突以来单月最高",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10133159080667.shtml"
               },
               {
-                "rank": "90",
+                "rank": "93",
                 "title": "中一签浮盈超6.7万！钶锐锶科创板首日开盘暴涨298% 全直驱机床国产替代迎爆炒",
                 "extra": "",
                 "url": "https://stock.jrj.com.cn/2026/11/10132759080338.shtml"
               },
               {
-                "rank": "91",
+                "rank": "94",
                 "title": "宝洁首席财务官行权并卖出30677股，套现约518.44万美元",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10132659080340.shtml"
               },
               {
-                "rank": "92",
+                "rank": "95",
                 "title": "前9月全社会用电量同比增3.9%，9月高技术及装备制造业用电量增4.6%",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10132159080347.shtml"
               },
               {
-                "rank": "93",
+                "rank": "96",
                 "title": "AI算力需求催化，佰维存储等A股存储公司前三季度净利润均创历史同期新高",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10131859080311.shtml"
               },
               {
-                "rank": "94",
+                "rank": "97",
                 "title": "剑桥科技回应砍单传闻，称高速光模块订单需求旺盛",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10131559080314.shtml"
               },
               {
-                "rank": "95",
+                "rank": "98",
                 "title": "约100个韩国企业版Claude账号信息外泄，Anthropic已申报并采取修补措施",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10131059080098.shtml"
               },
               {
-                "rank": "96",
+                "rank": "99",
                 "title": "高盛数据显示，美国基本面多空基金上周总杠杆率降8.7个百分点，创疫情以来最大单周降幅",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10130959080088.shtml"
               },
               {
-                "rank": "97",
+                "rank": "100",
                 "title": "华为Pura X Max被曝中国大陆市场开售191天销量117.4万",
                 "extra": "市场资讯",
                 "url": "https://finance.jrj.com.cn/2026/11/10130959080089.shtml"
-              },
-              {
-                "rank": "98",
-                "title": "FDA要求GLP-1药物增加罕见眼病警告，礼来、诺和诺德多款药在列",
-                "extra": "市场资讯",
-                "url": "https://finance.jrj.com.cn/2026/11/10130759080090.shtml"
-              },
-              {
-                "rank": "99",
-                "title": "广州规自局公布中铁建万博地块控规调整，商改住释放6万㎡宅地",
-                "extra": "市场资讯",
-                "url": "https://finance.jrj.com.cn/2026/11/10130759080092.shtml"
-              },
-              {
-                "rank": "100",
-                "title": "淮北矿业前三季度归母净利润同比增100.51%，陶忽图煤矿预计2028年达产",
-                "extra": "市场资讯",
-                "url": "https://finance.jrj.com.cn/2026/11/10130559079883.shtml"
               }
             ]
           }
@@ -1374,297 +1374,297 @@
               },
               {
                 "rank": "2",
-                "title": "东吴证券-密尔克卫-603713-危化品物流主业修复托底，半导体物流打开成长空间-2611...",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/6358d19d746ffec7fa9aaff32e8368e6.html"
-              },
-              {
-                "rank": "3",
-                "title": "开源证券-锂电行业2027年度投资策略：储能及出海共驱增长，把握盈利韧性与新技术红利-26...",
-                "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/1b24e7ee568746ea7506d8cb36d7b0d8.html"
-              },
-              {
-                "rank": "4",
                 "title": "东吴证券-汽车行业跟踪周报：物理AI周报，大模型厂商加速入局机器人，继续看好物理AI-26...",
                 "extra": "行业分析",
                 "url": "http://www.hibor.com.cn/data/cffa716487fbf66ca276a9d510ce73f3.html"
               },
               {
-                "rank": "5",
-                "title": "开源证券-风电氢能行业2027年度投资策略：周期蓄势，能源自主与产业趋势共振-261109",
-                "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/e492cc343f3213649576868a218c0acb.html"
-              },
-              {
-                "rank": "6",
+                "rank": "3",
                 "title": "国金证券-矢量网络分析仪行业深度研究：高速互联催生测试增量，高端突破加速国产替代-2611...",
                 "extra": "行业分析",
                 "url": "http://www.hibor.com.cn/data/27e56e03c0cf46c8db7165b090f7399a.html"
               },
               {
-                "rank": "7",
-                "title": "开源证券-机械行业2027年度投资策略：咬定技术创新周期，精选传统设备α方向-261109",
-                "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/2557564ddabf7a1ff06dd004ceddb32f.html"
-              },
-              {
-                "rank": "8",
-                "title": "东吴证券-社会服务行业跟踪周报：百胜中国发布2026Q3财报，关注餐饮龙头复苏机遇-261...",
-                "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/42c73ce03388c642b4824aa538b9f930.html"
-              },
-              {
-                "rank": "9",
+                "rank": "4",
                 "title": "开源证券-基础化工行业投资策略：产能供给见顶，库存低位蓄力，需求东风下中国化工开启新纪元-...",
                 "extra": "行业分析",
                 "url": "http://www.hibor.com.cn/data/37d262bffa372e57985a8af28ff68c70.html"
               },
               {
-                "rank": "10",
+                "rank": "5",
                 "title": "东吴证券-新能源行业26Q3财务报告总结：储能盈利略有波动、风电节奏放缓、光伏亏损收窄-2...",
                 "extra": "行业分析",
                 "url": "http://www.hibor.com.cn/data/13afd2e60f9b02f91d46976d854d6f3d.html"
               },
               {
-                "rank": "11",
+                "rank": "6",
                 "title": "光大证券-中国铀业-001280-投资价值分析报告：稀缺铀资源标的，核电粮仓蓄势起航-26...",
                 "extra": "公司调研",
                 "url": "http://www.hibor.com.cn/data/0e05ed9b216fc22e165aea6ca2bc12f0.html"
               },
               {
-                "rank": "12",
-                "title": "光大证券-金融业周报：《资产管理信托管理办法》后续或扰动理财配置-261109",
-                "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/e5fe477360b4da6d55c99cbb356881c1.html"
-              },
-              {
-                "rank": "13",
-                "title": "东吴证券-北交所定期报告：“星云星座计划”发布，我国10月乘用车新能源零售渗透率67.5%...",
-                "extra": "投资策略",
-                "url": "http://www.hibor.com.cn/data/7af2ab24f4c80dfcd061730c40aadb7f.html"
-              },
-              {
-                "rank": "14",
-                "title": "中航证券-AI医疗行业10月月报：临床证据与数据要素共同驱动，产业化进程加快-261101",
-                "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/137c07338c1385c545f8acd47e1218a0.html"
-              },
-              {
-                "rank": "15",
+                "rank": "7",
                 "title": "开源证券-中小盘行业2027年度投资策略：掘金打新定增策略红利，布局量子科技星辰大海-26...",
                 "extra": "投资策略",
                 "url": "http://www.hibor.com.cn/data/38db333f2350bfdb5db83297bb97679e.html"
               },
               {
-                "rank": "16",
-                "title": "中航证券-2026年10月PMI数据点评：产需回落，制造业PMI重回收缩区间-261107",
-                "extra": "宏观经济",
-                "url": "http://www.hibor.com.cn/data/c0a99d18a6dacdf7c50c42dbed06b426.html"
+                "rank": "8",
+                "title": "东吴证券-北交所定期报告：“星云星座计划”发布，我国10月乘用车新能源零售渗透率67.5%...",
+                "extra": "投资策略",
+                "url": "http://www.hibor.com.cn/data/7af2ab24f4c80dfcd061730c40aadb7f.html"
               },
               {
-                "rank": "17",
-                "title": "开源证券-煤炭行业2027年度投资策略：能源安全内外共振，煤炭周期上行景气延续-26111...",
-                "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/28f38706adf092303383f1d3c6bc0ffb.html"
-              },
-              {
-                "rank": "18",
+                "rank": "9",
                 "title": "东吴证券-金戈新材-920083-功能性导热粉体国内领先，募投扩产+新品迭代打开成长空间-...",
                 "extra": "公司调研",
                 "url": "http://www.hibor.com.cn/data/79cceea355c108aabca9178dc65742ad.html"
               },
               {
-                "rank": "19",
-                "title": "东吴证券-厦门象屿-600057-2026Q3经营更新：大宗货量稳步增长，造船在手订单增加...",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/45eea9cbf8fe5fee4c391d627b089dd5.html"
-              },
-              {
-                "rank": "20",
-                "title": "开源证券-华晟智能-920067-北交所新股申购报告：智能物流系统领军方案商，绑定优质央国...",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/2428d07cc9c9e3f6d656c6c0a820bb7f.html"
-              },
-              {
-                "rank": "21",
-                "title": "中航证券-非银行业周报（2026年第三十九期）：长效资金工具落地，并购重组机制提质增效-2...",
+                "rank": "10",
+                "title": "开源证券-煤炭行业2027年度投资策略：能源安全内外共振，煤炭周期上行景气延续-26111...",
                 "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/de53007d8c72c013641d8814325df2cc.html"
+                "url": "http://www.hibor.com.cn/data/28f38706adf092303383f1d3c6bc0ffb.html"
               },
               {
-                "rank": "22",
-                "title": "西南证券-航天电子-600879-航天电子领域龙头，商业航天和无人装备弹性显著-26110...",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/bf32a14b2767611a50faa8950182d56e.html"
-              },
-              {
-                "rank": "23",
-                "title": "开源证券-康农种业-920403-北交所信息更新：康农玉8009表现优异，转基因品种矩阵持...",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/54a5e7b13bdacb7abab9097e0f91798d.html"
-              },
-              {
-                "rank": "24",
-                "title": "中邮证券-海外宏观周报：中期选举落定，科技限制担忧或被高估-261110",
-                "extra": "宏观经济",
-                "url": "http://www.hibor.com.cn/data/89daa07b1a267b417c1d79c58e9132c0.html"
-              },
-              {
-                "rank": "25",
-                "title": "国金证券-医药健康行业：聚焦2026 EMSO，引领临床迭代，中国创新推动大药诞生-261...",
-                "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/8c73c6502b12b774d060d97d8cfe0432.html"
-              },
-              {
-                "rank": "26",
-                "title": "华鑫证券-农林牧渔行业专题报告：生猪出栏量与出栏体重数据梳理——2026年1~9月13家上...",
-                "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/d4e574a82ad2aa4e274b79711b058ccb.html"
-              },
-              {
-                "rank": "27",
-                "title": "华龙证券-计算机IT服务、软件开发行业2026年三季报综述：AI仍是行业主线，收入端率先修...",
-                "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/fd8d322210ffe2f79c1aa0c82a371a55.html"
-              },
-              {
-                "rank": "28",
-                "title": "山西证券-新材料行业周报：CMG世界机器人登泰山大赛举行，重视人形机器人领域材料机遇-26...",
-                "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/5147b97a078cdfe3cb88defd80942a89.html"
-              },
-              {
-                "rank": "29",
-                "title": "华龙证券-人形机器人行业专题研究周报：Meta或联手傅利叶打造人形机器人-261110",
-                "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/8d5f5ee674b8328206f1e50cab827eac.html"
-              },
-              {
-                "rank": "30",
-                "title": "华龙证券-A股投资策略周报告：反弹趋势有望确立-261109",
-                "extra": "投资策略",
-                "url": "http://www.hibor.com.cn/data/bd04fb588f1c4cc7b68c85d9b8091e52.html"
-              },
-              {
-                "rank": "31",
-                "title": "开源证券-贝特瑞-920185-北交所信息更新：2026Q1~3国内厂家储能电池出货+94...",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/acbac2fb97902372bb33a327c2e12731.html"
-              },
-              {
-                "rank": "32",
-                "title": "东莞证券-电子行业双周报：近期端侧AI催化密集-261110",
-                "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/3b20ac692a564820572498acc3ed84bc.html"
-              },
-              {
-                "rank": "33",
-                "title": "慧博智能投研-慧博研报炼金之研报头条精华：策略行业2027年度投资策略，2027，盈利周期...",
-                "extra": "投资策略",
-                "url": "http://www.hibor.com.cn/data/e15ad08e4d0a213dd232892cb171933a.html"
-              },
-              {
-                "rank": "34",
-                "title": "光大证券-兆易创新-603986-动态跟踪报告：存储量价齐升，单季扣非净利润环比大幅增长-...",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/37ccdbab806f0ec38e2491091c0adedc.html"
-              },
-              {
-                "rank": "35",
-                "title": "国信证券-长江电力-600900-来水偏枯拖累三季度业绩，三峡水库完成2026年度蓄水任务...",
-                "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/b8fa1c0044b873de4fb1e7c793dd6173.html"
-              },
-              {
-                "rank": "36",
-                "title": "财通证券-电子行业专题报告：高密度光互联持续演进，MT插芯迎来量价提升-261109",
-                "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/d4cd06f85fc57e23b78f9aa4e2989bc6.html"
-              },
-              {
-                "rank": "37",
-                "title": "世纪证券-装备制造行业周报（11月第1周）：新能源需求仍需提振-261109",
-                "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/2d4c076f1d5e143aa37277509f4dd927.html"
-              },
-              {
-                "rank": "38",
+                "rank": "11",
                 "title": "国金证券-电子行业深度研究：市场已充分反映悲观预期，技术迭代持续支撑未来预期-261110",
                 "extra": "行业分析",
                 "url": "http://www.hibor.com.cn/data/9d52b9b0417b8b7c401ad36fe723f9ce.html"
               },
               {
-                "rank": "39",
-                "title": "华鑫证券-德业股份-605117-公司事件点评报告：储能需求延续增长，渠道与产品协同深化-...",
+                "rank": "12",
+                "title": "西南证券-航天电子-600879-航天电子领域龙头，商业航天和无人装备弹性显著-26110...",
                 "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/bec8461aad3c95f5b546a98332dae541.html"
+                "url": "http://www.hibor.com.cn/data/bf32a14b2767611a50faa8950182d56e.html"
               },
               {
-                "rank": "40",
-                "title": "光大证券-金属新材料行业高频数据周报：电解钴价格7日上涨9%-261110",
-                "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/96b1d80dcaa2bf5ce0fc916e8c085b3b.html"
-              },
-              {
-                "rank": "41",
-                "title": "中邮证券-泽璟制药-688266-药品销售维持高增，核心在研进展顺利-261110",
+                "rank": "13",
+                "title": "开源证券-华晟智能-920067-北交所新股申购报告：智能物流系统领军方案商，绑定优质央国...",
                 "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/15c9b0b5a8071a9e91e6642c6a0f21a6.html"
+                "url": "http://www.hibor.com.cn/data/2428d07cc9c9e3f6d656c6c0a820bb7f.html"
               },
               {
-                "rank": "42",
-                "title": "国信证券-公用环保行业202611第1期：广东2026年新能源机制电价竞价结果0.3元/k...",
+                "rank": "14",
+                "title": "东吴证券-厦门象屿-600057-2026Q3经营更新：大宗货量稳步增长，造船在手订单增加...",
+                "extra": "公司调研",
+                "url": "http://www.hibor.com.cn/data/45eea9cbf8fe5fee4c391d627b089dd5.html"
+              },
+              {
+                "rank": "15",
+                "title": "中邮证券-海外宏观周报：中期选举落定，科技限制担忧或被高估-261110",
+                "extra": "宏观经济",
+                "url": "http://www.hibor.com.cn/data/89daa07b1a267b417c1d79c58e9132c0.html"
+              },
+              {
+                "rank": "16",
+                "title": "国金证券-医药健康行业：聚焦2026 EMSO，引领临床迭代，中国创新推动大药诞生-261...",
                 "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/20ef6f6f9b7e9909e40c3c4e5308184a.html"
+                "url": "http://www.hibor.com.cn/data/8c73c6502b12b774d060d97d8cfe0432.html"
               },
               {
-                "rank": "43",
-                "title": "财通证券-化工行业2026年三季报告总结：盈利承压，寻找具备修复弹性的方向-261109",
+                "rank": "17",
+                "title": "慧博智能投研-慧博研报炼金之研报头条精华：策略行业2027年度投资策略，2027，盈利周期...",
+                "extra": "投资策略",
+                "url": "http://www.hibor.com.cn/data/e15ad08e4d0a213dd232892cb171933a.html"
+              },
+              {
+                "rank": "18",
+                "title": "华龙证券-人形机器人行业专题研究周报：Meta或联手傅利叶打造人形机器人-261110",
                 "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/a5bd1681e5df923f3a37d448c6d721b5.html"
+                "url": "http://www.hibor.com.cn/data/8d5f5ee674b8328206f1e50cab827eac.html"
               },
               {
-                "rank": "44",
-                "title": "汉鼎智库-固态电池行业：下一代动力电池革命，半固态先行，全固态蓄力突围-261107",
+                "rank": "19",
+                "title": "山西证券-新材料行业周报：CMG世界机器人登泰山大赛举行，重视人形机器人领域材料机遇-26...",
                 "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/c8e08a9c7db6ca75815b7e3729f2cbcd.html"
+                "url": "http://www.hibor.com.cn/data/5147b97a078cdfe3cb88defd80942a89.html"
               },
               {
-                "rank": "45",
-                "title": "亿欧智库-2026~2027中国消费AI硬件行业趋势报告：从非共识到新共识·FUN20创新...",
+                "rank": "20",
+                "title": "华鑫证券-农林牧渔行业专题报告：生猪出栏量与出栏体重数据梳理——2026年1~9月13家上...",
                 "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/81685f18ec3580842846e81114cfb4c2.html"
+                "url": "http://www.hibor.com.cn/data/d4e574a82ad2aa4e274b79711b058ccb.html"
               },
               {
-                "rank": "46",
-                "title": "东方证券-家电行业周报：左手重视北美K型换挡带来地产链修复，右手重视家电红利配置价值-26...",
+                "rank": "21",
+                "title": "东莞证券-电子行业双周报：近期端侧AI催化密集-261110",
                 "extra": "行业分析",
-                "url": "http://www.hibor.com.cn/data/100dd0b6c746905a1481fcd9b69b04ae.html"
+                "url": "http://www.hibor.com.cn/data/3b20ac692a564820572498acc3ed84bc.html"
               },
               {
-                "rank": "47",
+                "rank": "22",
+                "title": "华龙证券-计算机IT服务、软件开发行业2026年三季报综述：AI仍是行业主线，收入端率先修...",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/fd8d322210ffe2f79c1aa0c82a371a55.html"
+              },
+              {
+                "rank": "23",
+                "title": "光大证券-兆易创新-603986-动态跟踪报告：存储量价齐升，单季扣非净利润环比大幅增长-...",
+                "extra": "公司调研",
+                "url": "http://www.hibor.com.cn/data/37ccdbab806f0ec38e2491091c0adedc.html"
+              },
+              {
+                "rank": "24",
+                "title": "华龙证券-A股投资策略周报告：反弹趋势有望确立-261109",
+                "extra": "投资策略",
+                "url": "http://www.hibor.com.cn/data/bd04fb588f1c4cc7b68c85d9b8091e52.html"
+              },
+              {
+                "rank": "25",
+                "title": "财通证券-电子行业专题报告：高密度光互联持续演进，MT插芯迎来量价提升-261109",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/d4cd06f85fc57e23b78f9aa4e2989bc6.html"
+              },
+              {
+                "rank": "26",
+                "title": "国元证券-汽车行业周报：政策支持电池回收，智能科技赋能发展-261110",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/3fe3281dc183d7d04603c2229c0e60d4.html"
+              },
+              {
+                "rank": "27",
                 "title": "中原证券-半导体行业月报：行业持续景气，关注半导体设备及零部件投资机会-261110",
                 "extra": "行业分析",
                 "url": "http://www.hibor.com.cn/data/cdfc2b3acb1c413a330018e235c84ada.html"
               },
               {
-                "rank": "48",
+                "rank": "28",
+                "title": "国信证券-长江电力-600900-来水偏枯拖累三季度业绩，三峡水库完成2026年度蓄水任务...",
+                "extra": "公司调研",
+                "url": "http://www.hibor.com.cn/data/b8fa1c0044b873de4fb1e7c793dd6173.html"
+              },
+              {
+                "rank": "29",
+                "title": "汉鼎智库-固态电池行业：下一代动力电池革命，半固态先行，全固态蓄力突围-261107",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/c8e08a9c7db6ca75815b7e3729f2cbcd.html"
+              },
+              {
+                "rank": "30",
+                "title": "光大证券-金属新材料行业高频数据周报：电解钴价格7日上涨9%-261110",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/96b1d80dcaa2bf5ce0fc916e8c085b3b.html"
+              },
+              {
+                "rank": "31",
+                "title": "财通证券-化工行业2026年三季报告总结：盈利承压，寻找具备修复弹性的方向-261109",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/a5bd1681e5df923f3a37d448c6d721b5.html"
+              },
+              {
+                "rank": "32",
+                "title": "西南证券-风急潮不改——2026年四季度A股策略-261110",
+                "extra": "投资策略",
+                "url": "http://www.hibor.com.cn/data/2774499fb24cb88cbaecdb68609aa178.html"
+              },
+              {
+                "rank": "33",
                 "title": "招银国际-药明康德-603259-被移除1260H清单，地缘政治风险扰动再降-261110",
                 "extra": "公司调研",
                 "url": "http://www.hibor.com.cn/data/7661bbb42311d90f36320027fbe0a796.html"
               },
               {
-                "rank": "49",
+                "rank": "34",
+                "title": "华鑫证券-德业股份-605117-公司事件点评报告：储能需求延续增长，渠道与产品协同深化-...",
+                "extra": "公司调研",
+                "url": "http://www.hibor.com.cn/data/bec8461aad3c95f5b546a98332dae541.html"
+              },
+              {
+                "rank": "35",
+                "title": "国信证券-公用环保行业202611第1期：广东2026年新能源机制电价竞价结果0.3元/k...",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/20ef6f6f9b7e9909e40c3c4e5308184a.html"
+              },
+              {
+                "rank": "36",
+                "title": "亿欧智库-2026~2027中国消费AI硬件行业趋势报告：从非共识到新共识·FUN20创新...",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/81685f18ec3580842846e81114cfb4c2.html"
+              },
+              {
+                "rank": "37",
+                "title": "财信证券-大类资产配置周报：AI产业叙事面临“逆风”，保持防御-261109",
+                "extra": "投资策略",
+                "url": "http://www.hibor.com.cn/data/0e77be4ca2c57d4bacdccdc772fd72a5.html"
+              },
+              {
+                "rank": "38",
+                "title": "中邮证券-泽璟制药-688266-药品销售维持高增，核心在研进展顺利-261110",
+                "extra": "公司调研",
+                "url": "http://www.hibor.com.cn/data/15c9b0b5a8071a9e91e6642c6a0f21a6.html"
+              },
+              {
+                "rank": "39",
+                "title": "世纪证券-装备制造行业周报（11月第1周）：新能源需求仍需提振-261109",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/2d4c076f1d5e143aa37277509f4dd927.html"
+              },
+              {
+                "rank": "40",
+                "title": "大同证券-资产配置跟踪周报：市场情绪企稳，或迎来布局窗口期-261110",
+                "extra": "宏观经济",
+                "url": "http://www.hibor.com.cn/data/fdc56b9f10e4edef9374e010863e9a13.html"
+              },
+              {
+                "rank": "41",
+                "title": "中邮证券-奥士康-002913-算力PCB起量-261110",
+                "extra": "公司调研",
+                "url": "http://www.hibor.com.cn/data/521c9cb564b2d209c70ffe6903c75a3d.html"
+              },
+              {
+                "rank": "42",
                 "title": "太平洋证券-博实结-301608-出海成效显著，持续拓展端侧AI场景-261109",
                 "extra": "公司调研",
                 "url": "http://www.hibor.com.cn/data/47a39123da40f7dc4ab9570cd4b58d71.html"
               },
               {
-                "rank": "50",
-                "title": "中邮证券-奥士康-002913-算力PCB起量-261110",
+                "rank": "43",
+                "title": "东方证券-家电行业周报：左手重视北美K型换挡带来地产链修复，右手重视家电红利配置价值-26...",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/100dd0b6c746905a1481fcd9b69b04ae.html"
+              },
+              {
+                "rank": "44",
+                "title": "国金证券-非金属建材行业点评：看好3D打印上游量价齐升-261110",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/f1c080b4dc6909d9060008f05133c1bd.html"
+              },
+              {
+                "rank": "45",
+                "title": "德勤-中国具身智能行业产业出海报告（英译中）-261110",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/0334892da5367f28c5643da4a34867e8.html"
+              },
+              {
+                "rank": "46",
+                "title": "西南证券-贵州茅台-600519-茅台酒增长平稳，直销占比持续提升-261102",
                 "extra": "公司调研",
-                "url": "http://www.hibor.com.cn/data/521c9cb564b2d209c70ffe6903c75a3d.html"
+                "url": "http://www.hibor.com.cn/data/d2ada5ddbdcf17d454257804f6ec4cd8.html"
+              },
+              {
+                "rank": "47",
+                "title": "东方证券-电子行业：LCD面板涨价有望落地，供需关系向好-261109",
+                "extra": "行业分析",
+                "url": "http://www.hibor.com.cn/data/21ac3ceb54bd338b4d645c20279a9c18.html"
+              },
+              {
+                "rank": "48",
+                "title": "中邮证券-四会富仕-300852-泰国工厂扭亏为盈，利润水平高速增长-261110",
+                "extra": "公司调研",
+                "url": "http://www.hibor.com.cn/data/8cda9043aaa5d687582c4b2997bc595c.html"
+              },
+              {
+                "rank": "49",
+                "title": "太平洋证券-新亚电子-605277-高频高速线缆逐步放量，战略布局光芯片-261109",
+                "extra": "公司调研",
+                "url": "http://www.hibor.com.cn/data/4c973cfacde3560b4e706183fb39b821.html"
+              },
+              {
+                "rank": "50",
+                "title": "财信证券-平高电气-600312-2026年三季报跟踪：业绩提速增长，特高压动能充沛-26...",
+                "extra": "公司调研",
+                "url": "http://www.hibor.com.cn/data/f01b053133806cee923a8ae214946cb6.html"
               }
             ]
           }
@@ -1766,21 +1766,21 @@
               },
               {
                 "rank": "6",
+                "title": "2026年第五届数字农业发展大会在武汉落幕",
+                "extra": "",
+                "url": "http://www.zqrb.cn/huiyihuodong/2026-11-10/A1794281939108.html"
+              },
+              {
+                "rank": "7",
                 "title": "布局“天地对等”的太空算力网 中科星云正式成立",
                 "extra": "",
                 "url": "http://www.zqrb.cn/tmt/tmthangye/2026-11-09/A1794211492044.html"
               },
               {
-                "rank": "7",
+                "rank": "8",
                 "title": "海尔消金CIO梁树峰：AI正从效率工具演进为驱动产业变革的核心引擎",
                 "extra": "",
                 "url": "http://www.zqrb.cn/fund/jijinlunshi/2026-11-10/A1794281939104.html"
-              },
-              {
-                "rank": "8",
-                "title": "2026年第五届数字农业发展大会在武汉落幕",
-                "extra": "",
-                "url": "http://www.zqrb.cn/huiyihuodong/2026-11-10/A1794281939108.html"
               },
               {
                 "rank": "9",
@@ -2410,603 +2410,231 @@
             "items": [
               {
                 "rank": "1",
-                "title": "美国10月CPI环比0.4%、核心环比0.3%，双双超预期！",
-                "extra": "5.0万",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722480509.shtml"
+                "title": "分析称黄仁勋若卸任CEO，英伟达估值或缩水近30%",
+                "extra": "1441",
+                "url": "https://stock.10jqka.com.cn/20261111/c681676942.shtml"
               },
               {
                 "rank": "2",
-                "title": "301127，回购股份用途变更，将注销！多家公司宣布",
-                "extra": "4.4万",
-                "url": "https://stock.10jqka.com.cn/20261110/c681675476.shtml"
+                "title": "美防长称对其弹劾是一场打击特朗普的“政治作秀”",
+                "extra": "214",
+                "url": "https://stock.10jqka.com.cn/20261111/c681677011.shtml"
               },
               {
                 "rank": "3",
-                "title": "美股开盘：美股三大指数集体低开",
-                "extra": "3.6万",
-                "url": "https://stock.10jqka.com.cn/20261110/c681676461.shtml"
+                "title": "AMD发布第六代EPYC处理器",
+                "extra": "153",
+                "url": "https://stock.10jqka.com.cn/20261111/c681677216.shtml"
               },
               {
                 "rank": "4",
-                "title": "美国10月CPI指标涨幅超预期后，美债收益率跳升",
-                "extra": "2.2万",
-                "url": "https://stock.10jqka.com.cn/20261110/c681675734.shtml"
+                "title": "EIA短期能源展望报告：预计2026年美国天然气需求为923亿立方英尺/日",
+                "extra": "141",
+                "url": "https://stock.10jqka.com.cn/20261111/c681677157.shtml"
               },
               {
                 "rank": "5",
-                "title": "美国10年期国债收益率当日上涨10个基点至4.99%",
-                "extra": "1.1万",
-                "url": "https://news.10jqka.com.cn/20261110/c681676582.shtml"
+                "title": "英伟达将OpenShell捐赠给云原生基金会",
+                "extra": "127",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722504546.shtml"
               },
               {
                 "rank": "6",
-                "title": "李强签署国务院令 公布修订后的《基金会管理条例》",
-                "extra": "1.1万",
-                "url": "https://stock.10jqka.com.cn/20261110/c681664742.shtml"
+                "title": "【异动解读】NVIDIA公司1.5倍做空11月10日大涨：英伟达下跌+做空ETF上涨",
+                "extra": "113",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722505754.shtml"
               },
               {
                 "rank": "7",
-                "title": "美国10月CPI全面超预期！美联储12月加息几成定局 50个基点选项浮出水面",
-                "extra": "5041",
-                "url": "https://news.10jqka.com.cn/20261110/c681676049.shtml"
+                "title": "现货黄金失守4020美元/盎司",
+                "extra": "107",
+                "url": "https://stock.10jqka.com.cn/20261111/c681677090.shtml"
               },
               {
                 "rank": "8",
-                "title": "美联储加息，概率飙升！美股期货、黄金跳水",
-                "extra": "3123",
-                "url": "https://goodsfu.10jqka.com.cn/20261110/c681676420.shtml"
+                "title": "年内48家港股公司行使绿鞋机制 超额配售募资净额超284亿港元",
+                "extra": "107",
+                "url": "https://stock.10jqka.com.cn/20261111/c681677177.shtml"
               },
               {
                 "rank": "9",
-                "title": "阿联酋紧跟沙特下调原油售价 中东供应回升加剧份额争夺",
-                "extra": "2494",
-                "url": "https://news.10jqka.com.cn/20261110/c681675837.shtml"
+                "title": "东山精密高频参与度未破30增量有限",
+                "extra": "82",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722506147.shtml"
               },
               {
                 "rank": "10",
-                "title": "AI眼镜加速迭代 产业链竞逐高频应用",
-                "extra": "2460",
-                "url": "https://field.10jqka.com.cn/20261110/c681672335.shtml"
+                "title": "英伟达股价预测：黄仁勋调查与接班疑虑加重市场抛压，股价或跌破164美元多重支撑位",
+                "extra": "74",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722503384.shtml"
               },
               {
                 "rank": "11",
-                "title": "俄罗斯要名分，乌克兰又不愿割肉，美国人想了个“骚操作”",
-                "extra": "2036",
-                "url": "https://news.10jqka.com.cn/20261110/c681676458.shtml"
+                "title": "卫星星座组网加快推进 太空算力产业链上市公司面临发展良机",
+                "extra": "72",
+                "url": "https://stock.10jqka.com.cn/20261111/c681677250.shtml"
               },
               {
                 "rank": "12",
-                "title": "昂跑美股盘前跌超10%",
-                "extra": "1023",
-                "url": "https://stock.10jqka.com.cn/20261110/c681676257.shtml"
+                "title": "澳洋健康高频参与度跃升，量化资金加速布局",
+                "extra": "48",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722503882.shtml"
               },
               {
                 "rank": "13",
-                "title": "北向资金抢筹这些股",
-                "extra": "955",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722483628.shtml"
+                "title": "宇树科技高频26.96：真人局更慌",
+                "extra": "43",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722505134.shtml"
               },
               {
                 "rank": "14",
-                "title": "阿里拟分拆平头哥赴港上市 估值或在200亿至300亿美元",
-                "extra": "953",
-                "url": "https://stock.10jqka.com.cn/20261110/c681676417.shtml"
+                "title": "A股上市公司差异化布局AI应用细分赛道",
+                "extra": "42",
+                "url": "https://stock.10jqka.com.cn/20261111/c681677180.shtml"
               },
               {
                 "rank": "15",
-                "title": "SK海力士美股盘前跌超4%",
-                "extra": "941",
-                "url": "https://stock.10jqka.com.cn/20261110/c681675747.shtml"
+                "title": "宇树科技，超越昔日“股王”，跃居A股“探花”！",
+                "extra": "29",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722495448.shtml"
               },
               {
                 "rank": "16",
-                "title": "管辖权争议阻滞仲裁！厦门钨业索赔洛阳钼业 1.16 亿元一案被北仲中止",
-                "extra": "838",
-                "url": "https://stock.10jqka.com.cn/20261110/c681674958.shtml"
+                "title": "贾国龙夫妇先后质押西贝全部持股：合计超3200万元门店数量已缩水近半",
+                "extra": "29",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722502620.shtml"
               },
               {
                 "rank": "17",
-                "title": "青啤集团拟9.65亿元入主青岛食品",
-                "extra": "835",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722476782.shtml"
+                "title": "上海期货交易所授权行情服务机构名录",
+                "extra": "17",
+                "url": "https://goodsfu.10jqka.com.cn/20261111/c681677234.shtml"
               },
               {
                 "rank": "18",
-                "title": "贡献75%净利 沪市头部公司“压舱石”效应凸显",
-                "extra": "830",
-                "url": "https://news.10jqka.com.cn/20261110/c681675977.shtml"
+                "title": "压力给到A股！巅峰何时回？",
+                "extra": "16",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722480426.shtml"
               },
               {
                 "rank": "19",
-                "title": "粤高速Ａ：拟14.37亿元收购两公司股权，尚需股东会审议",
-                "extra": "693",
-                "url": "https://stock.10jqka.com.cn/20261110/c681672494.shtml"
+                "title": "天邦食品重整迎转折",
+                "extra": "14",
+                "url": "https://stock.10jqka.com.cn/20261111/c681677073.shtml"
               },
               {
                 "rank": "20",
-                "title": "i茅台“抢购”模式，要变了！",
-                "extra": "640",
-                "url": "https://stock.10jqka.com.cn/20261110/c681676179.shtml"
+                "title": "“路条”稀缺 承诺加码 A股破产重整“门槛”抬高",
+                "extra": "13",
+                "url": "https://stock.10jqka.com.cn/20261111/c681677253.shtml"
               },
               {
                 "rank": "21",
-                "title": "深夜，集体跳水！美联储，50BP加息概率飙升！",
-                "extra": "601",
-                "url": "https://news.10jqka.com.cn/20261110/c681676618.shtml"
+                "title": "新华传媒高频参与度高位活跃",
+                "extra": "12",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722507068.shtml"
               },
               {
                 "rank": "22",
-                "title": "A股风格转向科技应用，AI影视、人形机器人与端侧AI接力活跃",
-                "extra": "509",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722478354.shtml"
+                "title": "“双投”协同发力 券商以科创投资释放业绩弹性",
+                "extra": "12",
+                "url": "https://stock.10jqka.com.cn/20261111/c681677262.shtml"
               },
               {
                 "rank": "23",
-                "title": "特斯拉美股盘前跌超2%",
-                "extra": "489",
-                "url": "https://stock.10jqka.com.cn/20261110/c681675919.shtml"
+                "title": "十年最大改款！苹果二十周年iPhone爆料汇总：首发自研传感器、硅负极电池",
+                "extra": "11",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722501978.shtml"
               },
               {
                 "rank": "24",
-                "title": "长鑫科技11月10日大宗交易成交6313.50万元",
-                "extra": "454",
-                "url": "https://stock.10jqka.com.cn/20261110/c681675057.shtml"
+                "title": "5万亿元地下管网更新：怎么修建，资金在哪，谁来养护",
+                "extra": "11",
+                "url": "https://field.10jqka.com.cn/20261111/c681677237.shtml"
               },
               {
                 "rank": "25",
-                "title": "英伟达（NVDA）、美光（MU）及LamResearch（LRCX）被美银移出首选股名单",
-                "extra": "452",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722474892.shtml"
+                "title": "CBOT大豆主力合约涨超3%",
+                "extra": "11",
+                "url": "https://stock.10jqka.com.cn/20261111/c681677154.shtml"
               },
               {
                 "rank": "26",
-                "title": "今晚，多家公司发布利好！",
-                "extra": "431",
-                "url": "https://stock.10jqka.com.cn/20261110/c681674776.shtml"
+                "title": "粤传媒连涨高频参与度指标回落",
+                "extra": "7",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722505020.shtml"
               },
               {
                 "rank": "27",
-                "title": "文投控股：股票连续2日异动，无重大事项筹划，提示业绩及回落风险",
-                "extra": "417",
-                "url": "https://stock.10jqka.com.cn/20261110/c681672476.shtml"
+                "title": "药明和康龙，利润差在谁的项目上？",
+                "extra": "5",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722505517.shtml"
               },
               {
                 "rank": "28",
-                "title": "美俄乌三方会谈开始，俄罗斯外长：对特朗普政府不抱幻想",
-                "extra": "401",
-                "url": "https://news.10jqka.com.cn/20261110/c681675331.shtml"
+                "title": "广州交易团763名采购商“买全球”“卖全球”",
+                "extra": "5",
+                "url": "https://news.10jqka.com.cn/20261111/c681677017.shtml"
               },
               {
                 "rank": "29",
-                "title": "如瑞迪博士美股盘前跌超10%",
-                "extra": "383",
-                "url": "https://stock.10jqka.com.cn/20261110/c681676453.shtml"
+                "title": "从有形商品到无形算力 从中国网民到全球用户 双11，“十八变”",
+                "extra": "4",
+                "url": "https://field.10jqka.com.cn/20261111/c681677231.shtml"
               },
               {
                 "rank": "30",
-                "title": "菲外交部批评“某些政府官员”发表涉华不当言论",
-                "extra": "379",
-                "url": "https://stock.10jqka.com.cn/20261110/c681676265.shtml"
+                "title": "英国海上贸易行动办公室：阿曼附近海域一油轮遭不明飞射物击中",
+                "extra": "3",
+                "url": "https://stock.10jqka.com.cn/20261111/c681677021.shtml"
               },
               {
                 "rank": "31",
-                "title": "资金足够撑到明年底，美国造车新势力 Lucid 获最大股东 17.5 亿美元贷款额度",
-                "extra": "347",
-                "url": "https://news.10jqka.com.cn/20261110/c681676348.shtml"
+                "title": "SpaceX计划于11月17日从加州范登堡太空军基地的4E发射综合体",
+                "extra": "2",
+                "url": "https://stock.10jqka.com.cn/20261111/c681676980.shtml"
               },
               {
                 "rank": "32",
-                "title": "美联储理事暗示12月加息，金价闪跌",
-                "extra": "338",
-                "url": "https://goodsfu.10jqka.com.cn/20261110/c681675520.shtml"
+                "title": "机构加大半导体板块掘金力度",
+                "extra": "1",
+                "url": "https://stock.10jqka.com.cn/20261111/c681677236.shtml"
               },
               {
                 "rank": "33",
-                "title": "冰火两重天！三季度亏171亿新晋公募顶流遭遇滑铁卢",
-                "extra": "338",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722480585.shtml"
+                "title": "41家财险公司前三季度车均保费同比下降",
+                "extra": "1",
+                "url": "https://invest.10jqka.com.cn/20261111/c681677176.shtml"
               },
               {
                 "rank": "34",
-                "title": "一图看懂机器人／物理AI产业链：从数据仿真到精密执行的五层全景梳理",
-                "extra": "337",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722480482.shtml"
+                "title": "格林美：11月10日举办投资者接待日活动，大邑县驻深办、抱石投资等多家机构参与",
+                "extra": "1",
+                "url": "https://stock.10jqka.com.cn/20261111/c681677150.shtml"
               },
               {
                 "rank": "35",
-                "title": "第三批互换便利操作落地 多家券商完成首批股票买入",
-                "extra": "332",
-                "url": "https://news.10jqka.com.cn/20261110/c681675831.shtml"
+                "title": "【异动解读】麦思智能11月10日大跌：增发摊薄+高估值回调+大盘拖累",
+                "extra": "0",
+                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722505617.shtml"
               },
               {
                 "rank": "36",
-                "title": "世界模型打通虚实边界，AI互动影游迎来硬件与内容双轮爆发",
-                "extra": "326",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722481138.shtml"
+                "title": "爱利彼半导体设备（上海）股份有限公司启动上市辅导",
+                "extra": "0",
+                "url": "https://stock.10jqka.com.cn/20261111/c681677003.shtml"
               },
               {
                 "rank": "37",
-                "title": "美光科技美股盘前跌超2%",
-                "extra": "326",
-                "url": "https://stock.10jqka.com.cn/20261110/c681675505.shtml"
+                "title": "奥迪上汽战略合作 CEO 舒睿泽：未来三年将推出三款新车",
+                "extra": "0",
+                "url": "https://news.10jqka.com.cn/20261111/c681676990.shtml"
               },
               {
                 "rank": "38",
-                "title": "日本政府高官鼓吹应允许紧急情况下运进核武器",
-                "extra": "317",
-                "url": "https://stock.10jqka.com.cn/20261110/c681675978.shtml"
-              },
-              {
-                "rank": "39",
-                "title": "ST龙大被证监会立案 广州酒家逾15亿元用于扩建改造",
-                "extra": "304",
-                "url": "https://stock.10jqka.com.cn/20261110/c681673968.shtml"
-              },
-              {
-                "rank": "40",
-                "title": "科创板今日大宗交易成交2.99亿元",
-                "extra": "295",
-                "url": "https://stock.10jqka.com.cn/20261110/c681675090.shtml"
-              },
-              {
-                "rank": "41",
-                "title": "LME铝主力合约跌超3%",
-                "extra": "278",
-                "url": "https://stock.10jqka.com.cn/20261110/c681676127.shtml"
-              },
-              {
-                "rank": "42",
-                "title": "光迅科技：2026年半年度权益分派实施公告",
-                "extra": "275",
-                "url": "https://stock.10jqka.com.cn/20261110/c681675399.shtml"
-              },
-              {
-                "rank": "43",
-                "title": "哈药股份：关于所属企业药品通过仿制药一致性评价的公告",
-                "extra": "274",
-                "url": "https://stock.10jqka.com.cn/20261110/c681672962.shtml"
-              },
-              {
-                "rank": "44",
-                "title": "美股三大股指集体低开 英伟达开盘续跌近3%",
-                "extra": "271",
-                "url": "https://stock.10jqka.com.cn/20261110/c681676487.shtml"
-              },
-              {
-                "rank": "45",
-                "title": "恩捷股份：关于股东部分股份质押变动的公告",
-                "extra": "259",
-                "url": "https://stock.10jqka.com.cn/20261110/c681675403.shtml"
-              },
-              {
-                "rank": "46",
-                "title": "尾盘，利好突袭！",
-                "extra": "241",
-                "url": "https://stock.10jqka.com.cn/20261110/c681654677.shtml"
-              },
-              {
-                "rank": "47",
-                "title": "CPI指标涨幅超预期后，国债收益率大幅上涨",
-                "extra": "233",
-                "url": "https://news.10jqka.com.cn/20261110/c681675715.shtml"
-              },
-              {
-                "rank": "48",
-                "title": "【异动解读】原油期货大跌：地缘局势缓和+现货宽松+供应过剩",
-                "extra": "231",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722477917.shtml"
-              },
-              {
-                "rank": "49",
-                "title": "LME铜主力合约跌超1%",
-                "extra": "226",
-                "url": "https://stock.10jqka.com.cn/20261110/c681676131.shtml"
-              },
-              {
-                "rank": "50",
-                "title": "中兵红箭：如有回购注销等重大事项，公司将及时履行信息披露义务",
-                "extra": "211",
-                "url": "https://stock.10jqka.com.cn/20261110/c681675242.shtml"
-              },
-              {
-                "rank": "51",
-                "title": "放量增仓下跌，玉米又要跌了？",
-                "extra": "203",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722462281.shtml"
-              },
-              {
-                "rank": "52",
-                "title": "APQP4Wind首个区域委员会落地中国 金风科技任主席单位",
-                "extra": "198",
-                "url": "https://stock.10jqka.com.cn/20261110/c681672609.shtml"
-              },
-              {
-                "rank": "53",
-                "title": "圣邦股份收购未果、两次IPO折戟，钰泰股份拟“卖身”艾为电子",
-                "extra": "188",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722469942.shtml"
-              },
-              {
-                "rank": "54",
-                "title": "广东汕头超声电子股份有限公司中标新项目",
-                "extra": "186",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722464707.shtml"
-              },
-              {
-                "rank": "55",
-                "title": "格林美：2025年多项业务出货量同比显著提升",
-                "extra": "185",
-                "url": "https://stock.10jqka.com.cn/20261110/c681675699.shtml"
-              },
-              {
-                "rank": "56",
-                "title": "茅台：i茅台贵州茅台酒售卖机制优化 16款产品全天动态补货",
-                "extra": "180",
-                "url": "https://stock.10jqka.com.cn/20261110/c681675001.shtml"
-              },
-              {
-                "rank": "57",
-                "title": "冰雪产业概念走强！两股走出9天5板",
-                "extra": "180",
-                "url": "https://field.10jqka.com.cn/20261110/c681669632.shtml"
-              },
-              {
-                "rank": "58",
-                "title": "外交部：中美双方就两国元首年内互动安排保持着沟通",
-                "extra": "178",
-                "url": "https://stock.10jqka.com.cn/20261110/c681653534.shtml"
-              },
-              {
-                "rank": "59",
-                "title": "美国2至5年期国债收益率当日上涨至少10个基点",
-                "extra": "175",
-                "url": "https://bond.10jqka.com.cn/20261110/c681675772.shtml"
-              },
-              {
-                "rank": "60",
-                "title": "曾毓群博士获Benchmark终身成就奖",
-                "extra": "173",
-                "url": "https://news.10jqka.com.cn/20261110/c681675640.shtml"
-              },
-              {
-                "rank": "61",
-                "title": "股价跌去30%，章建平妻子方文艳一股没卖",
-                "extra": "168",
-                "url": "https://stock.10jqka.com.cn/20261110/c681672019.shtml"
-              },
-              {
-                "rank": "62",
-                "title": "东吴证券：11月17日并购重组审核委员会将审核收购东海证券83.68%股份事项",
-                "extra": "166",
-                "url": "https://stock.10jqka.com.cn/20261110/c681675225.shtml"
-              },
-              {
-                "rank": "63",
-                "title": "国产球幕，利亚德走出不一样的路",
-                "extra": "163",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722469169.shtml"
-              },
-              {
-                "rank": "64",
-                "title": "被俄接管后 日本烟草损失恐达1.3万亿日元",
-                "extra": "159",
-                "url": "https://stock.10jqka.com.cn/20261110/c681675432.shtml"
-              },
-              {
-                "rank": "65",
-                "title": "皇台酒业：2026年第二次临时股东会决议公告",
-                "extra": "158",
-                "url": "https://stock.10jqka.com.cn/20261110/c681675754.shtml"
-              },
-              {
-                "rank": "66",
-                "title": "澳洋健康高频参与度激增5倍，量化资金深度介入",
-                "extra": "154",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722474992.shtml"
-              },
-              {
-                "rank": "67",
-                "title": "中重科技：2025年限制性股票激励计划预留授予结果公告",
-                "extra": "150",
-                "url": "https://stock.10jqka.com.cn/20261110/c681676189.shtml"
-              },
-              {
-                "rank": "68",
-                "title": "外围狂欢，回暖只是温柔陷阱，真正的考验还在后头",
-                "extra": "149",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722454751.shtml"
-              },
-              {
-                "rank": "69",
-                "title": "中国船舶：2026年第三季度业绩说明会预告公告",
-                "extra": "148",
-                "url": "https://stock.10jqka.com.cn/20261110/c681676221.shtml"
-              },
-              {
-                "rank": "70",
-                "title": "久日新材：拟以1欧元收购Ignition New Midco B.V.100%股权，尚需股东会审议",
-                "extra": "143",
-                "url": "https://stock.10jqka.com.cn/20261110/c681674886.shtml"
-              },
-              {
-                "rank": "71",
-                "title": "期市夜盘开盘，国内期货主力合约多数下跌",
-                "extra": "143",
-                "url": "https://goodsfu.10jqka.com.cn/20261110/c681675155.shtml"
-              },
-              {
-                "rank": "72",
-                "title": "【减持速览】11月10号这些公司减持了",
-                "extra": "132",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722487385.shtml"
-              },
-              {
-                "rank": "73",
-                "title": "豫园股份：截至11月9日公司累计回购股份40242322股",
-                "extra": "131",
-                "url": "https://stock.10jqka.com.cn/20261110/c681676074.shtml"
-              },
-              {
-                "rank": "74",
-                "title": "存储概念股盘初普跌闪迪（SNDK）跌3.28%大摩分析师指市场对内存增长动能可持续性持怀疑态度",
-                "extra": "130",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722491037.shtml"
-              },
-              {
-                "rank": "75",
-                "title": "广发证券：新一轮康波周期，研发和技术基础设施投资崛起、硬件出口扩大",
-                "extra": "129",
-                "url": "https://stock.10jqka.com.cn/20261110/c681676543.shtml"
-              },
-              {
-                "rank": "76",
-                "title": "「机器人+」锋龙股份斩获二连板背后：零件商正向整机玩家进行身份跃迁",
-                "extra": "128",
-                "url": "https://stock.10jqka.com.cn/20261110/c681675613.shtml"
-              },
-              {
-                "rank": "77",
-                "title": "端侧Ai专题：SoC芯片价值重估",
-                "extra": "127",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722466145.shtml"
-              },
-              {
-                "rank": "78",
-                "title": "众合科技旗下美丽人生健康集团与新西兰尚膳达成战略合作",
-                "extra": "125",
-                "url": "https://stock.10jqka.com.cn/20261110/c681675722.shtml"
-              },
-              {
-                "rank": "79",
-                "title": "赛福天：关于下属公司完成工商变更登记的公告",
-                "extra": "124",
-                "url": "https://stock.10jqka.com.cn/20261110/c681675010.shtml"
-              },
-              {
-                "rank": "80",
-                "title": "黄仁勋、英伟达，遭股东集体诉讼！",
-                "extra": "122",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722061974.shtml"
-              },
-              {
-                "rank": "81",
-                "title": "净利26亿创新高，市值却蒸发1400亿！沪电10亿回购能否止跌",
-                "extra": "121",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722464643.shtml"
-              },
-              {
-                "rank": "82",
-                "title": "捷荣技术：收到证监会行政处罚事先告知书",
-                "extra": "118",
-                "url": "https://stock.10jqka.com.cn/20261110/c681674900.shtml"
-              },
-              {
-                "rank": "83",
-                "title": "PEPGEN股票恢复交易，试验结果公布后股价飙升80%",
-                "extra": "118",
-                "url": "https://stock.10jqka.com.cn/20261110/c681673716.shtml"
-              },
-              {
-                "rank": "84",
-                "title": "业绩同比环比暴增+超跌的硬科技股，多股拟大举回购（附名单）",
-                "extra": "117",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722437343.shtml"
-              },
-              {
-                "rank": "85",
-                "title": "中亦科技：暂未涉及人形机器人或工业机器人领域",
-                "extra": "116",
-                "url": "https://stock.10jqka.com.cn/20261110/c681676489.shtml"
-              },
-              {
-                "rank": "86",
-                "title": "律师用八张二手V100搭建私有AI服务器",
-                "extra": "115",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722479276.shtml"
-              },
-              {
-                "rank": "87",
-                "title": "皇台酒业：完成董事会换届选举及聘任修卫华等多名高管",
-                "extra": "115",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722468712.shtml"
-              },
-              {
-                "rank": "88",
-                "title": "美国将暂停南非和卢旺达的AGOA享惠资格",
-                "extra": "113",
-                "url": "https://news.10jqka.com.cn/20261110/c681676392.shtml"
-              },
-              {
-                "rank": "89",
-                "title": "天融信注销股票期权190.7万份两激励计划实施完毕",
-                "extra": "110",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722479880.shtml"
-              },
-              {
-                "rank": "90",
-                "title": "全球首创三靶点激动剂DR10624临床II期数据揭晓",
-                "extra": "109",
-                "url": "https://field.10jqka.com.cn/20261110/c681675970.shtml"
-              },
-              {
-                "rank": "91",
-                "title": "甘李药业甘精胰岛素注射液（预填充笔）在巴林获批",
-                "extra": "109",
-                "url": "https://stock.10jqka.com.cn/20261110/c681676018.shtml"
-              },
-              {
-                "rank": "92",
-                "title": "普冉股份筹划发行H股股票并在香港联交所上市",
-                "extra": "108",
-                "url": "https://stock.10jqka.com.cn/20261110/c681672489.shtml"
-              },
-              {
-                "rank": "93",
-                "title": "养殖股、生猪期货突然“抢跑”！市场有新情况？",
-                "extra": "107",
-                "url": "https://goodsfu.10jqka.com.cn/20261110/c681672085.shtml"
-              },
-              {
-                "rank": "94",
-                "title": "GGII：1-9月新能源客车用电池装机量为5.7GWh 宁德时代占据绝对主导地位",
-                "extra": "105",
-                "url": "https://field.10jqka.com.cn/20261110/c681672020.shtml"
-              },
-              {
-                "rank": "95",
-                "title": "光库科技：第四届董事会第三十次会议决议公告",
-                "extra": "105",
-                "url": "https://stock.10jqka.com.cn/20261110/c681672935.shtml"
-              },
-              {
-                "rank": "96",
-                "title": "【异动解读】沪铝期货大跌：加息预期升温+海外供应转向宽松+需求走弱与去库放缓",
-                "extra": "101",
-                "url": "https://t.10jqka.com.cn/m/zhibo/pid_722487115.shtml"
-              },
-              {
-                "rank": "97",
-                "title": "2026人工智能创新生态大会举办 加速推动人工智能与千行百业深度融合",
-                "extra": "98",
-                "url": "https://field.10jqka.com.cn/20261110/c681675219.shtml"
-              },
-              {
-                "rank": "98",
-                "title": "新华制药：第十一届董事会2026年第三次临时会议决议公告",
-                "extra": "98",
-                "url": "https://stock.10jqka.com.cn/20261110/c681675992.shtml"
-              },
-              {
-                "rank": "99",
-                "title": "7天5板大晟文化：股票交易异常波动，存在股价大幅上涨后快速回落风险",
-                "extra": "98",
-                "url": "https://stock.10jqka.com.cn/20261110/c681671172.shtml"
-              },
-              {
-                "rank": "100",
-                "title": "博迁新材：关于放弃参股公司增资优先认购权暨关联交易的公告",
-                "extra": "97",
-                "url": "https://news.10jqka.com.cn/20261110/c681672577.shtml"
+                "title": "CPI之夜黄金怎么走：一份事件前后的市场复盘框架",
+                "extra": "0",
+                "url": "https://news.10jqka.com.cn/20261111/c681676972.shtml"
               }
             ]
           },
@@ -3136,7 +2764,7 @@
               },
               {
                 "rank": "",
-                "title": "美股三大指数小幅下跌 半导体板块持续反弹 国际原油、金银价格同步下挫",
+                "title": "美股三大指数震荡下跌 纳指跌超1% 国际金银价格下挫",
                 "extra": "",
                 "url": "https://finance.eastmoney.com/a/202611103927654526.html"
               },
@@ -3292,9 +2920,9 @@
               },
               {
                 "rank": "4",
-                "title": "前OpenAI员工看吐，AI研发AI冲线“终极超级智能”，停建全球机房也晚了",
+                "title": "突发，特朗普自曝警告某AI巨头CEO：准备坐牢吧",
                 "extra": "",
-                "url": "https://www.36kr.com/p/4062414893716612"
+                "url": "https://www.36kr.com/p/4063523778450313"
               },
               {
                 "rank": "5",
@@ -3304,21 +2932,21 @@
               },
               {
                 "rank": "6",
-                "title": "第一个被AI做大的国家，现在怎么样了？",
+                "title": "字节新图像模型来了，一张图连改100轮不崩，精准指哪改哪，API降价",
                 "extra": "",
-                "url": "https://www.36kr.com/p/4062425405576321"
+                "url": "https://www.36kr.com/p/4062649042736002"
               },
               {
                 "rank": "7",
-                "title": "突发，特朗普自曝警告某AI巨头CEO：准备坐牢吧",
+                "title": "一台机器 2000 万，隐秘的天价 GPU 生意 | 深氪 Lite",
                 "extra": "",
-                "url": "https://www.36kr.com/p/4063523778450313"
+                "url": "https://www.36kr.com/p/4063602885039238"
               },
               {
                 "rank": "8",
-                "title": "印度自研模型社死，照搬千问，仅塞提示词硬充印度造",
+                "title": "豆包的馅儿，是抖音商城",
                 "extra": "",
-                "url": "https://www.36kr.com/p/4062389213533056"
+                "url": "https://www.36kr.com/p/4063607098364802"
               }
             ]
           },
@@ -3706,75 +3334,75 @@
             "items": [
               {
                 "rank": "1",
-                "title": "英伟达黄仁勋承认出轨，消息称其去年已聘请擅长处理丑闻的危机公关公司",
-                "extra": "244评",
-                "url": "https://m.ithome.com/html/1024565.htm"
-              },
-              {
-                "rank": "2",
                 "title": "华为官宣 MateBook Fold S 鸿蒙小折叠电脑 11 月 14 日开启预订",
-                "extra": "264评",
+                "extra": "269评",
                 "url": "https://m.ithome.com/html/1024618.htm"
               },
               {
-                "rank": "3",
-                "title": "《GTA 6》PS5 版正式开启预载，XBOX Series X｜S 需等到北京时间早上 8 点",
-                "extra": "174评",
-                "url": "https://m.ithome.com/html/1024566.htm"
-              },
-              {
-                "rank": "4",
+                "rank": "2",
                 "title": "苹果 iOS/iPadOS 27.2.1 正式版发布",
-                "extra": "72评",
+                "extra": "76评",
                 "url": "https://m.ithome.com/html/1024583.htm"
               },
               {
-                "rank": "5",
+                "rank": "3",
                 "title": "8 天从零搓出操作系统：Anthropic 最强 Claude Fable / Mythos 5.2 AI 模型登场，API 调用费下降 20%",
-                "extra": "62评",
+                "extra": "69评",
                 "url": "https://m.ithome.com/html/1024573.htm"
               },
               {
-                "rank": "6",
+                "rank": "4",
+                "title": "苹果 iPhone Air 2 机模曝光：厚度 5.2 毫米、新增 4800 万像素超广角镜头",
+                "extra": "148评",
+                "url": "https://m.ithome.com/html/1024840.htm"
+              },
+              {
+                "rank": "5",
                 "title": "华为 MateBook Fold S 鸿蒙小折叠电脑三色外观公布：搭载 Live 小方屏，11 月 14 日预订",
-                "extra": "225评",
+                "extra": "227评",
                 "url": "https://m.ithome.com/html/1024742.htm"
               },
               {
-                "rank": "7",
+                "rank": "6",
                 "title": "余承东预告华为 MateBook Fold S 小折电脑即将发布，全新背屏设计",
                 "extra": "194评",
                 "url": "https://m.ithome.com/html/1024600.htm"
               },
               {
-                "rank": "8",
-                "title": "苹果 iPhone Air 2 机模曝光：厚度 5.2 毫米、新增 4800 万像素超广角镜头",
-                "extra": "145评",
-                "url": "https://m.ithome.com/html/1024840.htm"
-              },
-              {
-                "rank": "9",
+                "rank": "7",
                 "title": "512G 国补后 2744 元：华为 Mate 70 Air 再降新低，双卡双扬多摄大电池",
-                "extra": "137评",
+                "extra": "135评",
                 "url": "https://m.ithome.com/html/1024606.htm"
               },
               {
-                "rank": "10",
+                "rank": "8",
                 "title": "董明珠回应格力电器业绩下滑：因为铜在涨价，宁可损失几十亿利润，也不降低产品品质",
-                "extra": "203评",
+                "extra": "205评",
                 "url": "https://m.ithome.com/html/1024617.htm"
               },
               {
-                "rank": "11",
+                "rank": "9",
                 "title": "黄仁勋出轨丑闻发酵，英伟达市值一夜蒸发逾 1900 亿美元",
-                "extra": "150评",
+                "extra": "152评",
                 "url": "https://m.ithome.com/html/1024722.htm"
               },
               {
-                "rank": "12",
+                "rank": "10",
                 "title": "第五代骁龙 8 至尊：小米 17 Max 手机 16G+256G 首发 5099 → 国补 3593 元，徕卡 2 亿主摄",
-                "extra": "83评",
+                "extra": "88评",
                 "url": "https://m.ithome.com/html/1024695.htm"
+              },
+              {
+                "rank": "11",
+                "title": "英伟达黄仁勋遭股东集体诉讼，出轨丑闻致公司市值蒸发超万亿元",
+                "extra": "105评",
+                "url": "https://m.ithome.com/html/1024756.htm"
+              },
+              {
+                "rank": "12",
+                "title": "首款「逻辑折叠」技术 τ 芯片：华为详解麒麟 9050 系列核心升级，晶体管密度暴涨 53.5%",
+                "extra": "132评",
+                "url": "https://m.ithome.com/html/1024869.htm"
               }
             ]
           }
